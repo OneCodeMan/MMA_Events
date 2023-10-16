@@ -19,17 +19,18 @@ type Event struct {
 }
 
 type Fighter struct {
-	Name      string `json:"name"`
-	Wins      int    `json:"wins"`
-	Losses    int    `json:"losses"`
-	Draws     int    `json:"draws"`
-	NoContest int    `json:"no_contest"`
+	Name   string `json:"name"`
+	Record string `json:"record"`
+	// Wins      int    `json:"wins"`
+	// Losses    int    `json:"losses"`
+	// Draws     int    `json:"draws"`
+	// NoContest int    `json:"no_contest"`
 }
 type Fight struct {
 	FighterOne  Fighter `json:"fighter_one"`
 	FighterTwo  Fighter `json:"fighter_two"`
 	WeightClass string  `json:"weight"`
-	Order       int     `json:"order"`
+	// Order       int     `json:"order"`
 }
 
 // Main
@@ -67,16 +68,50 @@ func runMMAScraper() {
 
 		fullEventUrl := h.Request.URL.String()
 
+		// Only run this if we're on an event page.
+		// Other pages such 'organizations' have similar elements -- we do not want those.
 		if strings.Contains(fullEventUrl, "/events/") {
 			organizationName := h.ChildText("div.event_detail a[itemprop=url]")
 			eventTitleString := h.ChildText("div.event_detail h1")
 			eventDateString := h.ChildText("div.event_detail div.info span:nth-child(1)")
 			eventLocationString := h.ChildText("span[itemprop=location]")
 
-			fmt.Println(organizationName, eventTitleString, eventDateString, eventLocationString)
-			fmt.Println("------------")
+			// fmt.Println(organizationName, eventTitleString, eventDateString, eventLocationString)
+			// fmt.Println("------------")
 
-			var fights []Fight
+			fights := make([]Fight, 0)
+
+			mainEventFighterOneName := h.ChildText("div.left_side h3")
+			mainEventFighterTwoName := h.ChildText("div.right_side h3")
+
+			if (mainEventFighterOneName != "") && (mainEventFighterTwoName != "") {
+				// fmt.Printf("Main Event: %s vs. %s\n", mainEventFighterOneName, mainEventFighterTwoName)
+
+				mainEventFighterOneRecord := h.ChildText("div.left_side span.record")
+				mainEventFighterOne := Fighter{
+					Name:   mainEventFighterOneName,
+					Record: mainEventFighterOneRecord,
+				}
+
+				mainEventFighterTwoRecord := h.ChildText("div.right_side span.record")
+				mainEventFighterTwo := Fighter{
+					Name:   mainEventFighterTwoName,
+					Record: mainEventFighterTwoRecord,
+				}
+
+				mainEventWeightClass := h.ChildText("div.versus span.weight_class")
+
+				mainEventFight := Fight{
+					FighterOne:  mainEventFighterOne,
+					FighterTwo:  mainEventFighterTwo,
+					WeightClass: mainEventWeightClass,
+				}
+
+				fmt.Println("MAIN EVENT", mainEventFight)
+				fights = append(fights, mainEventFight)
+
+				// TODO: then do the rest of the fights
+			}
 
 			currentEvent := Event{
 				Organization: organizationName,

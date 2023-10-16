@@ -1,99 +1,23 @@
 [
  {
- "organization": "Professional Fighters League",
- "title": "Professional Fighters League - PFL Europe 4: 2023 Finals",
- "location": "3Arena, Dublin, Ireland",
- "date": "Dec 8, 2023",
- "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-4-2023-Finals-96179",
- "fights": null
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night 231 - Almeida vs. Lewis",
- "location": "Ibirapuera Gymnasium, Sao Paulo, Sao Paulo, Brazil",
- "date": "Nov 4, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-231-Almeida-vs-Lewis-98060",
- "fights": null
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Dec. 9",
- "location": "Mercedes-Benz Arena, Shanghai, China",
- "date": "Dec 9, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-9-99468",
- "fights": null
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Jan. 13",
- "location": "UFC Apex, Las Vegas, Nevada, United States",
- "date": "Jan 13, 2024",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Jan-13-99605",
- "fights": null
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 294 - Makhachev vs. Volkanovski 2",
- "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
- "date": "Oct 21, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-294-Makhachev-vs-Volkanovski-2-97019",
- "fights": null
- },
- {
  "organization": "Bellator MMA",
  "title": "Bellator 301 - Amosov vs. Jackson",
  "location": "Wintrust Arena, Chicago, Illinois, United States",
  "date": "Nov 17, 2023",
  "event_url": "https://www.sherdog.com/events/Bellator-301-Amosov-vs-Jackson-99439",
- "fights": null
- },
+ "fights": [
  {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 296 - Edwards vs. Covington",
- "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
- "date": "Dec 16, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-296-Edwards-vs-Covington-98050",
- "fights": null
+ "fighter_one": {
+ "name": "Yaroslav Amosov",
+ "record": "27-0-0 (Win-Loss-Draw)"
  },
- {
- "organization": "Professional Fighters League",
- "title": "Professional Fighters League - 2023 Season PFL Championships",
- "location": "The Anthem, Washington, D.C., United States",
- "date": "Nov 24, 2023",
- "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2023-Season-PFL-Championships-98844",
- "fights": null
+ "fighter_two": {
+ "name": "Jason Jackson",
+ "record": "16-4-0 (Win-Loss-Draw)"
  },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 297 - Jan. 20",
- "location": "Scotiabank Arena, Toronto, Ontario, Canada",
- "date": "Jan 20, 2024",
- "event_url": "https://www.sherdog.com/events/UFC-297-Jan-20-99740",
- "fights": null
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Dec. 2",
- "location": "Moody Center, Austin, Texas, United States",
- "date": "Dec 2, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-2-99135",
- "fights": null
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night 232 - Allen vs. Craig",
- "location": "UFC Apex, Las Vegas, Nevada, United States",
- "date": "Nov 18, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-232-Allen-vs-Craig-98054",
- "fights": null
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 295 - Jones vs. Miocic",
- "location": "Madison Square Garden, New York, New York, United States",
- "date": "Nov 11, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-295-Jones-vs-Miocic-98494",
- "fights": null
+ "weight": "Welterweight"
+ }
+ ]
  },
  {
  "organization": "ONE Championship",
@@ -101,15 +25,7 @@
  "location": "TBD",
  "date": "Dec 8, 2023",
  "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-17-99705",
- "fights": null
- },
- {
- "organization": "ONE Championship",
- "title": "One Championship - One Friday Fights 38",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Oct 27, 2023",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-38-99761",
- "fights": null
+ "fights": []
  },
  {
  "organization": "ONE Championship",
@@ -117,7 +33,236 @@
  "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
  "date": "Nov 3, 2023",
  "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-16-Haggerty-vs-Andrade-99343",
- "fights": null
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Jonathan Haggerty",
+ "record": "0-0-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Fabricio Andrade",
+ "record": "9-2-0 (Win-Loss-Draw)"
+ },
+ "weight": "Featherweight"
+ }
+ ]
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 38",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Oct 27, 2023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-38-99761",
+ "fights": []
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 231 - Almeida vs. Lewis",
+ "location": "Ibirapuera Gymnasium, Sao Paulo, Sao Paulo, Brazil",
+ "date": "Nov 4, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-231-Almeida-vs-Lewis-98060",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Jailton Almeida",
+ "record": "19-2-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Derrick Lewis",
+ "record": "27-11-0 (Win-Loss-Draw)"
+ },
+ "weight": "Heavyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Dec. 9",
+ "location": "Mercedes-Benz Arena, Shanghai, China",
+ "date": "Dec 9, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-9-99468",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Andre Muniz",
+ "record": "23-6-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Jun Yong Park",
+ "record": "17-5-0 (Win-Loss-Draw)"
+ },
+ "weight": "Middleweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Dec. 2",
+ "location": "Moody Center, Austin, Texas, United States",
+ "date": "Dec 2, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-2-99135",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Jared Cannonier",
+ "record": "17-6-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Roman Dolidze",
+ "record": "12-2-0 (Win-Loss-Draw)"
+ },
+ "weight": "Middleweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 295 - Jones vs. Miocic",
+ "location": "Madison Square Garden, New York, New York, United States",
+ "date": "Nov 11, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-295-Jones-vs-Miocic-98494",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Jon Jones",
+ "record": "27-1-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Stipe Miocic",
+ "record": "20-4-0 (Win-Loss-Draw)"
+ },
+ "weight": "Heavyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 232 - Allen vs. Craig",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Nov 18, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-232-Allen-vs-Craig-98054",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Brendan Allen",
+ "record": "22-5-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Paul Craig",
+ "record": "17-6-1 (Win-Loss-Draw)"
+ },
+ "weight": "Middleweight"
+ }
+ ]
+ },
+ 
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 294 - Makhachev vs. Volkanovski 2",
+ "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
+ "date": "Oct 21, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-294-Makhachev-vs-Volkanovski-2-97019",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Islam Makhachev",
+ "record": "24-1-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Alexander Volkanovski",
+ "record": "26-2-0 (Win-Loss-Draw)"
+ },
+ "weight": "Lightweight"
+ }
+ ]
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Europe 4: 2023 Finals",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Dec 8, 2023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-4-2023-Finals-96179",
+ "fights": []
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - 2023 Season PFL Championships",
+ "location": "The Anthem, Washington, D.C., United States",
+ "date": "Nov 24, 2023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2023-Season-PFL-Championships-98844",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Clay Collard",
+ "record": "24-10-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Olivier Aubin-Mercier",
+ "record": "20-5-0 (Win-Loss-Draw)"
+ },
+ "weight": "Lightweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Jan. 13",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jan 13, 2024",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Jan-13-99605",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Mario Bautista",
+ "record": "13-2-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Ricky Simon",
+ "record": "20-4-0 (Win-Loss-Draw)"
+ },
+ "weight": "Bantamweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 297 - Jan. 20",
+ "location": "Scotiabank Arena, Toronto, Ontario, Canada",
+ "date": "Jan 20, 2024",
+ "event_url": "https://www.sherdog.com/events/UFC-297-Jan-20-99740",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Arnold Allen",
+ "record": "19-2-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Movsar Evloev",
+ "record": "17-0-0 (Win-Loss-Draw)"
+ },
+ "weight": "Featherweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 296 - Edwards vs. Covington",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Dec 16, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-296-Edwards-vs-Covington-98050",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Leon Edwards",
+ "record": "21-3-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Colby Covington",
+ "record": "17-3-0 (Win-Loss-Draw)"
+ },
+ "weight": "Welterweight"
+ }
+ ]
  },
  {
  "organization": "ONE Championship",
@@ -125,6 +270,6 @@
  "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
  "date": "Oct 20, 2023",
  "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-37-99760",
- "fights": null
+ "fights": []
  }
  ]
