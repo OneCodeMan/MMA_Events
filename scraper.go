@@ -10,11 +10,12 @@ import (
 // Structs
 
 type Event struct {
-	Organization string `json:"organization"`
-	Title        string `json:"title"`
-	Location     string `json:"location"`
-	Date         string `json:"date"`
-	EventUrl     string `json:"event_url"`
+	Organization string  `json:"organization"`
+	Title        string  `json:"title"`
+	Location     string  `json:"location"`
+	Date         string  `json:"date"`
+	EventUrl     string  `json:"event_url"`
+	Fights       []Fight `json:"fights"`
 }
 
 type Fighter struct {
@@ -64,28 +65,33 @@ func runMMAScraper() {
 			extractedEventUrl := el.ChildAttr("td:nth-child(2) a", "href")
 			fullEventUrl := h.Request.AbsoluteURL(extractedEventUrl)
 
+			if strings.Contains(fullEventUrl, "/events/") {
+				fmt.Println("Visiting", fullEventUrl)
+				c.Visit(fullEventUrl)
+			}
+
+			var fights []Fight
+
+			// Actual fight data
+			c.OnHTML("", func(h *colly.HTMLElement) {
+
+			})
+
+			// Create the event, append it.
+			// TODO: Implement Fights
 			currentEvent := Event{
 				Organization: organizationName,
 				Title:        eventTitleString,
 				Location:     eventLocationString,
 				Date:         eventDateString,
 				EventUrl:     fullEventUrl,
+				Fights:       fights,
 			}
 
 			if (eventTitleString != "Fight Title") && (eventLocationString != "Location") && (eventDateString != "Date") {
 				events = append(events, currentEvent)
 			}
-
-			if strings.Contains(fullEventUrl, "/events/") {
-				fmt.Println("Visiting", fullEventUrl)
-				c.Visit(fullEventUrl)
-			}
 		})
-	})
-
-	// Actual fight data
-	c.OnHTML("", func(h *colly.HTMLElement) {
-
 	})
 
 	// Print out where we're going whenever we go there
