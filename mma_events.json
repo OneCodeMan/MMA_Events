@@ -1,72 +1,779 @@
 [
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "Fight Title",
  "location": "Location",
  "date": "Date",
  "event_url": "https://www.sherdog.com/organizations/Ultimate-Fighting-Championship-UFC-2"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC 294 - Makhachev vs. Volkanovski 2",
  "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
  "date": "Oct212023",
  "event_url": "https://www.sherdog.com/events/UFC-294-Makhachev-vs-Volkanovski-2-97019"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC Fight Night 231 - Almeida vs. Lewis",
  "location": "Ibirapuera Gymnasium, Sao Paulo, Sao Paulo, Brazil",
  "date": "Nov042023",
  "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-231-Almeida-vs-Lewis-98060"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC 295 - Jones vs. Miocic",
  "location": "Madison Square Garden, New York, New York, United States",
  "date": "Nov112023",
  "event_url": "https://www.sherdog.com/events/UFC-295-Jones-vs-Miocic-98494"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC Fight Night 232 - Allen vs. Craig",
  "location": "UFC Apex, Las Vegas, Nevada, United States",
  "date": "Nov182023",
  "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-232-Allen-vs-Craig-98054"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC Fight Night - Dec. 2",
  "location": "Moody Center, Austin, Texas, United States",
  "date": "Dec022023",
  "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-2-99135"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC Fight Night - Dec. 9",
  "location": "Mercedes-Benz Arena, Shanghai, China",
  "date": "Dec092023",
  "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-9-99468"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC 296 - Edwards vs. Covington",
  "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
  "date": "Dec162023",
  "event_url": "https://www.sherdog.com/events/UFC-296-Edwards-vs-Covington-98050"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC Fight Night - Jan. 13",
  "location": "UFC Apex, Las Vegas, Nevada, United States",
  "date": "Jan132024",
  "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Jan-13-99605"
  },
  {
- "organization": "UFC",
+ "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC 297 - Jan. 20",
  "location": "Scotiabank Arena, Toronto, Ontario, Canada",
  "date": "Jan202024",
  "event_url": "https://www.sherdog.com/events/UFC-297-Jan-20-99740"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "Fight Title",
+ "location": "Location",
+ "date": "Date",
+ "event_url": "https://www.sherdog.com/organizations/Ultimate-Fighting-Championship-UFC-2"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 230 - Yusuff vs. Barboza",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct142023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-230-Yusuff-vs-Barboza-98595"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 229 - Dawson vs. Green",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct072023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-229-Dawson-vs-Green-98053"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 228 - Fiziev vs. Gamrot",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Sep232023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-228-Fiziev-vs-Gamrot-98052"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 227 - Grasso vs. Shevchenko 2",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Sep162023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-227-Grasso-vs-Shevchenko-2-98051"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 293 - Adesanya vs. Strickland",
+ "location": "Qudos Bank Arena, Sydney, New South Wales, Australia",
+ "date": "Sep092023",
+ "event_url": "https://www.sherdog.com/events/UFC-293-Adesanya-vs-Strickland-98049"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 226 - Gane vs. Spivak",
+ "location": "Accor Arena, Paris, France",
+ "date": "Sep022023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-226-Gane-vs-Spivak-98110"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC Season 2: Singapore Semifinals 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Aug272023",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Season-2-Singapore-Semifinals-2-98226"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC Season 2: Singapore Semifinals 1",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Aug272023",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Season-2-Singapore-Semifinals-1-98225"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 225 - Holloway vs. Korean Zombie",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Aug262023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-225-Holloway-vs-Korean-Zombie-98155"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 292 - Sterling vs. O'Malley",
+ "location": "TD Garden, Boston, Massachusetts, United States",
+ "date": "Aug192023",
+ "event_url": "https://www.sherdog.com/events/UFC-292-Sterling-vs-OMalley-97584"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 51 - Luque vs. dos Anjos",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Aug122023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-51-Luque-vs-dos-Anjos-97766"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 50 - Sandhagen vs. Font",
+ "location": "Bridgestone Arena, Nashville, Tennessee, United States",
+ "date": "Aug052023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-50-Sandhagen-vs-Font-97864"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 291 - Poirier vs. Gaethje 2",
+ "location": "Delta Center, Salt Lake City, Utah, United States",
+ "date": "Jul292023",
+ "event_url": "https://www.sherdog.com/events/UFC-291-Poirier-vs-Gaethje-2-97463"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 224 - Aspinall vs. Tybura",
+ "location": "02 Arena, London, Greater London, England",
+ "date": "Jul222023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-224-Aspinall-vs-Tybura-97203"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 49 - Holm vs. Bueno Silva",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jul152023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-49-Holm-vs-Bueno-Silva-97533"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 290 - Volkanovski vs. Rodriguez",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Jul082023",
+ "event_url": "https://www.sherdog.com/events/UFC-290-Volkanovski-vs-Rodriguez-96757"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 48 - Strickland vs. Magomedov",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jul012023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-48-Strickland-vs-Magomedov-97462"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ABC 5 - Emmett vs. Topuria",
+ "location": "Vystar Veterans Memorial Arena, Jacksonville, Florida, United States",
+ "date": "Jun242023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ABC-5-Emmett-vs-Topuria-97149"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 47 - Vettori vs. Cannonier",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jun172023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-47-Vettori-vs-Cannonier-97116"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 289 - Nunes vs. Aldana",
+ "location": "Rogers Arena, Vancouver, British Columbia, Canada",
+ "date": "Jun102023",
+ "event_url": "https://www.sherdog.com/events/UFC-289-Nunes-vs-Aldana-97020"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 46 - Kara-France vs. Albazi",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jun032023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-46-KaraFrance-vs-Albazi-96960"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC Season 2: Shanghai Quarterfinals 4",
+ "location": "UFC Performance Institute, Shanghai, China",
+ "date": "May282023",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Season-2-Shanghai-Quarterfinals-4-97379"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC Season 2: Shanghai Quarterfinals 3",
+ "location": "UFC Performance Institute, Shanghai, China",
+ "date": "May282023",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Season-2-Shanghai-Quarterfinals-3-97378"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC Season 2: Shanghai Quarterfinals 2",
+ "location": "UFC Performance Institute, Shanghai, China",
+ "date": "May272023",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Season-2-Shanghai-Quarterfinals-2-97376"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC Season 2: Shanghai Quarterfinals 1",
+ "location": "UFC Performance Institute, Shanghai, China",
+ "date": "May272023",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Season-2-Shanghai-Quarterfinals-1-97375"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 223 - Dern vs. Hill",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "May202023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-223-Dern-vs-Hill-96689"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ABC 4 - Rozenstruik vs. Almeida",
+ "location": "Spectrum Center, Charlotte, North Carolina, United States",
+ "date": "May132023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ABC-4-Rozenstruik-vs-Almeida-96527"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 288 - Sterling vs. Cejudo",
+ "location": "Prudential Center, Newark, New Jersey, United States",
+ "date": "May062023",
+ "event_url": "https://www.sherdog.com/events/UFC-288-Sterling-vs-Cejudo-96351"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 45 - Song vs. Simon",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Apr292023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-45-Song-vs-Simon-96350"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 222 - Pavlovich vs. Blaydes",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Apr222023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-222-Pavlovich-vs-Blaydes-96236"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 44 - Holloway vs. Allen",
+ "location": "T-Mobile Center, Kansas City, Missouri, United States",
+ "date": "Apr152023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-44-Holloway-vs-Allen-96235"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 287 - Pereira vs. Adesanya 2",
+ "location": "Kaseya Center, Miami, Florida, United States",
+ "date": "Apr082023",
+ "event_url": "https://www.sherdog.com/events/UFC-287-Pereira-vs-Adesanya-2-96031"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 43 - Vera vs. Sandhagen",
+ "location": "AT\u0026T Center, San Antonio, Texas, United States",
+ "date": "Mar252023",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-43-Vera-vs-Sandhagen-95704"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 286 - Edwards vs. Usman 3",
+ "location": "O2 Arena, London, Greater London, England",
+ "date": "Mar182023",
+ "event_url": "https://www.sherdog.com/events/UFC-286-Edwards-vs-Usman-3-95795"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 221 - Yan vs. Dvalishvili",
+ "location": "The Theater at Virgin Hotels, Las Vegas, Nevada, United States",
+ "date": "Mar112023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-221-Yan-vs-Dvalishvili-95615"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 285 - Jones vs. Gane",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Mar042023",
+ "event_url": "https://www.sherdog.com/events/UFC-285-Jones-vs-Gane-95232"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 220 - Muniz vs. Allen",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Feb252023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-220-Muniz-vs-Allen-95560"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 219 - Andrade vs. Blanchfield",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Feb182023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-219-Andrade-vs-Blanchfield-95326"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 284 - Makhachev vs. Volkanovski",
+ "location": "RAC Arena, Perth, Western Australia, Australia",
+ "date": "Feb112023",
+ "event_url": "https://www.sherdog.com/events/UFC-284-Makhachev-vs-Volkanovski-95031"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 218 - Lewis vs. Spivak",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Feb042023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-218-Lewis-vs-Spivak-95166"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 283 - Teixeira vs. Hill",
+ "location": "Jeunesse Arena, Rio de Janeiro, Brazil",
+ "date": "Jan212023",
+ "event_url": "https://www.sherdog.com/events/UFC-283-Teixeira-vs-Hill-94331"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 217 - Strickland vs. Imavov",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jan142023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-217-Strickland-vs-Imavov-94946"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 216 - Cannonier vs. Strickland",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Dec172022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-216-Cannonier-vs-Strickland-94047"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 282 - Blachowicz vs. Ankalaev",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Dec102022",
+ "event_url": "https://www.sherdog.com/events/UFC-282-Blachowicz-vs-Ankalaev-94042"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 42 - Thompson vs. Holland",
+ "location": "Amway Center, Orlando, Florida, United States",
+ "date": "Dec032022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-42-Thompson-vs-Holland-94046"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 215 - Nzechukwu vs. Cutelaba",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Nov192022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-215-Nzechukwu-vs-Cutelaba-94045"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 281 - Adesanya vs. Pereira",
+ "location": "Madison Square Garden, New York, New York, United States",
+ "date": "Nov122022",
+ "event_url": "https://www.sherdog.com/events/UFC-281-Adesanya-vs-Pereira-94041"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 214 - Rodriguez vs. Lemos",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Nov052022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-214-Rodriguez-vs-Lemos-94043"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 213 - Kattar vs. Allen",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct292022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-213-Kattar-vs-Allen-94044"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC: Abu Dhabi Semifinals 2",
+ "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
+ "date": "Oct232022",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Abu-Dhabi-Semifinals-2-94742"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC: Abu Dhabi Semifinals 1",
+ "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
+ "date": "Oct232022",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Abu-Dhabi-Semifinals-1-94741"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 280 - Oliveira vs. Makhachev",
+ "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
+ "date": "Oct222022",
+ "event_url": "https://www.sherdog.com/events/UFC-280-Oliveira-vs-Makhachev-92490"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 212 - Grasso vs. Araujo",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct152022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-212-Grasso-vs-Araujo-93809"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 211 - Dern vs. Yan",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct012022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-211-Dern-vs-Yan-93426"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 210 - Sandhagen vs. Song",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Sep172022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-210-Sandhagen-vs-Song-93612"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 279 - Diaz vs. Ferguson",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Sep102022",
+ "event_url": "https://www.sherdog.com/events/UFC-279-Diaz-vs-Ferguson-93247"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 209 - Gane vs. Tuivasa",
+ "location": "Accor Arena, Paris, France",
+ "date": "Sep032022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-209-Gane-vs-Tuivasa-93036"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 278 - Usman vs. Edwards 2",
+ "location": "Vivint Arena, Salt Lake City, Utah, United States",
+ "date": "Aug202022",
+ "event_url": "https://www.sherdog.com/events/UFC-278-Usman-vs-Edwards-2-93201"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 41 - Vera vs. Cruz",
+ "location": "Pechanga Arena, San Diego, California, United States",
+ "date": "Aug132022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-41-Vera-vs-Cruz-93192"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 40 - Santos vs. Hill",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Aug062022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-40-Santos-vs-Hill-93076"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 277 - Pena vs. Nunes 2",
+ "location": "American Airlines Center, Dallas, Texas, United States",
+ "date": "Jul302022",
+ "event_url": "https://www.sherdog.com/events/UFC-277-Pena-vs-Nunes-2-92633"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 208 - Blaydes vs. Aspinall",
+ "location": "O2 Arena, London, Greater London, England",
+ "date": "Jul232022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-208-Blaydes-vs-Aspinall-92906"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ABC 3 - Ortega vs. Rodriguez",
+ "location": "UBS Arena, Elmont, New York, United States",
+ "date": "Jul162022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ABC-3-Ortega-vs-Rodriguez-92792"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 39 - Dos Anjos vs. Fiziev",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jul092022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-39-Dos-Anjos-vs-Fiziev-92738"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 276 - Adesanya vs. Cannonier",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Jul022022",
+ "event_url": "https://www.sherdog.com/events/UFC-276-Adesanya-vs-Cannonier-91882"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 38 - Tsarukyan vs. Gamrot",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jun252022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-38-Tsarukyan-vs-Gamrot-92636"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 37 - Kattar vs. Emmett",
+ "location": "Moody Center, Austin, Texas, United States",
+ "date": "Jun182022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-37-Kattar-vs-Emmett-92670"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 275 - Teixeira vs. Prochazka",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jun122022",
+ "event_url": "https://www.sherdog.com/events/UFC-275-Teixeira-vs-Prochazka-92186"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC: Singapore Quarterfinals 4",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jun102022",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Singapore-Quarterfinals-4-92929"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC: Singapore Quarterfinals 3",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jun102022",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Singapore-Quarterfinals-3-92928"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC: Singapore Quarterfinals 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jun092022",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Singapore-Quarterfinals-2-92919"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC - Road to UFC: Singapore Quarterfinals 1",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jun092022",
+ "event_url": "https://www.sherdog.com/events/UFC-Road-to-UFC-Singapore-Quarterfinals-1-92918"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 207 - Volkov vs. Rozenstruik",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jun042022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-207-Volkov-vs-Rozenstruik-92057"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 206 - Holm vs. Vieira",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "May212022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-206-Holm-vs-Vieira-91978"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 36 - Blachowicz vs. Rakic",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "May142022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-36-Blachowicz-vs-Rakic-91795"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 274 - Oliveira vs. Gaethje",
+ "location": "Footprint Center, Phoenix, Arizona, United States",
+ "date": "May072022",
+ "event_url": "https://www.sherdog.com/events/UFC-274-Oliveira-vs-Gaethje-91512"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 35 - Font vs. Vera",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Apr302022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-35-Font-vs-Vera-91854"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 205 - Lemos vs. Andrade",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Apr232022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-205-Lemos-vs-Andrade-91797"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 34 - Luque vs. Muhammad 2",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Apr162022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-34-Luque-vs-Muhammad-2-91735"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 273 - Volkanovski vs. Korean Zombie",
+ "location": "VyStar Veterans Memorial Arena, Jacksonville, Florida, United States",
+ "date": "Apr092022",
+ "event_url": "https://www.sherdog.com/events/UFC-273-Volkanovski-vs-Korean-Zombie-91679"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 33 - Blaydes vs. Daukaus",
+ "location": "Nationwide Arena, Columbus, Ohio, United States",
+ "date": "Mar262022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-33-Blaydes-vs-Daukaus-91130"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 204 - Volkov vs. Aspinall",
+ "location": "O2 Arena, London, Greater London, England",
+ "date": "Mar192022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-204-Volkov-vs-Aspinall-91036"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 203 - Santos vs. Ankalaev",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Mar122022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-203-Santos-vs-Ankalaev-91131"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 272 - Covington vs. Masvidal",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Mar052022",
+ "event_url": "https://www.sherdog.com/events/UFC-272-Covington-vs-Masvidal-91278"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 202 - Makhachev vs. Green",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Feb262022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-202-Makhachev-vs-Green-90846"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 201 - Walker vs. Hill",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Feb192022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-201-Walker-vs-Hill-90843"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 271 - Adesanya vs. Whittaker 2",
+ "location": "Toyota Center, Houston, Texas, United States",
+ "date": "Feb122022",
+ "event_url": "https://www.sherdog.com/events/UFC-271-Adesanya-vs-Whittaker-2-90742"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 200 - Hermansson vs. Strickland",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Feb052022",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-200-Hermansson-vs-Strickland-90688"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 270 - Ngannou vs. Gane",
+ "location": "Honda Center, Anaheim, California, United States",
+ "date": "Jan222022",
+ "event_url": "https://www.sherdog.com/events/UFC-270-Ngannou-vs-Gane-90612"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 32 - Kattar vs. Chikadze",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jan152022",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-32-Kattar-vs-Chikadze-90552"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 199 - Lewis vs. Daukaus",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Dec182021",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-199-Lewis-vs-Daukaus-90256"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 269 - Oliveira vs. Poirier",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Dec112021",
+ "event_url": "https://www.sherdog.com/events/UFC-269-Oliveira-vs-Poirier-90120"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 31 - Font vs. Aldo",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Dec042021",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-31-Font-vs-Aldo-90320"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 198 - Vieira vs. Tate",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Nov202021",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-198-Vieira-vs-Tate-90119"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 197 - Holloway vs. Rodriguez",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Nov132021",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-197-Holloway-vs-Rodriguez-90118"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 268 - Usman vs. Covington 2",
+ "location": "Madison Square Garden, New York, New York, United States",
+ "date": "Nov062021",
+ "event_url": "https://www.sherdog.com/events/UFC-268-Usman-vs-Covington-2-90043"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 267 - Blachowicz vs. Teixeira",
+ "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
+ "date": "Oct302021",
+ "event_url": "https://www.sherdog.com/events/UFC-267-Blachowicz-vs-Teixeira-89819"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 196 - Costa vs. Vettori",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct232021",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-196-Costa-vs-Vettori-89999"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 195 - Ladd vs. Dumont",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct162021",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-195-Ladd-vs-Dumont-89887"
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 194 - Dern vs. Rodriguez",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Oct092021",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-194-Dern-vs-Rodriguez-89818"
  }
  ]

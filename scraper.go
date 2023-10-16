@@ -26,8 +26,10 @@ func main() {
 
 	var events []Event
 
-	// UPCOMING events details
-	c.OnHTML("div.new_table_holder tbody", func(h *colly.HTMLElement) {
+	// All events
+	c.OnHTML("div.col-left", func(h *colly.HTMLElement) {
+		organizationName := h.ChildText("div[itemprop=name]")
+
 		h.ForEach("tr", func(_ int, el *colly.HTMLElement) {
 
 			eventDateString := el.ChildText("td:nth-child(1)")
@@ -37,10 +39,8 @@ func main() {
 			extractedEventUrl := el.ChildAttr("td:nth-child(2) a", "href")
 			fullEventUrl := h.Request.AbsoluteURL(extractedEventUrl)
 
-			fmt.Println("EVENT LINK", fullEventUrl)
-
 			currentEvent := Event{
-				Organization: "UFC",
+				Organization: organizationName,
 				Title:        eventTitleString,
 				Location:     eventLocationString,
 				Date:         eventDateString,
