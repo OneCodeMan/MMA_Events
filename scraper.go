@@ -107,10 +107,44 @@ func runMMAScraper() {
 					WeightClass: mainEventWeightClass,
 				}
 
-				fmt.Println("MAIN EVENT", mainEventFight)
+				// fmt.Println("MAIN EVENT", mainEventFight)
 				fights = append(fights, mainEventFight)
 
-				// TODO: then do the rest of the fights
+				// Then do the rest of the fights
+				h.ForEach("tr", func(i int, el *colly.HTMLElement) {
+					fighterOneName := el.ChildText("div.fighter_list.left div.fighter_result_data span[itemprop=name]")
+					fighterOneRecord := el.ChildText("div.fighter_list.left div.fighter_result_data span.record")
+
+					fmt.Printf("Fighter 1: %s\nRecord:%s\n\n", fighterOneName, fighterOneRecord)
+
+					fighterOne := Fighter{
+						Name:   fighterOneName,
+						Record: fighterOneRecord,
+					}
+
+					fighterTwoName := el.ChildText("div.fighter_list.right div.fighter_result_data span[itemprop=name]")
+					fighterTwoRecord := el.ChildText("div.fighter_list.right div.fighter_result_data span.record")
+
+					fmt.Printf("Fighter 2: %s\nRecord: %s\n\n", fighterTwoName, fighterTwoRecord)
+
+					fighterTwo := Fighter{
+						Name:   fighterTwoName,
+						Record: fighterTwoRecord,
+					}
+
+					weightClass := el.ChildText("span.weight_class")
+					fmt.Printf("Weight class: %s\n\n\n", weightClass)
+
+					currentFight := Fight{
+						FighterOne:  fighterOne,
+						FighterTwo:  fighterTwo,
+						WeightClass: weightClass,
+					}
+
+					if currentFight.FighterOne.Name != "" && currentFight.FighterTwo.Name != "" {
+						fights = append(fights, currentFight)
+					}
+				})
 			}
 
 			currentEvent := Event{
