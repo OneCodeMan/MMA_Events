@@ -7,6 +7,8 @@ import (
 	"github.com/gocolly/colly"
 )
 
+// Structs
+
 type Event struct {
 	Organization string `json:"organization"`
 	Title        string `json:"title"`
@@ -15,9 +17,27 @@ type Event struct {
 	EventUrl     string `json:"event_url"`
 }
 
+type Fighter struct {
+	Name      string `json:"name"`
+	Wins      int    `json:"wins"`
+	Losses    int    `json:"losses"`
+	Draws     int    `json:"draws"`
+	NoContest int    `json:"no_contest"`
+}
+type Fight struct {
+	FighterOne  Fighter `json:"fighter_one"`
+	FighterTwo  Fighter `json:"fighter_two"`
+	WeightClass string  `json:"weight"`
+	Order       int     `json:"order"`
+}
+
+// Main
+
 func main() {
 	runMMAScraper()
 }
+
+// Scrapes
 
 func runMMAScraper() {
 	c := colly.NewCollector(
