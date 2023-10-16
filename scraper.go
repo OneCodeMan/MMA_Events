@@ -113,22 +113,24 @@ func runMMAScraper() {
 				// Then do the rest of the fights
 				h.ForEach("tr", func(i int, el *colly.HTMLElement) {
 					fighterOneName := el.ChildText("div.fighter_list.left div.fighter_result_data span[itemprop=name]")
+					sanitizedFighterOneName := separateAtNextCapital(fighterOneName)
 					fighterOneRecord := el.ChildText("div.fighter_list.left div.fighter_result_data span.record")
 
-					fmt.Printf("Fighter 1: %s\nRecord:%s\n\n", fighterOneName, fighterOneRecord)
+					fmt.Printf("Fighter 1: %s\nRecord:%s\n\n", sanitizedFighterOneName, fighterOneRecord)
 
 					fighterOne := Fighter{
-						Name:   fighterOneName,
+						Name:   sanitizedFighterOneName,
 						Record: fighterOneRecord,
 					}
 
 					fighterTwoName := el.ChildText("div.fighter_list.right div.fighter_result_data span[itemprop=name]")
+					sanitizedFighterTwoName := separateAtNextCapital(fighterTwoName)
 					fighterTwoRecord := el.ChildText("div.fighter_list.right div.fighter_result_data span.record")
 
-					fmt.Printf("Fighter 2: %s\nRecord: %s\n\n", fighterTwoName, fighterTwoRecord)
+					fmt.Printf("Fighter 2: %s\nRecord: %s\n\n", sanitizedFighterTwoName, fighterTwoRecord)
 
 					fighterTwo := Fighter{
-						Name:   fighterTwoName,
+						Name:   sanitizedFighterTwoName,
 						Record: fighterTwoRecord,
 					}
 
