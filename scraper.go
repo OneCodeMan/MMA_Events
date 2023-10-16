@@ -63,28 +63,33 @@ func runMMAScraper() {
 		}
 	})
 
-	c.OnHTML("div.event_detail", func(h *colly.HTMLElement) {
-		organizationName := h.ChildText("a[itemprop=url]")
-		eventTitleString := h.ChildText("h1")
-		eventDateString := h.ChildText("div.info span:nth-child(1)")
-		eventLocationString := h.ChildText("div.info span:nth-child(2)")
+	c.OnHTML("div.col-left", func(h *colly.HTMLElement) {
+
 		fullEventUrl := h.Request.URL.String()
 
-		fmt.Println(organizationName, eventTitleString, eventDateString, eventLocationString)
-		fmt.Println("------------")
+		if strings.Contains(fullEventUrl, "/events/") {
+			organizationName := h.ChildText("div.event_detail a[itemprop=url]")
+			eventTitleString := h.ChildText("div.event_detail h1")
+			eventDateString := h.ChildText("div.event_detail div.info span:nth-child(1)")
+			eventLocationString := h.ChildText("span[itemprop=location]")
 
-		var fights []Fight
+			fmt.Println(organizationName, eventTitleString, eventDateString, eventLocationString)
+			fmt.Println("------------")
 
-		currentEvent := Event{
-			Organization: organizationName,
-			Title:        eventTitleString,
-			Location:     eventLocationString,
-			Date:         eventDateString,
-			EventUrl:     fullEventUrl,
-			Fights:       fights,
+			var fights []Fight
+
+			currentEvent := Event{
+				Organization: organizationName,
+				Title:        eventTitleString,
+				Location:     eventLocationString,
+				Date:         eventDateString,
+				EventUrl:     fullEventUrl,
+				Fights:       fights,
+			}
+
+			events = append(events, currentEvent)
 		}
 
-		events = append(events, currentEvent)
 	})
 
 	// Print out where we're going whenever we go there
