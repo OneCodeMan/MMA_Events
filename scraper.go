@@ -53,45 +53,38 @@ func runMMAScraper() {
 
 	var events []Event
 
-	// All events
-	c.OnHTML("div.col-left", func(h *colly.HTMLElement) {
-		organizationName := h.ChildText("div[itemprop=name]")
-		h.ForEach("div#upcoming_tab tr", func(_ int, el *colly.HTMLElement) {
+	c.OnHTML("div#upcoming_tab tr", func(h *colly.HTMLElement) {
+		extractedEventUrl := h.ChildAttr("td:nth-child(2) a", "href")
+		fullEventUrl := h.Request.AbsoluteURL(extractedEventUrl)
 
-			eventDateString := el.ChildText("td:nth-child(1)")
-			eventTitleString := el.ChildText("td:nth-child(2)")
-			eventLocationString := el.ChildText("td:nth-child(3)")
+		// Go to every event page
+		if strings.Contains(fullEventUrl, "/events/") {
+			c.Visit(fullEventUrl)
+		}
+	})
 
-			extractedEventUrl := el.ChildAttr("td:nth-child(2) a", "href")
-			fullEventUrl := h.Request.AbsoluteURL(extractedEventUrl)
+	c.OnHTML("div.event_detail", func(h *colly.HTMLElement) {
+		organizationName := h.ChildText("a[itemprop=url]")
+		eventTitleString := h.ChildText("h1")
+		eventDateString := h.ChildText("div.info span:nth-child(1)")
+		eventLocationString := h.ChildText("div.info span:nth-child(2)")
+		fullEventUrl := h.Request.URL.String()
 
-			if strings.Contains(fullEventUrl, "/events/") {
-				fmt.Println("Visiting", fullEventUrl)
-				c.Visit(fullEventUrl)
-			}
+		fmt.Println(organizationName, eventTitleString, eventDateString, eventLocationString)
+		fmt.Println("------------")
 
-			var fights []Fight
+		var fights []Fight
 
-			// Actual fight data
-			c.OnHTML("", func(h *colly.HTMLElement) {
+		currentEvent := Event{
+			Organization: organizationName,
+			Title:        eventTitleString,
+			Location:     eventLocationString,
+			Date:         eventDateString,
+			EventUrl:     fullEventUrl,
+			Fights:       fights,
+		}
 
-			})
-
-			// Create the event, append it.
-			// TODO: Implement Fights
-			currentEvent := Event{
-				Organization: organizationName,
-				Title:        eventTitleString,
-				Location:     eventLocationString,
-				Date:         eventDateString,
-				EventUrl:     fullEventUrl,
-				Fights:       fights,
-			}
-
-			if (eventTitleString != "Fight Title") && (eventLocationString != "Location") && (eventDateString != "Date") {
-				events = append(events, currentEvent)
-			}
-		})
+		events = append(events, currentEvent)
 	})
 
 	// Print out where we're going whenever we go there
