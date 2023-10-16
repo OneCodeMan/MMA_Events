@@ -1,5 +1,1440 @@
 [
  {
+ "organization": "Bellator MMA",
+ "title": "Bellator 299 - Eblen vs. Edwards",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Sep232023",
+ "event_url": "https://www.sherdog.com/events/Bellator-299-Eblen-vs-Edwards-96868"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 298 - Storley vs. Ward",
+ "location": "Sanford Pentagon, Sioux Falls, South Dakota, United States",
+ "date": "Aug112023",
+ "event_url": "https://www.sherdog.com/events/Bellator-298-Storley-vs-Ward-97863"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator MMA x Rizin 2 - Pitbull vs. de Souza",
+ "location": "Saitama Super Arena, Saitama, Japan",
+ "date": "Jul292023",
+ "event_url": "https://www.sherdog.com/events/Bellator-MMA-x-Rizin-2-Pitbull-vs-de-Souza-98265"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 297 - Nemkov vs. Romero",
+ "location": "Wintrust Arena, Chicago, Illinois, United States",
+ "date": "Jun162023",
+ "event_url": "https://www.sherdog.com/events/Bellator-297-Nemkov-vs-Romero-97147"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 296 - Mousasi vs. Edwards",
+ "location": "Accor Arena, Paris, France",
+ "date": "May122023",
+ "event_url": "https://www.sherdog.com/events/Bellator-296-Mousasi-vs-Edwards-96175"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 295 - Stots vs. Mix",
+ "location": "Neil S. Blaisdell Center, Honolulu, Hawaii, United States",
+ "date": "Apr222023",
+ "event_url": "https://www.sherdog.com/events/Bellator-295-Stots-vs-Mix-96606"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 294 - Carmouche vs. Bennett 2",
+ "location": "Neil S. Blaisdell Center, Honolulu, Hawaii, United States",
+ "date": "Apr212023",
+ "event_url": "https://www.sherdog.com/events/Bellator-294-Carmouche-vs-Bennett-2-96605"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 293 - Golm vs. James",
+ "location": "Pechanga Resort \u0026 Casino, Temecula, California, United States",
+ "date": "Mar312023",
+ "event_url": "https://www.sherdog.com/events/Bellator-293-Golm-vs-James-96285"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 292 - Nurmagomedov vs. Henderson",
+ "location": "SAP Center, San Jose, California, United States",
+ "date": "Mar102023",
+ "event_url": "https://www.sherdog.com/events/Bellator-292-Nurmagomedov-vs-Henderson-96174"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 291 - Amosov vs. Storley 2",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Feb252023",
+ "event_url": "https://www.sherdog.com/events/Bellator-291-Amosov-vs-Storley-2-94896"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 290 - Bader vs. Fedor 2",
+ "location": "The Forum, Inglewood, California, United States",
+ "date": "Feb042023",
+ "event_url": "https://www.sherdog.com/events/Bellator-290-Bader-vs-Fedor-2-95557"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 289 - Stots vs. Sabatello",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Dec092022",
+ "event_url": "https://www.sherdog.com/events/Bellator-289-Stots-vs-Sabatello-94521"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 288 - Nemkov vs. Anderson 2",
+ "location": "Wintrust Arena, Chicago, Illinois, United States",
+ "date": "Nov182022",
+ "event_url": "https://www.sherdog.com/events/Bellator-288-Nemkov-vs-Anderson-2-94470"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 287 - Piccolotti vs. Barnaoui",
+ "location": "Allianz Cloud Arena, Milan, Italy",
+ "date": "Oct292022",
+ "event_url": "https://www.sherdog.com/events/Bellator-287-Piccolotti-vs-Barnaoui-94243"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 286\t - Pitbull vs. Borics",
+ "location": "The Long Beach Arena, Long Beach, California, United States",
+ "date": "Oct012022",
+ "event_url": "https://www.sherdog.com/events/Bellator-286-Pitbull-vs-Borics-94087"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 285 - Henderson vs. Queally",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Sep232022",
+ "event_url": "https://www.sherdog.com/events/Bellator-285-Henderson-vs-Queally-92619"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 284 - Gracie vs. Yamauchi",
+ "location": "Sanford Pentagon, Sioux Falls, South Dakota, United States",
+ "date": "Aug122022",
+ "event_url": "https://www.sherdog.com/events/Bellator-284-Gracie-vs-Yamauchi-93543"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 283 - Lima vs. Jackson",
+ "location": "Emerald Queen Casino, Tacoma, Washington, United States",
+ "date": "Jul222022",
+ "event_url": "https://www.sherdog.com/events/Bellator-283-Lima-vs-Jackson-93333"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 282 - Mousasi vs. Eblen",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Jun242022",
+ "event_url": "https://www.sherdog.com/events/Bellator-282-Mousasi-vs-Eblen-92671"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 281 - MVP vs. Storley",
+ "location": "The SSE Arena, Wembley, London, England",
+ "date": "May132022",
+ "event_url": "https://www.sherdog.com/events/Bellator-281-MVP-vs-Storley-91826"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 280 - Bader vs. Kongo 2",
+ "location": "Accor Arena, Paris, France",
+ "date": "May062022",
+ "event_url": "https://www.sherdog.com/events/Bellator-280-Bader-vs-Kongo-2-91959"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 279 - Cyborg vs. Blencowe 2",
+ "location": "Neil S. Blaisdell Center, Honolulu, Hawaii, United States",
+ "date": "Apr232022",
+ "event_url": "https://www.sherdog.com/events/Bellator-279-Cyborg-vs-Blencowe-2-92345"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 278 - Velasquez vs. Carmouche",
+ "location": "Neil S. Blaisdell Center, Honolulu, Hawaii, United States",
+ "date": "Apr222022",
+ "event_url": "https://www.sherdog.com/events/Bellator-278-Velasquez-vs-Carmouche-92346"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 277 - McKee vs. Pitbull 2",
+ "location": "SAP Center, San Jose, California, United States",
+ "date": "Apr152022",
+ "event_url": "https://www.sherdog.com/events/Bellator-277-McKee-vs-Pitbull-2-92105"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 276 - Borics vs. Burnell",
+ "location": "The Family Arena, St. Louis, Missouri, United States",
+ "date": "Mar122022",
+ "event_url": "https://www.sherdog.com/events/Bellator-276-Borics-vs-Burnell-91869"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 275 - Mousasi vs. Vanderford",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Feb252022",
+ "event_url": "https://www.sherdog.com/events/Bellator-275-Mousasi-vs-Vanderford-91509"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 274 - Gracie vs. Storley",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Feb192022",
+ "event_url": "https://www.sherdog.com/events/Bellator-274-Gracie-vs-Storley-91678"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 273 - Bader vs. Moldavsky",
+ "location": "Footprint Center, Phoenix, Arizona, United States",
+ "date": "Jan292022",
+ "event_url": "https://www.sherdog.com/events/Bellator-273-Bader-vs-Moldavsky-91488"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 272 - Pettis vs. Horiguchi",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Dec032021",
+ "event_url": "https://www.sherdog.com/events/Bellator-272-Pettis-vs-Horiguchi-90729"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 271 - Cyborg vs. Kavanagh",
+ "location": "Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",
+ "date": "Nov122021",
+ "event_url": "https://www.sherdog.com/events/Bellator-271-Cyborg-vs-Kavanagh-90726"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 270 - Queally vs. Pitbull 2",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Nov052021",
+ "event_url": "https://www.sherdog.com/events/Bellator-270-Queally-vs-Pitbull-2-89998"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 269 - Fedor vs. Johnson",
+ "location": "VTB Arena, Moscow, Russia",
+ "date": "Oct232021",
+ "event_url": "https://www.sherdog.com/events/Bellator-269-Fedor-vs-Johnson-89720"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 268 - Nemkov vs. Anglickas",
+ "location": "Footprint Center, Phoenix, Arizona, United States",
+ "date": "Oct162021",
+ "event_url": "https://www.sherdog.com/events/Bellator-268-Nemkov-vs-Anglickas-90090"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 267 - Lima vs. MVP 2",
+ "location": "The SSE Arena, London, England",
+ "date": "Oct012021",
+ "event_url": "https://www.sherdog.com/events/Bellator-267-Lima-vs-MVP-2-90051"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 266 - Romero vs. Davis",
+ "location": "SAP Center, San Jose, California, United States",
+ "date": "Sep182021",
+ "event_url": "https://www.sherdog.com/events/Bellator-266-Romero-vs-Davis-90191"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 265 - Kongo vs. Kharitonov",
+ "location": "Sanford Pentagon, Sioux Falls, South Dakota, United States",
+ "date": "Aug202021",
+ "event_url": "https://www.sherdog.com/events/Bellator-265-Kongo-vs-Kharitonov-89944"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 264 - Mousasi vs. Salter",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Aug132021",
+ "event_url": "https://www.sherdog.com/events/Bellator-264-Mousasi-vs-Salter-89721"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 263 - Pitbull vs. McKee",
+ "location": "The Forum, Inglewood, California, United States",
+ "date": "Jul312021",
+ "event_url": "https://www.sherdog.com/events/Bellator-263-Pitbull-vs-McKee-89623"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 262 - Velasquez vs. Kielholtz",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Jul162021",
+ "event_url": "https://www.sherdog.com/events/Bellator-262-Velasquez-vs-Kielholtz-89446"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 261 - Johnson vs. Moldavsky",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Jun252021",
+ "event_url": "https://www.sherdog.com/events/Bellator-261-Johnson-vs-Moldavsky-89324"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 260 - Lima vs. Amosov",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Jun112021",
+ "event_url": "https://www.sherdog.com/events/Bellator-260-Lima-vs-Amosov-89160"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 259 - Cyborg vs. Smith 2",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "May212021",
+ "event_url": "https://www.sherdog.com/events/Bellator-259-Cyborg-vs-Smith-2-88879"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 258 - Archuleta vs. Pettis",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "May072021",
+ "event_url": "https://www.sherdog.com/events/Bellator-258-Archuleta-vs-Pettis-88670"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 257 - Nemkov vs. Davis 2",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Apr162021",
+ "event_url": "https://www.sherdog.com/events/Bellator-257-Nemkov-vs-Davis-2-88664"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 256 - Bader vs. Machida 2",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Apr092021",
+ "event_url": "https://www.sherdog.com/events/Bellator-256-Bader-vs-Machida-2-88626"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 255 - Pitbull vs. Sanchez 2",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Apr022021",
+ "event_url": "https://www.sherdog.com/events/Bellator-255-Pitbull-vs-Sanchez-2-88484"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 254 - Macfarlane vs. Velasquez",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Dec102020",
+ "event_url": "https://www.sherdog.com/events/Bellator-254-Macfarlane-vs-Velasquez-87904"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 253 - Caldwell vs. McKee",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Nov192020",
+ "event_url": "https://www.sherdog.com/events/Bellator-253-Caldwell-vs-McKee-87801"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 252 - Pitbull vs. Carvalho",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Nov122020",
+ "event_url": "https://www.sherdog.com/events/Bellator-252-Pitbull-vs-Carvalho-87800"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 251 - Manhoef vs. Anderson",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Nov052020",
+ "event_url": "https://www.sherdog.com/events/Bellator-251-Manhoef-vs-Anderson-87669"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 250 - Mousasi vs. Lima",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Oct292020",
+ "event_url": "https://www.sherdog.com/events/Bellator-250-Mousasi-vs-Lima-87556"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 249 - Cyborg vs. Blencowe",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Oct152020",
+ "event_url": "https://www.sherdog.com/events/Bellator-249-Cyborg-vs-Blencowe-87555"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 248 - Kongo vs. Johnson 2",
+ "location": "Accor Arena, Paris, France",
+ "date": "Oct102020",
+ "event_url": "https://www.sherdog.com/events/Bellator-248-Kongo-vs-Johnson-2-87493"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator Milan - Gallagher vs. Ellenor",
+ "location": "Allianz Cloud, Milan, Italy",
+ "date": "Oct032020",
+ "event_url": "https://www.sherdog.com/events/Bellator-Milan-Gallagher-vs-Ellenor-87604"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 247 - Jackson vs. Kielholtz",
+ "location": "Allianz Cloud, Milan, Italy",
+ "date": "Oct012020",
+ "event_url": "https://www.sherdog.com/events/Bellator-247-Jackson-vs-Kielholtz-87546"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator Milan - Edwards vs. van Steenis",
+ "location": "Allianz Cloud, Milan, Italy",
+ "date": "Sep262020",
+ "event_url": "https://www.sherdog.com/events/Bellator-Milan-Edwards-vs-van-Steenis-87603"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 246 - Archuleta vs. Mix",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Sep122020",
+ "event_url": "https://www.sherdog.com/events/Bellator-246-Archuleta-vs-Mix-87395"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 245 - Davis vs. Machida 2",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Sep112020",
+ "event_url": "https://www.sherdog.com/events/Bellator-245-Davis-vs-Machida-2-87101"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 244 - Bader vs. Nemkov",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Aug212020",
+ "event_url": "https://www.sherdog.com/events/Bellator-244-Bader-vs-Nemkov-87100"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 243 - Chandler vs. Henderson 2",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Aug072020",
+ "event_url": "https://www.sherdog.com/events/Bellator-243-Chandler-vs-Henderson-2-87098"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 242 - Bandejas vs. Pettis",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Jul242020",
+ "event_url": "https://www.sherdog.com/events/Bellator-242-Bandejas-vs-Pettis-87097"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 240 - McCourt vs. Ruis",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Feb222020",
+ "event_url": "https://www.sherdog.com/events/Bellator-240-McCourt-vs-Ruis-83191"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 239 - Ruth vs. Amosov",
+ "location": "WinStar World Casino, Thackerville, Oklahoma, United States",
+ "date": "Feb212020",
+ "event_url": "https://www.sherdog.com/events/Bellator-239-Ruth-vs-Amosov-83113"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 238 - Budd vs. Cyborg",
+ "location": "The Forum, Inglewood, California, United States",
+ "date": "Jan252020",
+ "event_url": "https://www.sherdog.com/events/Bellator-238-Budd-vs-Cyborg-81829"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 237 - Fedor vs. Rampage",
+ "location": "Saitama Super Arena, Saitama, Japan",
+ "date": "Dec292019",
+ "event_url": "https://www.sherdog.com/events/Bellator-237-Fedor-vs-Rampage-81827"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 236 - Macfarlane vs. Jackson",
+ "location": "Neal S. Blaisdell Center, Honolulu, Hawaii, United States",
+ "date": "Dec212019",
+ "event_url": "https://www.sherdog.com/events/Bellator-236-Macfarlane-vs-Jackson-81825"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 235 - Salute the Troops: Barnett vs. Markes",
+ "location": "Neil S. Blaisdell Arena, Honolulu, Hawaii, United States",
+ "date": "Dec202019",
+ "event_url": "https://www.sherdog.com/events/Bellator-235-Salute-the-Troops-Barnett-vs-Markes-82431"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator London - MVP vs. Melillo",
+ "location": "The SSE Arena, Wembley, London, England",
+ "date": "Nov232019",
+ "event_url": "https://www.sherdog.com/events/Bellator-London-MVP-vs-Melillo-81823"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 234 - Kharitonov vs. Vassell",
+ "location": "Menora Mivtachim Arena, Tel Aviv, Israel",
+ "date": "Nov152019",
+ "event_url": "https://www.sherdog.com/events/Bellator-234-Kharitonov-vs-Vassell-79883"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 233 - Salter vs. van Steenis",
+ "location": "WinStar World Casino, Thackerville, Oklahoma, United States",
+ "date": "Nov082019",
+ "event_url": "https://www.sherdog.com/events/Bellator-233-Salter-vs-van-Steenis-79753"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 232 - MacDonald vs. Lima 2",
+ "location": "Mohegan Sun Arena, Uncasville, Conn., United States",
+ "date": "Oct262019",
+ "event_url": "https://www.sherdog.com/events/Bellator-232-MacDonald-vs-Lima-2-79757"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 231 - Mir vs. Nelson 2",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Oct252019",
+ "event_url": "https://www.sherdog.com/events/Bellator-231-Mir-vs-Nelson-2-79755"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 230 - Carvalho vs. Nemkov",
+ "location": "Allianz Cloud, Milan, Italy",
+ "date": "Oct122019",
+ "event_url": "https://www.sherdog.com/events/Bellator-230-Carvalho-vs-Nemkov-78117"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 229 - Koreshkov vs. Larkin",
+ "location": "Pechanga Resort \u0026 Casino, Temecula, California, United States",
+ "date": "Oct042019",
+ "event_url": "https://www.sherdog.com/events/Bellator-229-Koreshkov-vs-Larkin-78615"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 228 - Pitbull vs. Archuleta",
+ "location": "The Forum, Inglewood, California, United States",
+ "date": "Sep282019",
+ "event_url": "https://www.sherdog.com/events/Bellator-228-Pitbull-vs-Archuleta-78613"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 227 - Gallagher vs. Salazar",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Sep272019",
+ "event_url": "https://www.sherdog.com/events/Bellator-227-Gallagher-vs-Salazar-78237"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 226 - Bader vs. Kongo",
+ "location": "SAP Center, San Jose, California, United States",
+ "date": "Sep072019",
+ "event_url": "https://www.sherdog.com/events/Bellator-226-Bader-vs-Kongo-78611"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 225 - Mitrione vs. Kharitonov 2",
+ "location": "Webster Bank Arena, Bridgeport, Connecticut, United States",
+ "date": "Aug242019",
+ "event_url": "https://www.sherdog.com/events/Bellator-225-Mitrione-vs-Kharitonov-2-78553"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 224 - Budd vs. Rubin",
+ "location": "WinStar World Casino, Thackerville, Oklahoma, United States",
+ "date": "Jul122019",
+ "event_url": "https://www.sherdog.com/events/Bellator-224-Budd-vs-Rubin-75301"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 223 - Mousasi vs. Lovato Jr.",
+ "location": "SSE Arena, London, England",
+ "date": "Jun222019",
+ "event_url": "https://www.sherdog.com/events/Bellator-223-Mousasi-vs-Lovato-Jr-75743"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 222 - MacDonald vs. Gracie",
+ "location": "Madison Square Garden, New York City, New York, United States",
+ "date": "Jun142019",
+ "event_url": "https://www.sherdog.com/events/Bellator-222-MacDonald-vs-Gracie-75617"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 221 - Chandler vs. Pitbull",
+ "location": "Allstate Arena, Rosemont, Illinois, United States",
+ "date": "May112019",
+ "event_url": "https://www.sherdog.com/events/Bellator-221-Chandler-vs-Pitbull-75299"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator Birmingham - Primus vs. Wilde",
+ "location": "Resorts World Arena, Birmingham, England, United Kingdom",
+ "date": "May042019",
+ "event_url": "https://www.sherdog.com/events/Bellator-Birmingham-Primus-vs-Wilde-75297"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 220 - MacDonald vs. Fitch",
+ "location": "SAP Center, San Jose, California, United States",
+ "date": "Apr272019",
+ "event_url": "https://www.sherdog.com/events/Bellator-220-MacDonald-vs-Fitch-74715"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 219 - Awad vs. Girtz",
+ "location": "Pechanga Resort \u0026 Casino, Temecula, California, United States",
+ "date": "Mar292019",
+ "event_url": "https://www.sherdog.com/events/Bellator-219-Awad-vs-Girtz-73649"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 218 - Sanchez vs. Karakhanyan",
+ "location": "WinStar World Casino, Thackerville, Oklahoma, United States",
+ "date": "Mar222019",
+ "event_url": "https://www.sherdog.com/events/Bellator-218-Sanchez-vs-Karakhanyan-73647"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 217 - Gallagher vs. Graham",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Feb232019",
+ "event_url": "https://www.sherdog.com/events/Bellator-217-Gallagher-vs-Graham-73645"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 216 - MVP vs. Daley",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Feb162019",
+ "event_url": "https://www.sherdog.com/events/Bellator-216-MVP-vs-Daley-73643"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 215 - Mitrione vs. Kharitonov",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Feb152019",
+ "event_url": "https://www.sherdog.com/events/Bellator-215-Mitrione-vs-Kharitonov-73641"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator Newcastle - Pitbull vs. Scope",
+ "location": "Metro Radio Arena, Newcastle, Tyne and Wear, England",
+ "date": "Feb092019",
+ "event_url": "https://www.sherdog.com/events/Bellator-Newcastle-Pitbull-vs-Scope-72919"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 214 - Fedor vs. Bader",
+ "location": "The Forum, Inglewood, California, United States",
+ "date": "Jan262019",
+ "event_url": "https://www.sherdog.com/events/Bellator-214-Fedor-vs-Bader-71585"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 213 - Macfarlane vs. Letourneau",
+ "location": "Neil S. Blaisdell Center, Honolulu, Hawaii, United States",
+ "date": "Dec152018",
+ "event_url": "https://www.sherdog.com/events/Bellator-213-Macfarlane-vs-Letourneau-70955"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 212 - Primus vs. Chandler 2",
+ "location": "Neil S. Blaisdell Center, Honolulu, Hawaii, United States",
+ "date": "Dec142018",
+ "event_url": "https://www.sherdog.com/events/Bellator-212-Primus-vs-Chandler-2-71465"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 211 - Sakara vs. Kauppinen",
+ "location": "RDS Stadium, Genoa, Italy",
+ "date": "Dec012018",
+ "event_url": "https://www.sherdog.com/events/Bellator-211-Sakara-vs-Kauppinen-71423"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 210 - Njokuani vs. Salter",
+ "location": "WinStar World Casino and Resort, Thackerville, Oklahoma, United States",
+ "date": "Nov302018",
+ "event_url": "https://www.sherdog.com/events/Bellator-210-Njokuani-vs-Salter-71041"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 209 - Pitbull vs. Sanchez",
+ "location": "Menora Mivtachim Arena, Tel Aviv, Israel",
+ "date": "Nov152018",
+ "event_url": "https://www.sherdog.com/events/Bellator-209-Pitbull-vs-Sanchez-70389"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 208 - Fedor vs. Sonnen",
+ "location": "Nassau Veterans Memorial Coliseum at NYCB Live, Uniondale, New York, United States",
+ "date": "Oct132018",
+ "event_url": "https://www.sherdog.com/events/Bellator-208-Fedor-vs-Sonnen-69635"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 207 - Mitrione vs. Bader",
+ "location": "Mohegan Sun Arena, Uncasville, Connecticut, United States",
+ "date": "Oct122018",
+ "event_url": "https://www.sherdog.com/events/Bellator-207-Mitrione-vs-Bader-69405"
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 206 - Mousasi vs. MacDonald",
+ "location": "SAP Center, San Jose, California, United States",
+ "date": "Sep292018",
+ "event_url": "https://www.sherdog.com/events/Bellator-206-Mousasi-vs-MacDonald-69637"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "Fight Title",
+ "location": "Location",
+ "date": "Date",
+ "event_url": "https://www.sherdog.com/organizations/ONE-Championship-3877"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 37",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Oct202023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-37-99760"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 38",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Oct272023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-38-99761"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 16: Haggerty vs. Andrade",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Nov032023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-16-Haggerty-vs-Andrade-99343"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 17",
+ "location": "TBD",
+ "date": "Dec082023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-17-99705"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "Fight Title",
+ "location": "Location",
+ "date": "Date",
+ "event_url": "https://www.sherdog.com/organizations/ONE-Championship-3877"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 15: Le vs. Freymanov",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Oct062023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-15-Le-vs-Freymanov-98869"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 36",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Oct062023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-36-99706"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 14: Stamp vs. Ham",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Sep292023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-14-Stamp-vs-Ham-98325"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 35",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Sep292023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-35-99661"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 34",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Sep222023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-34-98856"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 33",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Sep152023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-33-98855"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 32",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Sep082023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-32-98854"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 31",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Sep012023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-31-98853"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 30",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Aug252023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-30-98852"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 29",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Aug182023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-29-98851"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 28",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Aug112023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-28-98850"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 27",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Aug042023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-27-98849"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 13: Allazov vs. Grigorian",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Aug042023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-13-Allazov-vs-Grigorian-98324"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 26",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jul212023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-26-98550"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 25",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jul142023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-25-98502"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 12: Superlek vs. Khalilov",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jul142023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-12-Superlek-vs-Khalilov-97679"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 24",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jul072023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-24-98493"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 23",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jun302023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-23-98414"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 22",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jun232023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-22-97977"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 21",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jun162023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-21-97976"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 20",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jun092023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-20-97975"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 11: Eersel vs. Menshikov",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jun092023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-11-Eersel-vs-Menshikov-97678"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 19",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jun022023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-19-97974"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 18",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "May262023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-18-97973"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 17",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "May192023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-17-97779"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 16",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "May122023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-16-97778"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 15",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "May052023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-15-97677"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 10: Johnson vs. Moraes 3",
+ "location": "1stBank Center, Broomfield, Colorado, United States",
+ "date": "May052023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-10-Johnson-vs-Moraes-3-95758"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 14",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Apr282023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-14-97676"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 13",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Apr212023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-13-97488"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 9: Nong-O vs. Haggerty",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Apr212023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-9-NongO-vs-Haggerty-96112"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 12",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Apr072023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-12-97323"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 11",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Mar312023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-11-97322"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 10",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Mar242023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-10-97109"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 8: Superlek vs. Williams",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Mar242023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-8-Superlek-vs-Williams-95478"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 9",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Mar172023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-9-96670"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 8",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Mar102023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-8-96669"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 7",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Mar032023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-7-96668"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 6",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Feb242023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-6-96667"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 7: Lineker vs. Andrade 2",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Feb242023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-7-Lineker-vs-Andrade-2-95477"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 5",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Feb172023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-5-96631"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 4",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Feb102023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-4-96630"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 3",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Feb032023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-3-96454"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 2",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jan272023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-2-96453"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 1",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jan202023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-1-96251"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 6: Superbon vs. Allazov",
+ "location": "Impact Arena, Bangkok, Thailand",
+ "date": "Jan132023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-6-Superbon-vs-Allazov-95350"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 164: Pacio vs. Brooks",
+ "location": "SM Mall of Asia Arena, Pasay, Manila, Philippines",
+ "date": "Dec032022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-164-Pacio-vs-Brooks-95476"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 5: De Ridder vs. Malykhin",
+ "location": "SM Mall of Asia Arena, Pasay, Manila, Philippines",
+ "date": "Dec022022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-5-De-Ridder-vs-Malykhin-94094"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "Road to One - Warriors of the Steppe Finals",
+ "location": "Steppe Arena, Ulaanbataar, Mongolia",
+ "date": "Nov262022",
+ "event_url": "https://www.sherdog.com/events/Road-to-One-Warriors-of-the-Steppe-Finals-95630"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "Road to One - Warriors of the Steppe Semifinals",
+ "location": "Steppe Arena, Ulaanbataar, Mongolia",
+ "date": "Nov202022",
+ "event_url": "https://www.sherdog.com/events/Road-to-One-Warriors-of-the-Steppe-Semifinals-95859"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 163: Akimoto vs. Petchtanong",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Nov192022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-163-Akimoto-vs-Petchtanong-95203"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 4: Abbasov vs. Lee",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Nov182022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-4-Abbasov-vs-Lee-94095"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 3 - Lineker vs. Andrade",
+ "location": "Axiata Arena, Kuala Lumpur, Malaysia",
+ "date": "Oct212022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-3-Lineker-vs-Andrade-94093"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 162",
+ "location": "Axiata Arena, Kuala Lumpur, Malaysia",
+ "date": "Oct212022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-162-95050"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 2 - Xiong vs. Lee 3",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Sep302022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-2-Xiong-vs-Lee-3-94092"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 161",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Sep292022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-161-94479"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship\t - One on Prime Video 1 - Moraes vs. Johnson 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Aug262022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-1-Moraes-vs-Johnson-2-93452"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 160",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Aug262022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-160-92912"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship\t - One 159",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jul222022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-159-92911"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 158",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jun032022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-158-92909"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 157",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "May202022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-157-92908"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One 156",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr222022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-156-92707"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One X",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Mar262022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-X-91598"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Lights Out",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Mar112022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Lights-Out-91597"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Full Circle",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Feb252022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Full-Circle-91596"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Bad Blood",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Feb112022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Bad-Blood-91595"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Only the Brave",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jan282022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Only-the-Brave-91594"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Heavy Hitters",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jan142022",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Heavy-Hitters-91383"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Road to One: China 4",
+ "location": "Shanghai, China",
+ "date": "Dec182021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Road-to-One-China-4-97590"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Winter Warriors 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Dec032021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Winter-Warriors-2-91281"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Winter Warriors",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Dec032021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Winter-Warriors-90547"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Road to One: China 3",
+ "location": "Shanghai, China",
+ "date": "Nov132021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Road-to-One-China-3-97589"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - NextGen 3",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Oct292021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-NextGen-3-91381"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - NextGen 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Oct292021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-NextGen-2-90725"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - NextGen",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Oct292021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-NextGen-89975"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Road to One: China 2",
+ "location": "Shanghai, China",
+ "date": "Sep302021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Road-to-One-China-2-97588"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Road to One: China 1",
+ "location": "Shanghai, China",
+ "date": "Sep292021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Road-to-One-China-1-97587"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Revolution",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Sep242021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Revolution-89974"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Empower",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Sep032021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Empower-88848"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Battleground 3",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jul302021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Battleground-3-89972"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Battleground 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jul302021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Battleground-2-89971"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Battleground",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jul302021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Battleground-89938"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Full Blast 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr282021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Full-Blast-2-89495"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Full Blast",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr282021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Full-Blast-89445"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Dangal",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr282021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Dangal-89278"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on TNT 4",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr282021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-TNT-4-88331"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on TNT 3",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr072021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-TNT-3-91382"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on TNT 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr072021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-TNT-2-88592"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on TNT 1",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Apr072021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-TNT-1-88272"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Fists of Fury 3",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Feb262021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Fists-of-Fury-3-88676"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Fists of Fury 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Feb262021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Fists-of-Fury-2-88675"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Fists of Fury",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Feb262021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Fists-of-Fury-88180"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Unbreakable 3",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jan222021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Unbreakable-3-88353"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Unbreakable 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jan222021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Unbreakable-2-88352"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Unbreakable",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Jan222021",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Unbreakable-88351"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Collision Course 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Dec182020",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Collision-Course-2-88137"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Collision Course",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Dec182020",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Collision-Course-86183"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Big Bang 2",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Dec112020",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Big-Bang-2-86181"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Big Bang",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Dec042020",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Big-Bang-86179"
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - Inside the Matrix 4",
+ "location": "Singapore Indoor Stadium, Kallang, Singapore",
+ "date": "Oct302020",
+ "event_url": "https://www.sherdog.com/events/One-Championship-Inside-the-Matrix-4-87967"
+ },
+ {
  "organization": "Ultimate Fighting Championship (UFC)",
  "title": "Fight Title",
  "location": "Location",
@@ -775,5 +2210,537 @@
  "location": "UFC Apex, Las Vegas, Nevada, United States",
  "date": "Oct092021",
  "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-194-Dern-vs-Rodriguez-89818"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Fight Title",
+ "location": "Location",
+ "date": "Date",
+ "event_url": "https://www.sherdog.com/organizations/Professional-Fighters-League-12241"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - 2023 Season PFL Championships",
+ "location": "The Anthem, Washington, D.C., United States",
+ "date": "Nov242023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2023-Season-PFL-Championships-98844"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Europe 4: 2023 Finals",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Dec082023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-4-2023-Finals-96179"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Fight Title",
+ "location": "Location",
+ "date": "Date",
+ "event_url": "https://www.sherdog.com/organizations/Professional-Fighters-League-12241"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Europe 3: 2023 Playoffs",
+ "location": "Zenith Paris La Villette, Paris, France",
+ "date": "Sep302023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-3-2023-Playoffs-96178"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 9: 2023 Playoffs",
+ "location": "The Theater at Madison Square Garden, New York, New York, United States",
+ "date": "Aug232023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-9-2023-Playoffs-98149"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 8: 2023 Playoffs",
+ "location": "The Theater at Madison Square Garden, New York, New York, United States",
+ "date": "Aug182023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-8-2023-Playoffs-98148"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 7: 2023 Playoffs",
+ "location": "Boeing Center at Tech Port, San Antonio, Texas, United States",
+ "date": "Aug042023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-7-2023-Playoffs-98147"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Europe 2: 2023 Regular Season",
+ "location": "Verti Music Hall, Berlin, Germany",
+ "date": "Jul082023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-2-2023-Regular-Season-96177"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 6: 2023 Regular Season",
+ "location": "Overtime Elite Arena, Atlanta, Georgia, United States",
+ "date": "Jun232023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-6-2023-Regular-Season-96901"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 5: 2023 Regular Season",
+ "location": "Overtime Elite Arena, Atlanta, Georgia, United States",
+ "date": "Jun162023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-5-2023-Regular-Season-96900"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 4: 2023 Regular Season",
+ "location": "Overtime Elite Arena, Atlanta, Georgia, United States",
+ "date": "Jun082023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-4-2023-Regular-Season-96899"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 3: 2023 Regular Season",
+ "location": "The Theater at Virgin Hotels, Las Vegas, Nevada, United States",
+ "date": "Apr142023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-3-2023-Regular-Season-96442"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 2: 2023 Regular Season",
+ "location": "The Theater at Virgin Hotels, Las Vegas, Nevada, United States",
+ "date": "Apr072023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-2-2023-Regular-Season-96441"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 1: 2023 Regular Season",
+ "location": "The Theater at Virgin Hotels, Las Vegas, Nevada, United States",
+ "date": "Apr012023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-1-2023-Regular-Season-96440"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Europe 1: 2023 Regular Season",
+ "location": "Vertu Motors Arena, Newcastle, Northumberland, England",
+ "date": "Mar252023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-1-2023-Regular-Season-96176"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 8: 2nd Chance Fights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Mar172023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-8-2nd-Chance-Fights-95937"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 7: Light Heavyweights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Mar102023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-7-Light-Heavyweights-95936"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 6: Featherweights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Mar032023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-6-Featherweights-95935"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 5: Women's Flyweights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Feb242023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-5-Womens-Flyweights-95934"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 4: Lightweights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Feb172023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-4-Lightweights-95933"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 3: Heavyweights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Feb102023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-3-Heavyweights-95932"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 2: Women's Featherweights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Feb032023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-2-Womens-Featherweights-95931"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2023 Week 1: Welterweights",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Jan272023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2023-Week-1-Welterweights-95930"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - 2022 Season PFL Championships",
+ "location": "Hulu Theater at Madison Square Garden, New York, New York, United States",
+ "date": "Nov252022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2022-Season-PFL-Championships-94333"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 9: 2022 Playoffs",
+ "location": "Copperbox Arena, London, England",
+ "date": "Aug202022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-9-2022-Playoffs-93336"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 8: 2022 Playoffs",
+ "location": "Motorpoint Arena, Cardiff, Wales",
+ "date": "Aug132022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-8-2022-Playoffs-93335"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 7: 2022 Playoffs",
+ "location": "Hulu Theater at Madison Square Garden, New York, New York, United States",
+ "date": "Aug052022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-7-2022-Playoffs-93334"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 6: 2022 Regular Season",
+ "location": "Overtime Elite Arena, Atlanta, Georgia, United States",
+ "date": "Jul012022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-6-2022-Regular-Season-92572"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 5: 2022 Regular Season",
+ "location": "Overtime Elite Arena, Atlanta, Georgia, United States",
+ "date": "Jun242022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-5-2022-Regular-Season-92571"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 4: 2022 Regular Season",
+ "location": "Overtime Elite Arena, Atlanta, Georgia, United States",
+ "date": "Jun172022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-4-2022-Regular-Season-92570"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 3: 2022 Regular Season",
+ "location": "Esports Stadium Arlington, Arlington, Texas, United States",
+ "date": "May062022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-3-2022-Regular-Season-92569"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 2: 2022 Regular Season",
+ "location": "Esports Stadium Arlington, Arlington, Texas, United States",
+ "date": "Apr282022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-2-2022-Regular-Season-92568"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 1: 2022 Regular Season",
+ "location": "Esports Stadium Arlington, Arlington, Texas, United States",
+ "date": "Apr202022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-1-2022-Regular-Season-92567"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 8",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Apr082022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-8-92679"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 7",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Apr012022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-7-92360"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 6",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Mar252022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-6-91983"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 5",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Mar182022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-5-91982"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 4",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Mar112022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-4-91926"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 3",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Mar042022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-3-91927"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 2",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Feb252022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-2-91862"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Challenger Series 1",
+ "location": "Universal Studios, Orlando, Florida, United States",
+ "date": "Feb182022",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Challenger-Series-1-91855"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - 2021 Season PFL Championships",
+ "location": "Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",
+ "date": "Oct272021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2021-Season-PFL-Championships-90187"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 9: 2021 Playoffs",
+ "location": "Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",
+ "date": "Aug272021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-9-2021-Playoffs-89639"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 8: 2021 Playoffs",
+ "location": "Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",
+ "date": "Aug192021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-8-2021-Playoffs-89638"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 7: 2021 Playoffs",
+ "location": "Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",
+ "date": "Aug132021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-7-2021-Playoffs-89637"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 6: 2021 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Jun252021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-6-2021-Regular-Season-87834"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 5: 2021 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Jun172021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-5-2021-Regular-Season-87833"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 4: 2021 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Jun102021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-4-2021-Regular-Season-87832"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 3: 2021 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "May062021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-3-2021-Regular-Season-87831"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 2: 2021 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Apr292021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-2-2021-Regular-Season-87830"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 1: 2021 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Apr232021",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-1-2021-Regular-Season-87829"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - 2019 Season PFL Championships",
+ "location": "Hulu Theater at Madison Square Garden, New York, New York, United States",
+ "date": "Dec312019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2019-Season-PFL-Championships-81859"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 9: 2019 Season PFL Playoffs 3",
+ "location": "Mandalay Bay Events Center, Las Vegas, Nevada, United States",
+ "date": "Oct312019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-9-2019-Season-PFL-Playoffs-3-78973"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 8: 2019 Season PFL Playoffs 2",
+ "location": "Mandalay Bay Events Center, Las Vegas, Nevada, United States",
+ "date": "Oct172019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-8-2019-Season-PFL-Playoffs-2-78971"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League -  PFL 7: 2019 Season PFL Playoffs 1",
+ "location": "Mandalay Bay Events Center, Las Vegas, Nevada, United States",
+ "date": "Oct112019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-7-2019-Season-PFL-Playoffs-1-78969"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 6: 2019 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Aug082019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-6-2019-Regular-Season-75973"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 5: 2019 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Jul252019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-5-2019-Regular-Season-75971"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 4: 2019 Regular Season",
+ "location": "Ocean Casino Resort, Atlantic City, New Jersey, United States",
+ "date": "Jul112019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-4-2019-Regular-Season-75969"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 3: 2019 Regular Season",
+ "location": "NYCB Live at Nassau Coliseum, Uniondale, New York, United States",
+ "date": "Jun062019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-3-2019-Regular-Season-75967"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 2: 2019 Regular Season",
+ "location": "NYCB Live at Nassau Coliseum, Uniondale, New York, United States",
+ "date": "May232019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-2-2019-Regular-Season-75965"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 1: 2019 Regular Season",
+ "location": "NYCB Live at Nassau Coliseum, Uniondale, New York, United States",
+ "date": "May092019",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-1-2019-Regular-Season-75963"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League  - 2018 Season PFL Championships",
+ "location": "Hulu Theater at Madison Square Garden, New York, New York, United States",
+ "date": "Dec312018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2018-Season-PFL-Championships-67151"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 10: 2018 Season PFL Playoffs 3",
+ "location": "Entertainment and Sports Arena, Washington, D.C., United States",
+ "date": "Oct202018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-10-2018-Season-PFL-Playoffs-3-67149"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 9: 2018 Season PFL Playoffs 2",
+ "location": "Long Beach Arena, Long Beach, California, United States",
+ "date": "Oct132018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-9-2018-Season-PFL-Playoffs-2-67147"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League  - PFL 8: 2018 Season PFL Playoffs 1",
+ "location": "Ernest N. Morial Convention Center, New Orleans, Louisiana, United States",
+ "date": "Oct052018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-8-2018-Season-PFL-Playoffs-1-67145"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League  - PFL 7: 2018 Regular Season",
+ "location": "Ocean Resort Casino, Atlantic City, New Jersey, United States",
+ "date": "Aug302018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-7-2018-Regular-Season-67143"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 6: 2018 Regular Season",
+ "location": "Ocean Resort Casino, Atlantic City, New Jersey, United States",
+ "date": "Aug162018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-6-2018-Regular-Season-67141"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League  - PFL 5: 2018 Regular Season",
+ "location": "Nassau Veterans Memorial Coliseum, Uniondale, New York, United States",
+ "date": "Aug022018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-5-2018-Regular-Season-67139"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 4: 2018 Regular Season",
+ "location": "Nassau Veterans Memorial Coliseum, Uniondale, New York, United States",
+ "date": "Jul192018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-4-2018-Regular-Season-67137"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 3: 2018 Regular Season",
+ "location": "GWU Smith Center, Washington, D.C., United States",
+ "date": "Jul052018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-3-2018-Regular-Season-67135"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 2: 2018 Regular Season",
+ "location": "Chicago Theater, Chicago, Illinois, United States",
+ "date": "Jun212018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-2-2018-Regular-Season-67133"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL 1: 2018 Regular Season",
+ "location": "Madison Square Garden, New York, New York, United States",
+ "date": "Jun072018",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-1-2018-Regular-Season-67131"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL: Fight Night",
+ "location": "Washington Hilton, Washington, D.C., United States",
+ "date": "Nov022017",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Fight-Night-60647"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL: Everett",
+ "location": "Xfinity Arena, Everett, Washington, United States",
+ "date": "Jul292017",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Everett-60643"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL: Daytona",
+ "location": "Daytona International Speedway, Daytona Beach, Florida, United States",
+ "date": "Jun302017",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Daytona-60641"
  }
  ]

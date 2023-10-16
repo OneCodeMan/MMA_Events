@@ -1,10 +1,7 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
-	"log"
-	"os"
 
 	"github.com/gocolly/colly"
 )
@@ -18,6 +15,10 @@ type Event struct {
 }
 
 func main() {
+	runMMAScraper()
+}
+
+func runMMAScraper() {
 	c := colly.NewCollector(
 		colly.Async(true),
 	)
@@ -50,6 +51,8 @@ func main() {
 			events = append(events, currentEvent)
 
 		})
+
+		events = events[1:]
 	})
 
 	// Print out where we're going whenever we go there
@@ -59,14 +62,10 @@ func main() {
 	})
 
 	c.Visit("https://www.sherdog.com/organizations/Ultimate-Fighting-Championship-UFC-2")
+	c.Visit("https://www.sherdog.com/organizations/Bellator-MMA-1960")
+	c.Visit("https://www.sherdog.com/organizations/Professional-Fighters-League-12241")
+	c.Visit("https://www.sherdog.com/organizations/ONE-Championship-3877")
 	c.Wait()
 
-	// Create JSON out of array of objects and save to JSON
-	content, err := json.MarshalIndent(events, " ", "")
-
-	if err != nil {
-		log.Fatal(err)
-	}
-	// fmt.Println(string(content))
-	os.WriteFile("mma_events.json", content, 0644)
+	createJSONFromEvents(events, "mma_events.json")
 }
