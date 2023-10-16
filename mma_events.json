@@ -1,5 +1,26 @@
 [
  {
+ "organization": "Bellator MMA",
+ "title": "Bellator 301 - Amosov vs. Jackson",
+ "location": "Wintrust Arena, Chicago, Illinois, United States",
+ "date": "Nov172023",
+ "event_url": "https://www.sherdog.com/events/Bellator-301-Amosov-vs-Jackson-99439"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - 2023 Season PFL Championships",
+ "location": "The Anthem, Washington, D.C., United States",
+ "date": "Nov242023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2023-Season-PFL-Championships-98844"
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Europe 4: 2023 Finals",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Dec082023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-4-2023-Finals-96179"
+ },
+ {
  "organization": "Ultimate Fighting Championship (UFC)",
  "title": "UFC 294 - Makhachev vs. Volkanovski 2",
  "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
@@ -89,26 +110,5 @@
  "location": "TBD",
  "date": "Dec082023",
  "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-17-99705"
- },
- {
- "organization": "Professional Fighters League",
- "title": "Professional Fighters League - 2023 Season PFL Championships",
- "location": "The Anthem, Washington, D.C., United States",
- "date": "Nov242023",
- "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2023-Season-PFL-Championships-98844"
- },
- {
- "organization": "Professional Fighters League",
- "title": "Professional Fighters League - PFL Europe 4: 2023 Finals",
- "location": "3Arena, Dublin, Ireland",
- "date": "Dec082023",
- "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-4-2023-Finals-96179"
- },
- {
- "organization": "Bellator MMA",
- "title": "Bellator 301 - Amosov vs. Jackson",
- "location": "Wintrust Arena, Chicago, Illinois, United States",
- "date": "Nov172023",
- "event_url": "https://www.sherdog.com/events/Bellator-301-Amosov-vs-Jackson-99439"
  }
  ]

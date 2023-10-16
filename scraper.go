@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"strings"
 
 	"github.com/gocolly/colly"
 )
@@ -55,12 +56,16 @@ func runMMAScraper() {
 				events = append(events, currentEvent)
 			}
 
-			// if strings.Contains(fullEventUrl, "/events/") {
-			// 	fmt.Println("Visiting", fullEventUrl)
-			// 	c.Visit(fullEventUrl)
-			// }
-
+			if strings.Contains(fullEventUrl, "/events/") {
+				fmt.Println("Visiting", fullEventUrl)
+				c.Visit(fullEventUrl)
+			}
 		})
+	})
+
+	// Actual fight data
+	c.OnHTML("", func(h *colly.HTMLElement) {
+
 	})
 
 	// Print out where we're going whenever we go there
