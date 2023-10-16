@@ -1,0 +1,72 @@
+[
+ {
+ "organization": "UFC",
+ "title": "Fight Title",
+ "location": "Location",
+ "date": "Date",
+ "event_url": "https://www.sherdog.com/organizations/Ultimate-Fighting-Championship-UFC-2"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC 294 - Makhachev vs. Volkanovski 2",
+ "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
+ "date": "Oct212023",
+ "event_url": "https://www.sherdog.com/events/UFC-294-Makhachev-vs-Volkanovski-2-97019"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC Fight Night 231 - Almeida vs. Lewis",
+ "location": "Ibirapuera Gymnasium, Sao Paulo, Sao Paulo, Brazil",
+ "date": "Nov042023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-231-Almeida-vs-Lewis-98060"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC 295 - Jones vs. Miocic",
+ "location": "Madison Square Garden, New York, New York, United States",
+ "date": "Nov112023",
+ "event_url": "https://www.sherdog.com/events/UFC-295-Jones-vs-Miocic-98494"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC Fight Night 232 - Allen vs. Craig",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Nov182023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-232-Allen-vs-Craig-98054"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC Fight Night - Dec. 2",
+ "location": "Moody Center, Austin, Texas, United States",
+ "date": "Dec022023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-2-99135"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC Fight Night - Dec. 9",
+ "location": "Mercedes-Benz Arena, Shanghai, China",
+ "date": "Dec092023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-9-99468"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC 296 - Edwards vs. Covington",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Dec162023",
+ "event_url": "https://www.sherdog.com/events/UFC-296-Edwards-vs-Covington-98050"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC Fight Night - Jan. 13",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jan132024",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Jan-13-99605"
+ },
+ {
+ "organization": "UFC",
+ "title": "UFC 297 - Jan. 20",
+ "location": "Scotiabank Arena, Toronto, Ontario, Canada",
+ "date": "Jan202024",
+ "event_url": "https://www.sherdog.com/events/UFC-297-Jan-20-99740"
+ }
+ ]
