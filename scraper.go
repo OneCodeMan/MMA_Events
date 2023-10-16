@@ -21,7 +21,11 @@ func main() {
 func runMMAScraper() {
 	c := colly.NewCollector(
 		colly.Async(true),
+		// colly.MaxDepth(1),
+		// colly.DetectCharset(),
+		// colly.AllowURLRevisit(),
 	)
+	// c.SetRequestTimeout(120 * time.Second)
 
 	fmt.Println("Main running!")
 
@@ -30,8 +34,7 @@ func runMMAScraper() {
 	// All events
 	c.OnHTML("div.col-left", func(h *colly.HTMLElement) {
 		organizationName := h.ChildText("div[itemprop=name]")
-
-		h.ForEach("tr", func(_ int, el *colly.HTMLElement) {
+		h.ForEach("div#upcoming_tab tr", func(_ int, el *colly.HTMLElement) {
 
 			eventDateString := el.ChildText("td:nth-child(1)")
 			eventTitleString := el.ChildText("td:nth-child(2)")
@@ -48,11 +51,16 @@ func runMMAScraper() {
 				EventUrl:     fullEventUrl,
 			}
 
-			events = append(events, currentEvent)
+			if (eventTitleString != "Fight Title") && (eventLocationString != "Location") && (eventDateString != "Date") {
+				events = append(events, currentEvent)
+			}
+
+			// if strings.Contains(fullEventUrl, "/events/") {
+			// 	fmt.Println("Visiting", fullEventUrl)
+			// 	c.Visit(fullEventUrl)
+			// }
 
 		})
-
-		events = events[1:]
 	})
 
 	// Print out where we're going whenever we go there
@@ -61,6 +69,12 @@ func runMMAScraper() {
 		fmt.Println("---------------")
 	})
 
+	// Error Handling
+	c.OnError(func(r *colly.Response, e error) {
+		fmt.Println("error:", e, r.Request.URL, string(r.Body))
+	})
+
+	// Actually visiting the URLs
 	c.Visit("https://www.sherdog.com/organizations/Ultimate-Fighting-Championship-UFC-2")
 	c.Visit("https://www.sherdog.com/organizations/Bellator-MMA-1960")
 	c.Visit("https://www.sherdog.com/organizations/Professional-Fighters-League-12241")
