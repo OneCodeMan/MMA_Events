@@ -3,11 +3,11 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"net/http"
 	"os"
 	"strings"
 
+	"github.com/gin-gonic/gin"
 	"github.com/gocolly/colly"
 )
 
@@ -41,31 +41,21 @@ type Fight struct {
 
 func main() {
 
-	runMMAScraper()
+	// runMMAScraper()
 	hostJSONOfEvents()
 
-	// parseJSONToEvents()
-
 }
 
-// Host it on the server
+// REST API STUFF
 func hostJSONOfEvents() {
-	http.HandleFunc("/events", getEvents)
-	http.ListenAndServe(":8080", nil)
+	router := gin.Default()
+	router.GET("/events", getEvents)
+	router.Run("localhost:8080")
 }
 
-func getEvents(w http.ResponseWriter, r *http.Request) {
-	// Read the JSON file
-	data, err := ioutil.ReadFile("mma_events.json")
-	if err != nil {
-		http.Error(w, "Error reading JSON data", http.StatusInternalServerError)
-		return
-	}
-
-	fmt.Println("Should be hosting the events now.")
-	// Write the JSON data to the response
-	w.Header().Set("Content-Type", "application/json")
-	w.Write(data)
+func getEvents(c *gin.Context) {
+	events := parseJSONToEvents()
+	c.IndentedJSON(http.StatusOK, events)
 }
 
 // Convert JSON to Event structs, for the API!!
