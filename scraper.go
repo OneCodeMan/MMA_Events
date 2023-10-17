@@ -48,9 +48,10 @@ func main() {
 
 // REST API STUFF
 func hostJSONOfEvents() {
+	port := os.Getenv("PORT")
 	router := gin.Default()
 	router.GET("/events", getEvents)
-	router.Run()
+	router.Run(":" + port)
 }
 
 func getEvents(c *gin.Context) {
