@@ -1,7 +1,11 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
+	"net/http"
+	"os"
 	"strings"
 
 	"github.com/gocolly/colly"
@@ -36,7 +40,63 @@ type Fight struct {
 // Main
 
 func main() {
+
 	runMMAScraper()
+	hostJSONOfEvents()
+
+	// parseJSONToEvents()
+
+}
+
+// Host it on the server
+func hostJSONOfEvents() {
+	http.HandleFunc("/events", getEvents)
+	http.ListenAndServe(":8080", nil)
+}
+
+func getEvents(w http.ResponseWriter, r *http.Request) {
+	// Read the JSON file
+	data, err := ioutil.ReadFile("mma_events.json")
+	if err != nil {
+		http.Error(w, "Error reading JSON data", http.StatusInternalServerError)
+		return
+	}
+
+	fmt.Println("Should be hosting the events now.")
+	// Write the JSON data to the response
+	w.Header().Set("Content-Type", "application/json")
+	w.Write(data)
+}
+
+// Convert JSON to Event structs, for the API!!
+func parseJSONToEvents() []Event {
+	// Open the JSON file
+	file, err := os.Open("mma_events.json")
+	if err != nil {
+		fmt.Println("Error opening file:", err)
+		errorEvents := make([]Event, 0)
+		return errorEvents
+	}
+	defer file.Close()
+
+	// Decode the JSON data into a slice of Person objects
+	var events []Event
+	decoder := json.NewDecoder(file)
+	if err := decoder.Decode(&events); err != nil {
+		fmt.Println("Error decoding JSON:", err)
+		return events
+	}
+
+	// Access the data
+	for i, event := range events {
+		fmt.Printf("Event %d:\n", i+1)
+		fmt.Printf("Organization: %s\n", event.Organization)
+		fmt.Printf("Location: %s\n", event.Title)
+		fmt.Println()
+	}
+
+	return events
+
 }
 
 // Scrapes
