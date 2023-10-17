@@ -50,7 +50,7 @@ func main() {
 func hostJSONOfEvents() {
 	router := gin.Default()
 	router.GET("/events", getEvents)
-	router.Run("localhost:8080")
+	router.Run()
 }
 
 func getEvents(c *gin.Context) {
