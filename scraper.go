@@ -1,9 +1,13 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
+	"net/http"
+	"os"
 	"strings"
 
+	"github.com/gin-gonic/gin"
 	"github.com/gocolly/colly"
 )
 
@@ -36,7 +40,54 @@ type Fight struct {
 // Main
 
 func main() {
-	runMMAScraper()
+
+	// runMMAScraper()
+	hostJSONOfEvents()
+
+}
+
+// REST API STUFF
+func hostJSONOfEvents() {
+	port := os.Getenv("PORT")
+	router := gin.Default()
+	router.GET("/events", getEvents)
+	router.Run(":" + port)
+}
+
+func getEvents(c *gin.Context) {
+	events := parseJSONToEvents()
+	c.IndentedJSON(http.StatusOK, events)
+}
+
+// Convert JSON to Event structs, for the API!!
+func parseJSONToEvents() []Event {
+	// Open the JSON file
+	file, err := os.Open("mma_events.json")
+	if err != nil {
+		fmt.Println("Error opening file:", err)
+		errorEvents := make([]Event, 0)
+		return errorEvents
+	}
+	defer file.Close()
+
+	// Decode the JSON data into a slice of Person objects
+	var events []Event
+	decoder := json.NewDecoder(file)
+	if err := decoder.Decode(&events); err != nil {
+		fmt.Println("Error decoding JSON:", err)
+		return events
+	}
+
+	// Access the data
+	for i, event := range events {
+		fmt.Printf("Event %d:\n", i+1)
+		fmt.Printf("Organization: %s\n", event.Organization)
+		fmt.Printf("Location: %s\n", event.Title)
+		fmt.Println()
+	}
+
+	return events
+
 }
 
 // Scrapes
