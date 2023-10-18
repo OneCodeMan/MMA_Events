@@ -1,9 +1,11 @@
 'use client'
 
 import axios from 'axios'
-import { useEffect, useState } from 'react';
-import sortBy from 'lodash/sortBy';
-import FightDetails from './components/FightDetails';
+import { useEffect, useState } from 'react'
+import sortBy from 'lodash/sortBy'
+
+import SelectedEvent from '@/Components/SelectedEvent/SelectedEvent'
+import ShortDivider from '@/Components/ShortDivider/ShortDivider'
 
 export type Fighter = {
   name: string;
@@ -54,10 +56,18 @@ export default function Home() {
     }
   }
 
-  const toggleUFCOnly = () => {
-    setUfcOnly(!ufcOnly)
+  const goToEventPage = (eventURL) => {
+    let newWindow = window.open(eventURL, '_blank', 'noopener,noreferrer')
+    if (newWindow) newWindow.opener = null
+  }
 
-    if (ufcOnly) {
+  const toggleUFCOnly = () => {
+    console.log(`ufcOnly before setting it toggled: ${ufcOnly}`)
+    let updatedUfcOnly = !ufcOnly
+    setUfcOnly((prevUfcOnly) => !prevUfcOnly)
+    console.log(`ufcOnly before after setting it toggled: ${ufcOnly}`)
+
+    if (updatedUfcOnly) {
       let filteredEvents = events.filter(event => event.organization.includes("UFC"))
       setFilteredEvents(filteredEvents)
     } else {
@@ -65,6 +75,8 @@ export default function Home() {
     }
 
     setSelectedEventIndex(0)
+
+    // console.log(`ufcOnly before after setting it toggled, again: ${ufcOnly}\n\n\n`)
     
   }
 
@@ -81,7 +93,6 @@ export default function Home() {
       const filteredSortedEventsOnlyFutureDates = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
 
       setEvents(filteredSortedEventsOnlyFutureDates)
-
       console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
 
       setFilteredEvents(filteredSortedEventsOnlyFutureDates)
@@ -89,7 +100,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-12">
+    <main className="flex min-h-screen flex-col items-center justify-between p-8">
       <div>
         <div className='current-event max-w-2xl'>
           {filteredEvents.map((event, index) => {
@@ -99,7 +110,7 @@ export default function Home() {
 
                   <div id="button-wrapper" className='flow-root px-5 w-full'>
                     <button 
-                      className='float-left rounded-full disabled:text-gray-600' 
+                      className='px-4 float-left rounded-full disabled:text-gray-600' 
                       disabled={!(selectedEventIndex > 0)} 
                       onClick={previousEvent}>
                         <p className='underline font-semibold'>
@@ -108,7 +119,7 @@ export default function Home() {
                     </button>
 
                     <button 
-                      className='float-right rounded-full disabled:text-gray-600'
+                      className='px-4 float-right rounded-full disabled:text-gray-600'
                       disabled={(selectedEventIndex === filteredEvents.length - 1)} 
                       onClick={nextEvent}>
                         <p className='underline font-semibold'>
@@ -119,32 +130,18 @@ export default function Home() {
 
                   <div id="fight-container" className='text-center'>
 
-                    <div id='toggle-ufc'>
+                    <div id='toggle-ufc' className='pt-3'>
                       <label className="relative inline-flex items-center cursor-pointer">
-                        <input type="checkbox" checked={ufcOnly} onClick={toggleUFCOnly} onChange={e => {}} className="sr-only peer" />
+                        <input type="checkbox" checked={ufcOnly} onClick={() => toggleUFCOnly()} onChange={e => {}} className="sr-only peer" />
                         <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-4 peer-focus:ring-teal-300 dark:peer-focus:ring-teal-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-teal-600"></div>
-                        <span className="ml-3 text-sm font-medium dark:text-gray-300">UFC only</span>
+                        <span className="ml-3 text-sm font-medium dark:text-gray-300">Show UFC Events Only</span>
                       </label>
                     </div>
 
-                    <h1 id="event-title" className='text-3xl font-bold pt-2 text-center sm:text-1xl'>{event.title}</h1>
-                    <h3 id="event-date" className='text-center pt-2 text-xl'>{event.date}</h3>
-                    <h3 id="event-location" className='text-center italic pt-2'>{event.location}</h3>
-                    <p className='text-center pt-2'>
-                      <a href={event.event_url} className='underline decoration-pink-500'>Event Page</a>
-                    </p>
-                    <ul id='fights-list' className='list-none'>
-                      { event.fights.length > 0 ? 
-                        event.fights.map((fight, index) => {
-                          return (
-                              <li key={index} className='py-2 text-xl'>{fight.fighter_one.name} vs. {fight.fighter_two.name} ({fight.weight})</li>
-                          )
-                        })
-                        : <p className='text-center font-bold text-l pt-5'>
-                            No fights for this card at the moment. Stay tuned for updates!
-                          </p>
-                      }
-                    </ul>
+                    <SelectedEvent 
+                      event={event} 
+                      goToEventPage={goToEventPage} 
+                      isSoonest={index === 0}/>
                   </div>
                 </div>
               )
@@ -155,7 +152,7 @@ export default function Home() {
           })}
         </div>
 
-        <hr className='my-6 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:opacity-100' />
+        <hr className='py-3' />
         
         <div id="all-events" className='text-center'>
           <h2 className='text-center font-bold text-2xl pb-2'>More Events</h2>
