@@ -71,13 +71,13 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-12">
       <div>
 
-        <div className="current-event">
+        <div className='current-event max-w-2xl'>
           {events.map((event, index) => {
             if (index === selectedEventIndex) {
               return (
                 <div key={index}>
 
-                  <div id="button-wrapper" className='flow-root px-5'>
+                  <div id="button-wrapper" className='flow-root px-5 w-full'>
                     <button 
                       className='float-left rounded-full disabled:text-gray-600' 
                       disabled={!(selectedEventIndex > 0)} 
