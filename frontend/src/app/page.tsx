@@ -6,25 +6,9 @@ import sortBy from 'lodash/sortBy'
 
 import SelectedEvent from '@/Components/SelectedEvent/SelectedEvent'
 import ShortDivider from '@/Components/ShortDivider/ShortDivider'
-
-export type Fighter = {
-  name: string;
-  record: string;
-}
-
-export type Fight = {
-  fighter_one: Fighter;
-  fighter_two: Fighter;
-  weight: string
-}
-
-export type Event = {
-  organization: string;
-  title: string;
-  date: string;
-  event_url: string;
-  fights: Fight[];
-}
+import Fight from '@/Types/Fight'
+import Fighter from '@/Types/Fighter'
+import Event from '@/Types/Event'
 
 function parseDate(dateString: string) {
   const parsedDate = new Date(dateString);
@@ -36,6 +20,25 @@ export default function Home() {
   const [filteredEvents, setFilteredEvents] = useState([])
   const [selectedEventIndex, setSelectedEventIndex] = useState(0)
   const [ufcOnly, setUfcOnly] = useState(false)
+
+  useEffect(() => {
+    const url = 'https://floating-sierra-91917-e404c4f79857.herokuapp.com/events'
+    axios.get(url).then((response) => {
+      console.log(response)
+      var eventsList = response.data
+
+      const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date))
+  
+      // Make sure we only display dates in the future.
+      const yesterdayDate = new Date(new Date().setDate(new Date().getDate() - 1))
+      const filteredSortedEventsOnlyFutureDates = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
+
+      setEvents(filteredSortedEventsOnlyFutureDates)
+      console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
+
+      setFilteredEvents(filteredSortedEventsOnlyFutureDates)
+    });
+  }, []);
 
   function nextEvent() {
     console.log("nextEvent called")
@@ -79,25 +82,6 @@ export default function Home() {
     // console.log(`ufcOnly before after setting it toggled, again: ${ufcOnly}\n\n\n`)
     
   }
-
-  useEffect(() => {
-    const url = 'https://floating-sierra-91917-e404c4f79857.herokuapp.com/events'
-    axios.get(url).then((response) => {
-      console.log(response)
-      var eventsList = response.data
-
-      const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date))
-  
-      // Make sure we only display dates in the future.
-      const yesterdayDate = new Date(new Date().setDate(new Date().getDate() - 1))
-      const filteredSortedEventsOnlyFutureDates = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
-
-      setEvents(filteredSortedEventsOnlyFutureDates)
-      console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
-
-      setFilteredEvents(filteredSortedEventsOnlyFutureDates)
-    });
-  }, []);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-8">
