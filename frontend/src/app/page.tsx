@@ -54,11 +54,13 @@ export default function Home() {
     }
   }
 
-  function toggleUFCOnly() {
+  const toggleUFCOnly = () => {
     console.log(`setUFCOnly was initially: ${ufcOnly}`)
 
-    setUfcOnly(!ufcOnly)
+    let toggledValue = ufcOnly ? false : true
 
+    console.log(`toggledValue is: ${toggledValue}`)
+    setUfcOnly(toggledValue)
     console.log(`setUFCOnly switched to: ${ufcOnly}`)
 
     if (ufcOnly) {
@@ -159,7 +161,7 @@ export default function Home() {
 
         <hr className='my-6 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:opacity-100' />
         
-        <div id="other-events" className='text-center'>
+        <div id="all-events" className='text-center'>
           <h2 className='text-center font-bold text-2xl pb-2'>More Events</h2>
           {filteredEvents 
           ? filteredEvents.map((event, index) => {
