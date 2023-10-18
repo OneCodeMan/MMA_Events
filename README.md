@@ -3,7 +3,8 @@ A website that displays upcoming Mixed Martial Arts (MMA) events. From UFC, ONE,
 
 Data is scraped from the <a href="https://www.sherdog.com/">Sherdog</a> website.
 
-Backend: Golang, Gin, Colly, Heroku \n
+Backend: Golang, Gin, Colly, Heroku
+
 Frontend: ReactJS, NextJS, Tailwind CSS, axios
 
 ## Screenshots
