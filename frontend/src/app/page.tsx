@@ -48,7 +48,9 @@ export default function Home() {
 
   function setEvent(index) {
     console.log(`setEvent called  ${index}`)
-    setSelectedEventIndex(index)
+    if (index !== selectedEventIndex) {
+      setSelectedEventIndex(index)
+    }
   }
 
   useEffect(() => {
@@ -136,19 +138,13 @@ export default function Home() {
           <h2 className='text-center font-bold text-2xl pb-2'>More Events</h2>
           {events 
           ? events.map((event, index) => {
-            if (index === selectedEventIndex) {
+            return (
               <div key={index}> 
-                  <p className='py-1 text-sky-400'>{event.title} - {event.date}</p>
-                </div>
-            } else {
-              return (
-                <div key={index}> 
-                  <p className='py-1 font-semibold hover:cursor-pointer' onClick={() => setEvent(index)}>
-                    {event.title} - {event.date}
-                  </p>
-                </div>
-              )
-            }
+                <p className={index === selectedEventIndex ? 'py-1 font-bold text-blue-600 underline hover:cursor-pointer' : 'py-1 font-semibold hover:cursor-pointer'} onClick={() => setEvent(index)}>
+                  {index === selectedEventIndex ? ">>" : ""}{event.title} - {event.date}
+                </p>
+              </div>
+            )
           })
           : <p>There are currently no upcoming events. This is weird!</p>}
         </div>
