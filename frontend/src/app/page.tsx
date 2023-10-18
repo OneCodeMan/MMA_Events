@@ -47,6 +47,10 @@ export default function Home() {
     setSelectedEventIndex(newSelectedEvent)
   }
 
+  function setEvent() {
+    console.log("setEvent called")
+  }
+
   useEffect(() => {
     const url = 'https://floating-sierra-91917-e404c4f79857.herokuapp.com/events'
     axios.get(url).then((response) => {
@@ -74,25 +78,38 @@ export default function Home() {
                 <div key={index}>
 
                   <div id="button-wrapper" className='flow-root px-5'>
-                    <button className='float-left rounded-full' onClick={previousEvent}>Previous</button>
-                    <button className='float-right rounded-full' onClick={nextEvent}>Next</button>
+                    <button 
+                      className='float-left rounded-full disabled:text-gray-600' 
+                      disabled={!(selectedEventIndex > 0)} 
+                      onClick={previousEvent}>
+                        Previous
+                    </button>
+
+                    <button 
+                      className='float-right rounded-full disabled:text-gray-600'
+                      disabled={(selectedEventIndex === events.length - 1)} 
+                      onClick={nextEvent}>
+                        Next
+                    </button>
                   </div>
 
                   <h1 id="event-title" className='text-3xl font-bold pt-2 text-center sm:text-1xl'>{event.title}</h1>
                   <h3 id="event-date" className='text-center pt-2 text-xl'>{event.date}</h3>
                   <h3 id="event-location" className='text-center italic pt-2'>{event.location}</h3>
                   <p className='text-center pt-2'>
-                    <a href={event.event_url} className='underline decoration-pink-500'>More info</a>
+                    <a href={event.event_url} className='underline decoration-pink-500'>Event Page</a>
                   </p>
                   <div id="fight-container" className='text-center'>
                     <ul id='fights-list' className='list-none'>
-                      { event.fights ? 
+                      { event.fights.length > 0 ? 
                         event.fights.map((fight, index) => {
                           return (
                               <li key={index} className='py-2 text-xl'>{fight.fighter_one.name} vs. {fight.fighter_two.name} ({fight.weight})</li>
                           )
                         })
-                        : null
+                        : <p className='text-center font-bold text-l pt-5'>
+                            No fights for this card at the moment. Stay tuned for updates!
+                          </p>
                       }
                     </ul>
                   </div>
@@ -105,15 +122,22 @@ export default function Home() {
           })}
         </div>
 
-        <hr className='my-12 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:opacity-100' />
+        <hr className='my-6 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:opacity-100' />
         
         <div id="other-events" className='text-center'>
+          <h2 className='text-center font-bold text-2xl pb-2'>More Events</h2>
           {events 
           ? events.map((event, index) => {
-            if (index !== selectedEventIndex) {
+            if (index === selectedEventIndex) {
+              <div key={index}> 
+                  <p className='py-1 text-sky-400'>{event.title} - {event.date}</p>
+                </div>
+            } else {
               return (
                 <div key={index}> 
-                  <p className='py-1'>{event.title} - {event.date}</p>
+                  <p className='py-1 hover:cursor-pointer' onClick={setEvent}>
+                    {event.title} - {event.date}
+                  </p>
                 </div>
               )
             }
