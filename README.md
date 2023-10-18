@@ -1,9 +1,9 @@
 # MMA_Events
 A website that displays upcoming Mixed Martial Arts (MMA) events. From UFC, ONE, Bellator and PFL.
 
-Data is from the Sherdog website.
+Data is scraped from the <a href="https://www.sherdog.com/">Sherdog</a> website.
 
-Backend: Golang, Gin, Colly, Heroku
+Backend: Golang, Gin, Colly, Heroku \n
 Frontend: ReactJS, NextJS, Tailwind CSS, axios
 
 ## Screenshots
