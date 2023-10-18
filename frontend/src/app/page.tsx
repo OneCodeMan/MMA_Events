@@ -31,6 +31,7 @@ function parseDate(dateString: string) {
 
 export default function Home() {
   const [events, setEvents] = useState([])
+  const [filteredEvents, setFilteredEvents] = useState([])
   const [selectedEventIndex, setSelectedEventIndex] = useState(0)
   const [ufcOnly, setUfcOnly] = useState(false)
 
@@ -53,6 +54,24 @@ export default function Home() {
     }
   }
 
+  function toggleUFCOnly() {
+    console.log(`setUFCOnly was initially: ${ufcOnly}`)
+
+    setUfcOnly(!ufcOnly)
+
+    console.log(`setUFCOnly switched to: ${ufcOnly}`)
+
+    if (ufcOnly) {
+      let filteredEvents = events.filter(event => event.organization.includes("UFC"))
+      setFilteredEvents(filteredEvents)
+    } else {
+      setFilteredEvents(events)
+    }
+
+    setSelectedEventIndex(0)
+    
+  }
+
   useEffect(() => {
     const url = 'https://floating-sierra-91917-e404c4f79857.herokuapp.com/events'
     axios.get(url).then((response) => {
@@ -66,6 +85,12 @@ export default function Home() {
       const filteredSortedEventsOnlyFutureDates = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
 
       setEvents(filteredSortedEventsOnlyFutureDates)
+
+      console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
+
+      const eventsToDisplay = ufcOnly ? filteredSortedEventsOnlyFutureDates.filter(event => event.organization.includes("UFC"))
+                                      : filteredSortedEventsOnlyFutureDates
+      setFilteredEvents(eventsToDisplay)
     });
   }, []);
 
@@ -73,7 +98,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-12">
       <div>
         <div className='current-event max-w-2xl'>
-          {events.map((event, index) => {
+          {filteredEvents.map((event, index) => {
             if (index === selectedEventIndex) {
               return (
                 <div key={index}>
@@ -88,7 +113,7 @@ export default function Home() {
 
                     <button 
                       className='float-right rounded-full disabled:text-gray-600'
-                      disabled={(selectedEventIndex === events.length - 1)} 
+                      disabled={(selectedEventIndex === filteredEvents.length - 1)} 
                       onClick={nextEvent}>
                         Next
                     </button>
@@ -98,7 +123,7 @@ export default function Home() {
 
                     <div id='toggle-ufc'>
                       <label className="relative inline-flex items-center cursor-pointer">
-                        <input type="checkbox" checked={ufcOnly} onChange={() => setUfcOnly(!ufcOnly)} className="sr-only peer" />
+                        <input type="checkbox" checked={ufcOnly} onChange={toggleUFCOnly} className="sr-only peer" />
                         <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-4 peer-focus:ring-teal-300 dark:peer-focus:ring-teal-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-teal-600"></div>
                         <span className="ml-3 text-sm font-medium dark:text-gray-300">UFC only</span>
                       </label>
@@ -136,8 +161,8 @@ export default function Home() {
         
         <div id="other-events" className='text-center'>
           <h2 className='text-center font-bold text-2xl pb-2'>More Events</h2>
-          {events 
-          ? events.map((event, index) => {
+          {filteredEvents 
+          ? filteredEvents.map((event, index) => {
             return (
               <div key={index}> 
                 <p className={index === selectedEventIndex ? 'py-1 font-bold text-blue-600 underline hover:cursor-pointer' : 'py-1 font-semibold hover:cursor-pointer'} onClick={() => setEvent(index)}>
