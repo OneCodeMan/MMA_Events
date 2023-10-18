@@ -150,7 +150,7 @@ export default function Home() {
               )
             }
           })
-          : null}
+          : <p>There are currently no upcoming events. This is weird!</p>}
         </div>
         
       </div>
