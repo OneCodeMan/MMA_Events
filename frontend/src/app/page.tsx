@@ -6,9 +6,9 @@ import sortBy from 'lodash/sortBy'
 
 import SelectedEvent from '@/Components/SelectedEvent/SelectedEvent'
 import ShortDivider from '@/Components/ShortDivider/ShortDivider'
-import Fight from '@/Types/Fight'
-import Fighter from '@/Types/Fighter'
-import Event from '@/Types/Event'
+import { Fight } from '@/Types/Fight'
+import { Fighter } from '@/Types/Fighter'
+import { Event } from '@/Types/Event'
 
 function parseDate(dateString: string) {
   const parsedDate = new Date(dateString);
@@ -84,6 +84,7 @@ export default function Home() {
   }
 
   return (
+    <>
     <main className="flex min-h-screen flex-col items-center justify-between p-8">
       <div>
         <div className='current-event max-w-2xl'>
@@ -155,5 +156,6 @@ export default function Home() {
         
       </div>
     </main>
+    </>
   )
 }
