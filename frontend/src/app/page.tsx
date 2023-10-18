@@ -55,13 +55,7 @@ export default function Home() {
   }
 
   const toggleUFCOnly = () => {
-    console.log(`setUFCOnly was initially: ${ufcOnly}`)
-
-    let toggledValue = ufcOnly ? false : true
-
-    console.log(`toggledValue is: ${toggledValue}`)
-    setUfcOnly(toggledValue)
-    console.log(`setUFCOnly switched to: ${ufcOnly}`)
+    setUfcOnly(!ufcOnly)
 
     if (ufcOnly) {
       let filteredEvents = events.filter(event => event.organization.includes("UFC"))
@@ -90,9 +84,7 @@ export default function Home() {
 
       console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
 
-      const eventsToDisplay = ufcOnly ? filteredSortedEventsOnlyFutureDates.filter(event => event.organization.includes("UFC"))
-                                      : filteredSortedEventsOnlyFutureDates
-      setFilteredEvents(eventsToDisplay)
+      setFilteredEvents(filteredSortedEventsOnlyFutureDates)
     });
   }, []);
 
@@ -110,14 +102,18 @@ export default function Home() {
                       className='float-left rounded-full disabled:text-gray-600' 
                       disabled={!(selectedEventIndex > 0)} 
                       onClick={previousEvent}>
-                        Previous
+                        <p className='underline font-semibold'>
+                          {selectedEventIndex > 0 ? filteredEvents[selectedEventIndex - 1].title.slice(0,15) : null}{!(selectedEventIndex > 0) ? "" : "..."} &lt;&lt; Previous
+                        </p>
                     </button>
 
                     <button 
                       className='float-right rounded-full disabled:text-gray-600'
                       disabled={(selectedEventIndex === filteredEvents.length - 1)} 
                       onClick={nextEvent}>
-                        Next
+                        <p className='underline font-semibold'>
+                          Next &gt;&gt; {selectedEventIndex === filteredEvents.length - 1 ? null : filteredEvents[selectedEventIndex + 1].title.slice(0,15)} {(selectedEventIndex === filteredEvents.length - 1) ? "" : "..."}
+                        </p>
                     </button>
                   </div>
 
@@ -125,7 +121,7 @@ export default function Home() {
 
                     <div id='toggle-ufc'>
                       <label className="relative inline-flex items-center cursor-pointer">
-                        <input type="checkbox" checked={ufcOnly} onChange={toggleUFCOnly} className="sr-only peer" />
+                        <input type="checkbox" checked={ufcOnly} onClick={toggleUFCOnly} onChange={e => {}} className="sr-only peer" />
                         <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-4 peer-focus:ring-teal-300 dark:peer-focus:ring-teal-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-teal-600"></div>
                         <span className="ml-3 text-sm font-medium dark:text-gray-300">UFC only</span>
                       </label>
