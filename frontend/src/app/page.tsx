@@ -5,8 +5,6 @@ import { useEffect, useState } from 'react';
 import sortBy from 'lodash/sortBy';
 import FightDetails from './components/FightDetails';
 
-import Link from 'next/Link';
-
 export type Fighter = {
   name: string;
   record: string;
@@ -34,6 +32,7 @@ function parseDate(dateString: string) {
 export default function Home() {
   const [events, setEvents] = useState([])
   const [selectedEventIndex, setSelectedEventIndex] = useState(0)
+  const [ufcOnly, setUfcOnly] = useState(false)
 
   function nextEvent() {
     console.log("nextEvent called")
@@ -70,7 +69,6 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-12">
       <div>
-
         <div className='current-event max-w-2xl'>
           {events.map((event, index) => {
             if (index === selectedEventIndex) {
@@ -93,13 +91,22 @@ export default function Home() {
                     </button>
                   </div>
 
-                  <h1 id="event-title" className='text-3xl font-bold pt-2 text-center sm:text-1xl'>{event.title}</h1>
-                  <h3 id="event-date" className='text-center pt-2 text-xl'>{event.date}</h3>
-                  <h3 id="event-location" className='text-center italic pt-2'>{event.location}</h3>
-                  <p className='text-center pt-2'>
-                    <a href={event.event_url} className='underline decoration-pink-500'>Event Page</a>
-                  </p>
                   <div id="fight-container" className='text-center'>
+
+                    <div id='toggle-ufc'>
+                      <label className="relative inline-flex items-center cursor-pointer">
+                        <input type="checkbox" value="" className="sr-only peer" />
+                        <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-4 peer-focus:ring-teal-300 dark:peer-focus:ring-teal-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-teal-600"></div>
+                        <span className="ml-3 text-sm font-medium dark:text-gray-300">UFC only</span>
+                      </label>
+                    </div>
+
+                    <h1 id="event-title" className='text-3xl font-bold pt-2 text-center sm:text-1xl'>{event.title}</h1>
+                    <h3 id="event-date" className='text-center pt-2 text-xl'>{event.date}</h3>
+                    <h3 id="event-location" className='text-center italic pt-2'>{event.location}</h3>
+                    <p className='text-center pt-2'>
+                      <a href={event.event_url} className='underline decoration-pink-500'>Event Page</a>
+                    </p>
                     <ul id='fights-list' className='list-none'>
                       { event.fights.length > 0 ? 
                         event.fights.map((fight, index) => {
