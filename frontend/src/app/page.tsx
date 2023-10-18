@@ -46,8 +46,9 @@ export default function Home() {
     setSelectedEventIndex(newSelectedEvent)
   }
 
-  function setEvent() {
-    console.log("setEvent called")
+  function setEvent(index) {
+    console.log(`setEvent called  ${index}`)
+    setSelectedEventIndex(index)
   }
 
   useEffect(() => {
@@ -142,7 +143,7 @@ export default function Home() {
             } else {
               return (
                 <div key={index}> 
-                  <p className='py-1 hover:cursor-pointer' onClick={setEvent}>
+                  <p className='py-1 font-semibold hover:cursor-pointer' onClick={() => setEvent(index)}>
                     {event.title} - {event.date}
                   </p>
                 </div>
