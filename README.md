@@ -17,3 +17,4 @@ October 18, 2023
 ## List of Possible Enhancements
 - Make fighter's names' clickable and re-direct to URL of their Sherdog profile
 - Add BKFC events and Flograppling events.
+- On initial page load, display a different view when `events = []`, because it does not look pretty without data.
