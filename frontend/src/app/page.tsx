@@ -24,7 +24,7 @@ export default function Home() {
   useEffect(() => {
     const url = 'https://floating-sierra-91917-e404c4f79857.herokuapp.com/events'
     axios.get(url).then((response) => {
-      console.log(response)
+      // console.log(response)
       var eventsList = response.data
 
       const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date))
@@ -34,26 +34,26 @@ export default function Home() {
       const filteredSortedEventsOnlyFutureDates = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
 
       setEvents(filteredSortedEventsOnlyFutureDates)
-      console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
+      // console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
 
       setFilteredEvents(filteredSortedEventsOnlyFutureDates)
     });
   }, []);
 
   function nextEvent() {
-    console.log("nextEvent called")
+    // console.log("nextEvent called")
     let newSelectedEvent = (selectedEventIndex + 1) < events.length ? (selectedEventIndex + 1) : selectedEventIndex
     setSelectedEventIndex(newSelectedEvent)
   }
 
   function previousEvent() {
-    console.log("previousEvent called")
+    // console.log("previousEvent called")
     let newSelectedEvent = (selectedEventIndex - 1) >= 0 ? (selectedEventIndex - 1) : selectedEventIndex
     setSelectedEventIndex(newSelectedEvent)
   }
 
   function setEvent(index) {
-    console.log(`setEvent called  ${index}`)
+    // console.log(`setEvent called  ${index}`)
     if (index !== selectedEventIndex) {
       setSelectedEventIndex(index)
     }
@@ -65,10 +65,10 @@ export default function Home() {
   }
 
   const toggleUFCOnly = () => {
-    console.log(`ufcOnly before setting it toggled: ${ufcOnly}`)
+    // console.log(`ufcOnly before setting it toggled: ${ufcOnly}`)
     let updatedUfcOnly = !ufcOnly
     setUfcOnly((prevUfcOnly) => !prevUfcOnly)
-    console.log(`ufcOnly before after setting it toggled: ${ufcOnly}`)
+    // console.log(`ufcOnly before after setting it toggled: ${ufcOnly}`)
 
     if (updatedUfcOnly) {
       let filteredEvents = events.filter(event => event.organization.includes("UFC"))
