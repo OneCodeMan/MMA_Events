@@ -24,7 +24,7 @@ export default function Home() {
   useEffect(() => {
     const url = 'https://floating-sierra-91917-e404c4f79857.herokuapp.com/events'
     axios.get(url).then((response) => {
-      console.log(response)
+      // console.log(response)
       var eventsList = response.data
 
       const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date))
