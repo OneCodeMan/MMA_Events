@@ -1,8 +1,15 @@
 import ShortDivider from "../ShortDivider/ShortDivider"
+import { Event } from "@/Types/Event"
 
-export default function SelectedEvent({ event, goToEventPage, isSoonest }) {
+interface SelectedEventProps {
+    event: Event,
+    goToEventPage: (eventURL: string) => void,
+    isSoonest: boolean,
+  }
 
-    function computeDaysAwayFromDate(dateString) {
+export default function SelectedEvent({ event, goToEventPage, isSoonest } : SelectedEventProps) {
+
+    function computeDaysAwayFromDate(dateString: string) {
         const parsedEventDate = new Date(dateString);
         const today = new Date(Date.now());
 
@@ -10,8 +17,9 @@ export default function SelectedEvent({ event, goToEventPage, isSoonest }) {
         let timeAwayFromNearestEvent = parsedEventDate.getTime() - today.getTime(); 
       
         // To calculate the no. of days between two dates 
-        let daysAwayFromNearestEvent = timeAwayFromNearestEvent / (1000 * 3600 * 24); 
-        let parsedDaysAway = parseInt(daysAwayFromNearestEvent)
+        let daysAwayFromNearestEvent: number = timeAwayFromNearestEvent / (1000 * 3600 * 24);
+        let daysAwayFromNearestEventToString = daysAwayFromNearestEvent.toString()
+        let parsedDaysAway = parseInt(daysAwayFromNearestEventToString)
 
         if (parsedDaysAway === 0) {
             return "TODAY"
