@@ -2,7 +2,7 @@
 
 import axios from 'axios'
 import { useEffect, useState } from 'react'
-import { sortBy } from 'lodash/sortBy'
+import { sortBy } from 'lodash'
 
 import SelectedEvent from '@/Components/SelectedEvent/SelectedEvent'
 import ShortDivider from '@/Components/ShortDivider/ShortDivider'
@@ -16,8 +16,8 @@ function parseDate(dateString: string) {
 }
 
 export default function Home() {
-  const [events, setEvents] = useState([])
-  const [filteredEvents, setFilteredEvents] = useState([])
+  const [events, setEvents] = useState<Event[]>([])
+  const [filteredEvents, setFilteredEvents] = useState<Event[]>([])
   const [selectedEventIndex, setSelectedEventIndex] = useState(0)
   const [ufcOnly, setUfcOnly] = useState(false)
 
@@ -31,7 +31,7 @@ export default function Home() {
   
       // Make sure we only display dates in the future.
       const yesterdayDate = new Date(new Date().setDate(new Date().getDate() - 1))
-      const filteredSortedEventsOnlyFutureDates = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
+      const filteredSortedEventsOnlyFutureDates: Event[] = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
 
       setEvents(filteredSortedEventsOnlyFutureDates)
       // console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
@@ -52,14 +52,14 @@ export default function Home() {
     setSelectedEventIndex(newSelectedEvent)
   }
 
-  function setEvent(index) {
+  function setEvent(index: number) {
     // console.log(`setEvent called  ${index}`)
     if (index !== selectedEventIndex) {
       setSelectedEventIndex(index)
     }
   }
 
-  const goToEventPage = (eventURL) => {
+  const goToEventPage = (eventURL: string) => {
     let newWindow = window.open(eventURL, '_blank', 'noopener,noreferrer')
     if (newWindow) newWindow.opener = null
   }
