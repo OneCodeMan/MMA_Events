@@ -2,7 +2,7 @@
 
 import axios from 'axios'
 import { useEffect, useState } from 'react'
-import sortBy from 'lodash/sortBy'
+import { sortBy } from 'lodash/sortBy'
 
 import SelectedEvent from '@/Components/SelectedEvent/SelectedEvent'
 import ShortDivider from '@/Components/ShortDivider/ShortDivider'
