@@ -18,12 +18,10 @@ export default function SelectedEvent({ event, goToEventPage, isSoonest } : Sele
       
         // To calculate the no. of days between two dates 
         let daysAwayFromNearestEvent: number = timeAwayFromNearestEvent / (1000 * 3600 * 24);
-        let daysAwayFromNearestEventToString = daysAwayFromNearestEvent.toString()
-        let parsedDaysAway = parseInt(daysAwayFromNearestEventToString)
-
-        if (parsedDaysAway === 0) {
+        let parsedDaysAway = Math.ceil(daysAwayFromNearestEvent)
+        if (daysAwayFromNearestEvent <= 0) {
             return "TODAY"
-        } else if (parsedDaysAway === 1) {
+        } else if (daysAwayFromNearestEvent >= 0 && daysAwayFromNearestEvent <= 1) {
             return "TOMORROW"
         } else {
             return `In ${parsedDaysAway} days`
