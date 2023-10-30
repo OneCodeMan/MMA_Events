@@ -22,7 +22,7 @@ export default function Home() {
   const [ufcOnly, setUfcOnly] = useState(false)
 
   useEffect(() => {
-    const url = 'https://floating-sierra-91917-e404c4f79857.herokuapp.com/events'
+    const url = 'https://mma-events-77263a4cf406.herokuapp.com/events'
     axios.get(url).then((response) => {
       // console.log(response)
       var eventsList = response.data

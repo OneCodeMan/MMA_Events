@@ -42,6 +42,9 @@ type Fight struct {
 
 func main() {
 
+	// solution here if you run into any deployment problems w. heroku:
+	// https://stackoverflow.com/questions/43362014/heroku-no-default-language-could-be-detected-for-this-app-error-thrown-for-no
+	// git subtree push --prefix sub-folder heroku master
 	// runMMAScraper()
 	hostJSONOfEvents()
 
