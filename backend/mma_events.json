@@ -1,747 +1,19 @@
 [
  {
  "organization": "ONE Championship",
- "title": "One Championship - One Friday Fights 37",
+ "title": "One Championship - One Friday Fights 39",
  "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Oct 20, 2023",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-37-99760",
- "fights": [
- {
- "fighter_one": {
- "name": "Rafi Bohic",
- "record": "0-0-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Antar Kacem",
- "record": "0-0-0 (Win-Loss-Draw)"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Theptaksin Sor Sornsing",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Rittidet Sor Sommai",
- "record": "0-0-0"
- },
- "weight": "132lb Catchweight"
- },
- {
- "fighter_one": {
- "name": "Lamnamkhong BS Muaythai",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Samoynoi Tor Phusuwan",
- "record": "0-0-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Petsirichai Detpetchsrithong",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Songfangkhong FA Group",
- "record": "0-0-0"
- },
- "weight": "133lb Catchweight"
- },
- {
- "fighter_one": {
- "name": "Punmongkol Sor Mongkolkarnchang",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Kaoklai Chor Hapayak",
- "record": "0-0-0"
- },
- "weight": "124lb Catchweight"
- },
- {
- "fighter_one": {
- "name": "Mahahin Nakbinalaiyon",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Tahaneak Nayokatasala",
- "record": "0-0-0"
- },
- "weight": "18lb Catchweight"
- },
- {
- "fighter_one": {
- "name": "Kongthoranee Sor Sommai",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Taiki Naito",
- "record": "0-0-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Aslamjon Ortikov",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Pethuahin Jitmuangnon",
- "record": "0-0-0"
- },
- "weight": "128lb Catchweight"
- },
- {
- "fighter_one": {
- "name": "Chai Sor Sor ToiPadriew",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Elyes Kacem",
- "record": "0-0-0"
- },
- "weight": "130lb Catchweight"
- },
- {
- "fighter_one": {
- "name": "Moris Boleian",
- "record": "7-0-0"
- },
- "fighter_two": {
- "name": "Baatarchuluun Gantogtokh",
- "record": "5-1-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Carlo Bumina-ang",
- "record": "1-0-0"
- },
- "fighter_two": {
- "name": "Denis Andreev",
- "record": "0-0-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Percival Oumo Mwambi",
- "record": "0-0-0"
- },
- "fighter_two": {
- "name": "Komronbek Oritkov",
- "record": "0-0-0"
- },
- "weight": "130lb Catchweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Jan. 13",
- "location": "UFC Apex, Las Vegas, Nevada, United States",
- "date": "Jan 13, 2024",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Jan-13-99605",
- "fights": [
- {
- "fighter_one": {
- "name": "Mario Bautista",
- "record": "13-2-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Ricky Simon",
- "record": "20-4-0 (Win-Loss-Draw)"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Norma Dumont",
- "record": "10-2-0"
- },
- "fighter_two": {
- "name": "Yana Santos",
- "record": "14-8-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Andrei Arlovski",
- "record": "34-22-0"
- },
- "fighter_two": {
- "name": "Waldo Cortes-Acosta",
- "record": "10-1-0"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Marcus McGhee",
- "record": "8-1-0"
- },
- "fighter_two": {
- "name": "Gaston Bolanos",
- "record": "7-3-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Preston Parsons",
- "record": "10-4-0"
- },
- "fighter_two": {
- "name": "Bassil Hafez",
- "record": "8-4-1"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Macy Chiasson",
- "record": "8-3-0"
- },
- "fighter_two": {
- "name": "Ketlen Vieira",
- "record": "14-3-0"
- },
- "weight": "Bantamweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 294 - Makhachev vs. Volkanovski 2",
- "location": "Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",
- "date": "Oct 21, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-294-Makhachev-vs-Volkanovski-2-97019",
- "fights": [
- {
- "fighter_one": {
- "name": "Islam Makhachev",
- "record": "24-1-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Alexander Volkanovski",
- "record": "26-2-0 (Win-Loss-Draw)"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Kamaru Usman",
- "record": "20-3-0"
- },
- "fighter_two": {
- "name": "Khamzat Chimaev",
- "record": "12-0-0"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Magomed Ankalaev",
- "record": "17-1-1"
- },
- "fighter_two": {
- "name": "Johnny Walker",
- "record": "21-7-0"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Ikram Aliskerov",
- "record": "14-1-0"
- },
- "fighter_two": {
- "name": "Warlley Alves",
- "record": "14-6-0"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Said Nurmagomedov",
- "record": "17-3-0"
- },
- "fighter_two": {
- "name": "Muin Gafurov",
- "record": "18-5-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Tim Elliott",
- "record": "19-12-1"
- },
- "fighter_two": {
- "name": "Muhammad Mokaev",
- "record": "10-0-0"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Mohammad Yahya",
- "record": "12-3-0"
- },
- "fighter_two": {
- "name": "Trevor Peek",
- "record": "8-1-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Javid Basharat",
- "record": "14-0-0"
- },
- "fighter_two": {
- "name": "Victor Henry",
- "record": "23-6-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Abu Azaitar",
- "record": "14-3-1"
- },
- "fighter_two": {
- "name": "Sedriques Dumas",
- "record": "8-1-0"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Mike Breeden",
- "record": "10-6-0"
- },
- "fighter_two": {
- "name": "Anshul Jubli",
- "record": "7-0-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Nathaniel Wood",
- "record": "19-5-0"
- },
- "fighter_two": {
- "name": "Muhammadjon Naimov",
- "record": "9-2-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Victoria Dudakova",
- "record": "7-0-0"
- },
- "fighter_two": {
- "name": "Jinh Yu Frey",
- "record": "11-9-0"
- },
- "weight": "Strawweight"
- },
- {
- "fighter_one": {
- "name": "Sharabutdin Magomedov",
- "record": "11-0-0"
- },
- "fighter_two": {
- "name": "Bruno Silva",
- "record": "23-9-0"
- },
- "weight": "Middleweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 297 - Jan. 20",
- "location": "Scotiabank Arena, Toronto, Ontario, Canada",
- "date": "Jan 20, 2024",
- "event_url": "https://www.sherdog.com/events/UFC-297-Jan-20-99740",
- "fights": [
- {
- "fighter_one": {
- "name": "Arnold Allen",
- "record": "19-2-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Movsar Evloev",
- "record": "17-0-0 (Win-Loss-Draw)"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Brad Katona",
- "record": "13-2-0"
- },
- "fighter_two": {
- "name": "Garrett Armfield",
- "record": "9-3-0"
- },
- "weight": "Bantamweight"
- }
- ]
- },
- {
- "organization": "Bellator MMA",
- "title": "Bellator 301 - Amosov vs. Jackson",
- "location": "Wintrust Arena, Chicago, Illinois, United States",
- "date": "Nov 17, 2023",
- "event_url": "https://www.sherdog.com/events/Bellator-301-Amosov-vs-Jackson-99439",
- "fights": [
- {
- "fighter_one": {
- "name": "Yaroslav Amosov",
- "record": "27-0-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Jason Jackson",
- "record": "16-4-0 (Win-Loss-Draw)"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Sergio Pettis",
- "record": "23-5-0"
- },
- "fighter_two": {
- "name": "Patrick Mix",
- "record": "18-1-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Patricky Freire",
- "record": "25-11-0"
- },
- "fighter_two": {
- "name": "Alexandr Shabliy",
- "record": "23-3-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Raufeon Stots",
- "record": "19-2-0"
- },
- "fighter_two": {
- "name": "Danny Sabatello",
- "record": "14-3-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "A. J.McKee",
- "record": "20-1-0"
- },
- "fighter_two": {
- "name": "Sidney Outlaw",
- "record": "17-5-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Daniel James",
- "record": "15-7-1"
- },
- "fighter_two": {
- "name": "Ali Isaev",
- "record": "9-0-1"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Tyrell Fortune",
- "record": "13-3-0"
- },
- "fighter_two": {
- "name": "Marcelo Golm",
- "record": "10-4-0"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Timur Khizriev",
- "record": "13-0-0"
- },
- "fighter_two": {
- "name": "Justin Gonzales",
- "record": "14-2-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Archie Colgan",
- "record": "8-0-0"
- },
- "fighter_two": {
- "name": "Pieter Buist",
- "record": "16-7-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Juliana Velasquez",
- "record": "12-2-0"
- },
- "fighter_two": {
- "name": "Paula Cristina dos Santos Silva",
- "record": "6-2-0"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Keri Melendez",
- "record": "5-0-0"
- },
- "fighter_two": {
- "name": "Sabriye Sengul",
- "record": "3-3-0"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Matheus Mattos",
- "record": "13-2-1"
- },
- "fighter_two": {
- "name": "Richard Palencia",
- "record": "10-1-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Mike Hamel",
- "record": "11-5-0"
- },
- "fighter_two": {
- "name": "Tim Wilde",
- "record": "16-4-1"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Sumiko Inaba",
- "record": "6-0-0"
- },
- "fighter_two": {
- "name": "Denise Kielholtz",
- "record": "7-5-0"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Islam Mamedov",
- "record": "22-3-1"
- },
- "fighter_two": {
- "name": "Killys Mota",
- "record": "15-3-0"
- },
- "weight": "160lb Catchweight"
- }
- ]
- },
- {
- "organization": "Professional Fighters League",
- "title": "Professional Fighters League - PFL Europe 4: 2023 Finals",
- "location": "3Arena, Dublin, Ireland",
- "date": "Dec 8, 2023",
- "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-4-2023-Finals-96179",
+ "date": "Nov 3, 2023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-39-100086",
  "fights": []
  },
  {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night 232 - Allen vs. Craig",
- "location": "UFC Apex, Las Vegas, Nevada, United States",
- "date": "Nov 18, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-232-Allen-vs-Craig-98054",
- "fights": [
- {
- "fighter_one": {
- "name": "Brendan Allen",
- "record": "22-5-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Paul Craig",
- "record": "17-6-1 (Win-Loss-Draw)"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Michael Morales",
- "record": "15-0-0"
- },
- "fighter_two": {
- "name": "Jake Matthews",
- "record": "19-6-0"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Chase Hooper",
- "record": "12-3-1"
- },
- "fighter_two": {
- "name": "Jordan Leavitt",
- "record": "11-2-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Payton Talbott",
- "record": "6-0-0"
- },
- "fighter_two": {
- "name": "Nick Aguirre",
- "record": "7-1-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Luana Pinheiro",
- "record": "11-1-0"
- },
- "fighter_two": {
- "name": "Amanda Ribas",
- "record": "11-4-0"
- },
- "weight": "Strawweight"
- },
- {
- "fighter_one": {
- "name": "Jonny Parsons",
- "record": "9-3-0"
- },
- "fighter_two": {
- "name": "Uros Medic",
- "record": "9-1-0"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Jonathan Pearce",
- "record": "14-4-0"
- },
- "fighter_two": {
- "name": "Joanderson Brito",
- "record": "15-3-1"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Chad Anheliger",
- "record": "12-6-0"
- },
- "fighter_two": {
- "name": "Jose Johnson",
- "record": "15-8-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Cesar Almeida",
- "record": "4-0-0"
- },
- "fighter_two": {
- "name": "Christian Leroy Duncan",
- "record": "8-1-0"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Michael Parkin",
- "record": "7-0-0"
- },
- "fighter_two": {
- "name": "Caio Machado",
- "record": "8-1-1"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Jeka Asparido Saragih",
- "record": "13-3-0"
- },
- "fighter_two": {
- "name": "Jesse Butler",
- "record": "12-5-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Lucie Pudilova",
- "record": "14-8-0"
- },
- "fighter_two": {
- "name": "Ailin Perez",
- "record": "8-2-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Trey Ogden",
- "record": "16-6-0"
- },
- "fighter_two": {
- "name": "Nikolas Motta",
- "record": "13-5-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Charles Johnson",
- "record": "13-5-0"
- },
- "fighter_two": {
- "name": "Rafael Ramos Estevam",
- "record": "11-0-0"
- },
- "weight": "Flyweight"
- }
- ]
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 20",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Mar 1, 2024",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-20-99971",
+ "fights": []
  },
  {
  "organization": "Ultimate Fighting Championship (UFC)",
@@ -873,17 +145,6 @@
  },
  {
  "fighter_one": {
- "name": "Lucas Alexander",
- "record": "8-3-0"
- },
- "fighter_two": {
- "name": "David Onama",
- "record": "11-2-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
  "name": "Eduarda Moura",
  "record": "9-0-0"
  },
@@ -908,43 +169,518 @@
  },
  {
  "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Dec. 9",
- "location": "Mercedes-Benz Arena, Shanghai, China",
- "date": "Dec 9, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-9-99468",
+ "title": "UFC 295 - Prochazka vs. Pereira",
+ "location": "Madison Square Garden, New York, New York, United States",
+ "date": "Nov 11, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-295-Prochazka-vs-Pereira-98494",
  "fights": [
  {
  "fighter_one": {
- "name": "Andre Muniz",
- "record": "23-6-0 (Win-Loss-Draw)"
+ "name": "Jiri Prochazka",
+ "record": "29-3-1 (Win-Loss-Draw)"
  },
  "fighter_two": {
- "name": "Jun Yong Park",
- "record": "17-5-0 (Win-Loss-Draw)"
+ "name": "Alex Pereira",
+ "record": "8-2-0 (Win-Loss-Draw)"
  },
- "weight": "Middleweight"
+ "weight": "Light Heavyweight"
  },
  {
  "fighter_one": {
- "name": "Su Mudaerji",
- "record": "16-5-0"
+ "name": "Sergei Pavlovich",
+ "record": "18-1-0"
  },
  "fighter_two": {
- "name": "Allan Nascimento",
- "record": "20-6-0"
+ "name": "Tom Aspinall",
+ "record": "13-3-0"
+ },
+ "weight": "Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Pat Sabatini",
+ "record": "18-4-0"
+ },
+ "fighter_two": {
+ "name": "Diego Lopes",
+ "record": "22-6-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jessica Andrade",
+ "record": "24-12-0"
+ },
+ "fighter_two": {
+ "name": "Mackenzie Dern",
+ "record": "13-3-0"
+ },
+ "weight": "Strawweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Matt Frevola",
+ "record": "11-3-1"
+ },
+ "fighter_two": {
+ "name": "Benoit St. Denis",
+ "record": "12-1-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Steve Erceg",
+ "record": "10-1-0"
+ },
+ "fighter_two": {
+ "name": "Alessandro Costa",
+ "record": "13-3-0"
  },
  "weight": "Flyweight"
  },
  {
  "fighter_one": {
- "name": "Brendson Ribeiro",
+ "name": "Tabatha Ricci",
+ "record": "9-1-0"
+ },
+ "fighter_two": {
+ "name": "Lupita Godinez",
+ "record": "11-3-0"
+ },
+ "weight": "Strawweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Nazim Sadykhov",
+ "record": "9-1-0"
+ },
+ "fighter_two": {
+ "name": "Viacheslav Borshchev",
+ "record": "7-3-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Mateusz Rebecki",
+ "record": "18-1-0"
+ },
+ "fighter_two": {
+ "name": "Nurullo Aliev",
+ "record": "9-0-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Dennis Buzukja",
+ "record": "11-3-0"
+ },
+ "fighter_two": {
+ "name": "Jamall Emmers",
+ "record": "19-7-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jared Gordon",
+ "record": "19-6-0"
+ },
+ "fighter_two": {
+ "name": "Mark O. Madsen",
+ "record": "12-1-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "John Castaneda",
+ "record": "20-6-0"
+ },
+ "fighter_two": {
+ "name": "Kyung Ho Kang",
+ "record": "19-9-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Joshua Van",
+ "record": "8-1-0"
+ },
+ "fighter_two": {
+ "name": "Kevin Borjas",
+ "record": "9-1-0"
+ },
+ "weight": "Flyweight"
+ }
+ ]
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 17: Tawanchai vs. Superbon",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Dec 8, 2023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-17-Tawanchai-vs-Superbon-99705",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Tawanchai P.K. Saenchaimuaythaigym",
+ "record": "0-0-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Superbon Singha Mawynn",
+ "record": "0-0-0 (Win-Loss-Draw)"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Niclas Larsen",
+ "record": "0-0-0"
+ },
+ "fighter_two": {
+ "name": "Nattawut Somkhun",
+ "record": "0-0-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Felipe Lobo",
+ "record": "0-0-0"
+ },
+ "fighter_two": {
+ "name": "Saemapetch Fairtex",
+ "record": "0-0-0"
+ },
+ "weight": "Featherweight"
+ }
+ ]
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One Friday Fights 40",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Nov 10, 2023",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-40-100088",
+ "fights": []
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night 232 - Allen vs. Craig",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Nov 18, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-232-Allen-vs-Craig-98054",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Brendan Allen",
+ "record": "22-5-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Paul Craig",
+ "record": "17-6-1 (Win-Loss-Draw)"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Michael Morales",
+ "record": "15-0-0"
+ },
+ "fighter_two": {
+ "name": "Jake Matthews",
+ "record": "19-6-0"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Chase Hooper",
+ "record": "12-3-1"
+ },
+ "fighter_two": {
+ "name": "Jordan Leavitt",
+ "record": "11-2-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Payton Talbott",
+ "record": "6-0-0"
+ },
+ "fighter_two": {
+ "name": "Nick Aguirre",
+ "record": "7-1-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Luana Pinheiro",
+ "record": "11-1-0"
+ },
+ "fighter_two": {
+ "name": "Amanda Ribas",
+ "record": "11-4-0"
+ },
+ "weight": "Strawweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jonny Parsons",
+ "record": "9-3-0"
+ },
+ "fighter_two": {
+ "name": "Uros Medic",
+ "record": "9-1-0"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jonathan Pearce",
+ "record": "14-4-0"
+ },
+ "fighter_two": {
+ "name": "Joanderson Brito",
+ "record": "15-3-1"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Chad Anheliger",
+ "record": "12-6-0"
+ },
+ "fighter_two": {
+ "name": "Jose Johnson",
+ "record": "15-8-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Cesar Almeida",
+ "record": "4-0-0"
+ },
+ "fighter_two": {
+ "name": "Christian Leroy Duncan",
+ "record": "8-1-0"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Michael Parkin",
+ "record": "7-0-0"
+ },
+ "fighter_two": {
+ "name": "Caio Machado",
+ "record": "8-1-1"
+ },
+ "weight": "Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jeka Asparido Saragih",
+ "record": "13-3-0"
+ },
+ "fighter_two": {
+ "name": "Unknown Fighter",
+ "record": "--"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Lucie Pudilova",
+ "record": "14-8-0"
+ },
+ "fighter_two": {
+ "name": "Ailin Perez",
+ "record": "8-2-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Trey Ogden",
+ "record": "16-6-0"
+ },
+ "fighter_two": {
+ "name": "Nikolas Motta",
+ "record": "13-5-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Charles Johnson",
+ "record": "13-5-0"
+ },
+ "fighter_two": {
+ "name": "Rafael Ramos Estevam",
+ "record": "11-0-0"
+ },
+ "weight": "Flyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Professional Fighters League",
+ "title": "Professional Fighters League - PFL Europe 4: 2023 Finals",
+ "location": "3Arena, Dublin, Ireland",
+ "date": "Dec 8, 2023",
+ "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-Europe-4-2023-Finals-96179",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "John Mitchell",
+ "record": "8-1-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Jakub Kaszuba",
+ "record": "10-0-0 (Win-Loss-Draw)"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Nathan Kelly",
+ "record": "8-2-0"
+ },
+ "fighter_two": {
+ "name": "Dimitry Solimeis",
+ "record": "6-3-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Frans Mlambo",
  "record": "15-5-0"
  },
  "fighter_two": {
- "name": "Mingyang Zhang",
- "record": "16-6-0"
+ "name": "Khurshed Kakhorov",
+ "record": "11-1-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Dylan Tuke",
+ "record": "6-4-0"
+ },
+ "fighter_two": {
+ "name": "Yazid Chouchane",
+ "record": "10-3-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Dakota Ditcheva",
+ "record": "9-0-0"
+ },
+ "fighter_two": {
+ "name": "Valentina Scatizzi",
+ "record": "2-1-0"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Lewis McGrillen-Evans",
+ "record": "7-0-0"
+ },
+ "fighter_two": {
+ "name": "Matiss Zaharovs",
+ "record": "6-2-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Simeon Powell",
+ "record": "9-0-0"
+ },
+ "fighter_two": {
+ "name": "Jakob Nedoh",
+ "record": "7-1-0"
  },
  "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Nate Kelly",
+ "record": "0-0-0"
+ },
+ "fighter_two": {
+ "name": "Callum Seaton",
+ "record": "0-0-0"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Brett Johns",
+ "record": "19-3-0"
+ },
+ "fighter_two": {
+ "name": "David- TonatiuhCrol",
+ "record": "11-7-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Tom Breese",
+ "record": "17-4-0"
+ },
+ "fighter_two": {
+ "name": "Cleiton Pereira da Silva",
+ "record": "16-3-0"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Andreeas Binder",
+ "record": "8-1-0"
+ },
+ "fighter_two": {
+ "name": "Daniele Scatizzi",
+ "record": "12-7-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Ben Davis",
+ "record": "8-6-0"
+ },
+ "fighter_two": {
+ "name": "Dominique Wooding",
+ "record": "9-5-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Connor Hughes",
+ "record": "7-1-0"
+ },
+ "fighter_two": {
+ "name": "Sebastian Santana Guedes",
+ "record": "8-6-1"
+ },
+ "weight": "Lightweight"
  }
  ]
  },
@@ -1023,6 +759,17 @@
  },
  {
  "fighter_one": {
+ "name": "Josh Emmett",
+ "record": "18-4-0"
+ },
+ "fighter_two": {
+ "name": "Giga Chikadze",
+ "record": "15-3-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
  "name": "Irene Aldana",
  "record": "14-7-0"
  },
@@ -1053,156 +800,339 @@
  "record": "16-8-0"
  },
  "weight": "Flyweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 295 - Jones vs. Miocic",
- "location": "Madison Square Garden, New York, New York, United States",
- "date": "Nov 11, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-295-Jones-vs-Miocic-98494",
- "fights": [
- {
- "fighter_one": {
- "name": "Jon Jones",
- "record": "27-1-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Stipe Miocic",
- "record": "20-4-0 (Win-Loss-Draw)"
- },
- "weight": "Heavyweight"
  },
  {
  "fighter_one": {
- "name": "Jiri Prochazka",
- "record": "29-3-1"
+ "name": "Alonzo Menifield",
+ "record": "14-3-1"
  },
  "fighter_two": {
- "name": "Alex Pereira",
- "record": "8-2-0"
+ "name": "Dustin Jacoby",
+ "record": "19-7-1"
  },
  "weight": "Light Heavyweight"
  },
  {
  "fighter_one": {
- "name": "Jessica Andrade",
- "record": "24-12-0"
+ "name": "Cody Garbrandt",
+ "record": "13-5-0"
  },
  "fighter_two": {
- "name": "Mackenzie Dern",
- "record": "13-3-0"
- },
- "weight": "Strawweight"
- },
- {
- "fighter_one": {
- "name": "Matt Frevola",
- "record": "11-3-1"
- },
- "fighter_two": {
- "name": "Benoit St. Denis",
- "record": "12-1-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Matt Schnell",
- "record": "16-7-0"
- },
- "fighter_two": {
- "name": "Steve Erceg",
- "record": "10-1-0"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Jared Gordon",
- "record": "19-6-0"
- },
- "fighter_two": {
- "name": "Mark O. Madsen",
- "record": "12-1-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Pat Sabatini",
- "record": "18-4-0"
- },
- "fighter_two": {
- "name": "Diego Lopes",
- "record": "22-6-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Nazim Sadykhov",
- "record": "9-1-0"
- },
- "fighter_two": {
- "name": "Viacheslav Borshchev",
- "record": "7-3-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Jamall Emmers",
- "record": "19-7-0"
- },
- "fighter_two": {
- "name": "Dennis Buzukja",
- "record": "11-3-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Mateusz Rebecki",
- "record": "18-1-0"
- },
- "fighter_two": {
- "name": "Nurullo Aliev",
- "record": "9-0-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Tabatha Ricci",
- "record": "9-1-0"
- },
- "fighter_two": {
- "name": "Lupita Godinez",
- "record": "11-3-0"
- },
- "weight": "Strawweight"
- },
- {
- "fighter_one": {
- "name": "John Castaneda",
- "record": "20-6-0"
- },
- "fighter_two": {
- "name": "Kyung Ho Kang",
- "record": "19-9-0"
+ "name": "Brian Kelleher",
+ "record": "24-14-0"
  },
  "weight": "Bantamweight"
  },
  {
  "fighter_one": {
- "name": "Joshua Van",
+ "name": "Shamil Gaziev",
+ "record": "11-0-0"
+ },
+ "fighter_two": {
+ "name": "Martin Buday",
+ "record": "13-1-0"
+ },
+ "weight": "Heavyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Dec. 2",
+ "location": "Moody Center, Austin, Texas, United States",
+ "date": "Dec 2, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-2-99135",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Beneil Dariush",
+ "record": "22-5-1 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Arman Tsarukyan",
+ "record": "20-3-0 (Win-Loss-Draw)"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Rob Font",
+ "record": "20-7-0"
+ },
+ "fighter_two": {
+ "name": "Deiveson Figueiredo",
+ "record": "21-3-1"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Roman Dolidze",
+ "record": "12-2-0"
+ },
+ "fighter_two": {
+ "name": "Unknown Fighter",
+ "record": "--"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Khalil Rountree",
+ "record": "12-5-0"
+ },
+ "fighter_two": {
+ "name": "Azamat Murzakanov",
+ "record": "13-0-0"
+ },
+ "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Sean Brady",
+ "record": "15-1-0"
+ },
+ "fighter_two": {
+ "name": "Kelvin Gastelum",
+ "record": "18-8-0"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Miesha Tate",
+ "record": "19-9-0"
+ },
+ "fighter_two": {
+ "name": "Julia Avila",
+ "record": "9-2-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Clay Guida",
+ "record": "38-23-0"
+ },
+ "fighter_two": {
+ "name": "Joaquim Silva",
+ "record": "12-4-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Punahele Soriano",
+ "record": "9-3-0"
+ },
+ "fighter_two": {
+ "name": "Dustin Stoltzfus",
+ "record": "14-5-0"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Joe Solecki",
+ "record": "13-3-0"
+ },
+ "fighter_two": {
+ "name": "Drakkar Klose",
+ "record": "13-2-1"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Steve Garcia",
+ "record": "14-5-0"
+ },
+ "fighter_two": {
+ "name": "Melquizael Costa",
+ "record": "20-6-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Wellington Turman",
+ "record": "18-7-0"
+ },
+ "fighter_two": {
+ "name": "Jared Gooden",
+ "record": "22-9-0"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Veronica Hardy",
+ "record": "7-4-1"
+ },
+ "fighter_two": {
+ "name": "Jamey- LynHorth",
+ "record": "6-0-0"
+ },
+ "weight": "Flyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Jan. 13",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Jan 13, 2024",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Jan-13-99605",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Mario Bautista",
+ "record": "13-2-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Ricky Simon",
+ "record": "20-4-0 (Win-Loss-Draw)"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Norma Dumont",
+ "record": "10-2-0"
+ },
+ "fighter_two": {
+ "name": "Yana Santos",
+ "record": "14-8-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Andrei Arlovski",
+ "record": "34-22-0"
+ },
+ "fighter_two": {
+ "name": "Waldo Cortes-Acosta",
+ "record": "10-1-0"
+ },
+ "weight": "Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Phil Hawes",
+ "record": "12-5-0"
+ },
+ "fighter_two": {
+ "name": "Brunno Ferreira",
+ "record": "10-1-0"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Marcus McGhee",
  "record": "8-1-0"
  },
  "fighter_two": {
- "name": "Kevin Borjas",
- "record": "9-1-0"
+ "name": "Gaston Bolanos",
+ "record": "7-3-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Preston Parsons",
+ "record": "10-4-0"
+ },
+ "fighter_two": {
+ "name": "Bassil Hafez",
+ "record": "8-4-1"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Macy Chiasson",
+ "record": "8-3-0"
+ },
+ "fighter_two": {
+ "name": "Ketlen Vieira",
+ "record": "14-3-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Gabriel Santos",
+ "record": "10-2-0"
+ },
+ "fighter_two": {
+ "name": "Westin Wilson",
+ "record": "16-8-0"
+ },
+ "weight": "Featherweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Dec. 9",
+ "location": "Mercedes-Benz Arena, Shanghai, China",
+ "date": "Dec 9, 2023",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-9-99468",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Andre Muniz",
+ "record": "23-6-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Jun Yong Park",
+ "record": "17-5-0 (Win-Loss-Draw)"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Su Mudaerji",
+ "record": "16-5-0"
+ },
+ "fighter_two": {
+ "name": "Allan Nascimento",
+ "record": "20-6-0"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Nasrat Haqparast",
+ "record": "15-5-0"
+ },
+ "fighter_two": {
+ "name": "Jamie Mullarkey",
+ "record": "17-6-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Brendson Ribeiro",
+ "record": "15-5-0"
+ },
+ "fighter_two": {
+ "name": "Mingyang Zhang",
+ "record": "16-6-0"
+ },
+ "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Hyun Sung Park",
+ "record": "8-0-0"
+ },
+ "fighter_two": {
+ "name": "Shannon Ross",
+ "record": "12-8-0"
  },
  "weight": "Flyweight"
  }
@@ -1350,164 +1280,6 @@
  ]
  },
  {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Dec. 2",
- "location": "Moody Center, Austin, Texas, United States",
- "date": "Dec 2, 2023",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Dec-2-99135",
- "fights": [
- {
- "fighter_one": {
- "name": "Jared Cannonier",
- "record": "17-6-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Roman Dolidze",
- "record": "12-2-0 (Win-Loss-Draw)"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Rob Font",
- "record": "20-7-0"
- },
- "fighter_two": {
- "name": "Deiveson Figueiredo",
- "record": "21-3-1"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Khalil Rountree",
- "record": "12-5-0"
- },
- "fighter_two": {
- "name": "Azamat Murzakanov",
- "record": "13-0-0"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Sean Brady",
- "record": "15-1-0"
- },
- "fighter_two": {
- "name": "Kelvin Gastelum",
- "record": "18-8-0"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Miesha Tate",
- "record": "19-9-0"
- },
- "fighter_two": {
- "name": "Julia Avila",
- "record": "9-2-0"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Clay Guida",
- "record": "38-23-0"
- },
- "fighter_two": {
- "name": "Joaquim Silva",
- "record": "12-4-0"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Punahele Soriano",
- "record": "9-3-0"
- },
- "fighter_two": {
- "name": "Dustin Stoltzfus",
- "record": "14-5-0"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Joe Solecki",
- "record": "13-3-0"
- },
- "fighter_two": {
- "name": "Drakkar Klose",
- "record": "13-2-1"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Steve Garcia",
- "record": "14-5-0"
- },
- "fighter_two": {
- "name": "Melquizael Costa",
- "record": "20-6-0"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Wellington Turman",
- "record": "18-7-0"
- },
- "fighter_two": {
- "name": "Jared Gooden",
- "record": "22-9-0"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Veronica Hardy",
- "record": "7-4-1"
- },
- "fighter_two": {
- "name": "Jamey- LynHorth",
- "record": "6-0-0"
- },
- "weight": "Flyweight"
- }
- ]
- },
- {
- "organization": "ONE Championship",
- "title": "One Championship - One on Prime Video 17: Tawanchai vs. Superbon",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Dec 8, 2023",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-17-Tawanchai-vs-Superbon-99705",
- "fights": [
- {
- "fighter_one": {
- "name": "Tawanchai P.K. Saenchaimuaythaigym",
- "record": "0-0-0 (Win-Loss-Draw)"
- },
- "fighter_two": {
- "name": "Superbon Singha Mawynn",
- "record": "0-0-0 (Win-Loss-Draw)"
- },
- "weight": "Lightweight"
- }
- ]
- },
- {
- "organization": "ONE Championship",
- "title": "One Championship - One Friday Fights 38",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Oct 27, 2023",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-38-99761",
- "fights": []
- },
- {
  "organization": "ONE Championship",
  "title": "One Championship - One on Prime Video 16: Haggerty vs. Andrade",
  "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
@@ -1524,6 +1296,17 @@
  "record": "9-2-0 (Win-Loss-Draw)"
  },
  "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Seksan Or Kwanmuang",
+ "record": "0-0-0"
+ },
+ "fighter_two": {
+ "name": "Johan Estupinan",
+ "record": "1-1-0"
+ },
+ "weight": "140lb Catchweight"
  },
  {
  "fighter_one": {
@@ -1586,7 +1369,7 @@
  "record": "6-1-0"
  },
  "fighter_two": {
- "name": "Benjamin Tynan",
+ "name": "Ben Tynan",
  "record": "4-0-0"
  },
  "weight": "Heavyweight"
@@ -1614,5 +1397,322 @@
  "weight": "Flyweight"
  }
  ]
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 19",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Feb 16, 2024",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-19-99970",
+ "fights": []
+ },
+ {
+ "organization": "Bellator MMA",
+ "title": "Bellator 301 - Amosov vs. Jackson",
+ "location": "Wintrust Arena, Chicago, Illinois, United States",
+ "date": "Nov 17, 2023",
+ "event_url": "https://www.sherdog.com/events/Bellator-301-Amosov-vs-Jackson-99439",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Yaroslav Amosov",
+ "record": "27-0-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Jason Jackson",
+ "record": "16-4-0 (Win-Loss-Draw)"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Sergio Pettis",
+ "record": "23-5-0"
+ },
+ "fighter_two": {
+ "name": "Patrick Mix",
+ "record": "18-1-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Raufeon Stots",
+ "record": "19-2-0"
+ },
+ "fighter_two": {
+ "name": "Danny Sabatello",
+ "record": "14-3-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "A. J.McKee",
+ "record": "20-1-0"
+ },
+ "fighter_two": {
+ "name": "Sidney Outlaw",
+ "record": "17-5-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Patricky Freire",
+ "record": "25-11-0"
+ },
+ "fighter_two": {
+ "name": "Alexandr Shabliy",
+ "record": "23-3-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Daniel James",
+ "record": "15-7-1"
+ },
+ "fighter_two": {
+ "name": "Ali Isaev",
+ "record": "9-0-1"
+ },
+ "weight": "Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Tyrell Fortune",
+ "record": "13-3-0"
+ },
+ "fighter_two": {
+ "name": "Marcelo Golm",
+ "record": "10-4-0"
+ },
+ "weight": "Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Sumiko Inaba",
+ "record": "6-0-0"
+ },
+ "fighter_two": {
+ "name": "Denise Kielholtz",
+ "record": "7-5-0"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Timur Khizriev",
+ "record": "13-0-0"
+ },
+ "fighter_two": {
+ "name": "Justin Gonzales",
+ "record": "14-2-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Archie Colgan",
+ "record": "8-0-0"
+ },
+ "fighter_two": {
+ "name": "Pieter Buist",
+ "record": "16-7-0"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Juliana Velasquez",
+ "record": "12-2-0"
+ },
+ "fighter_two": {
+ "name": "Paula Cristina dos Santos Silva",
+ "record": "6-2-0"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Keri Melendez",
+ "record": "5-0-0"
+ },
+ "fighter_two": {
+ "name": "Sabriye Sengul",
+ "record": "3-3-0"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Matheus Mattos",
+ "record": "13-2-1"
+ },
+ "fighter_two": {
+ "name": "Richard Palencia",
+ "record": "10-1-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Mike Hamel",
+ "record": "11-5-0"
+ },
+ "fighter_two": {
+ "name": "Tim Wilde",
+ "record": "16-4-1"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Islam Mamedov",
+ "record": "22-3-1"
+ },
+ "fighter_two": {
+ "name": "Killys Mota",
+ "record": "15-3-0"
+ },
+ "weight": "160lb Catchweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Cody Law",
+ "record": "7-2-0"
+ },
+ "fighter_two": {
+ "name": "Jefferson Pontes",
+ "record": "6-0-0"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Ramazan Kuramagomedov",
+ "record": "11-0-0"
+ },
+ "fighter_two": {
+ "name": "Randall Wallace",
+ "record": "20-9-1"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Yves Landu",
+ "record": "19-9-0"
+ },
+ "fighter_two": {
+ "name": "Isao Kobayashi",
+ "record": "27-5-2"
+ },
+ "weight": "Featherweight"
+ }
+ ]
+ },
+ {
+ "organization": "ONE Championship",
+ "title": "One Championship - One on Prime Video 18",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jan 12, 2024",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-18-99969",
+ "fights": []
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 297 - Jan. 20",
+ "location": "Scotiabank Arena, Toronto, Ontario, Canada",
+ "date": "Jan 20, 2024",
+ "event_url": "https://www.sherdog.com/events/UFC-297-Jan-20-99740",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Arnold Allen",
+ "record": "19-2-0 (Win-Loss-Draw)"
+ },
+ "fighter_two": {
+ "name": "Movsar Evloev",
+ "record": "17-0-0 (Win-Loss-Draw)"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Neil Magny",
+ "record": "28-11-0"
+ },
+ "fighter_two": {
+ "name": "Mike Malott",
+ "record": "10-1-1"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Chris Curtis",
+ "record": "30-10-0"
+ },
+ "fighter_two": {
+ "name": "Marc- AndreBarriault",
+ "record": "16-6-0"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Brad Katona",
+ "record": "13-2-0"
+ },
+ "fighter_two": {
+ "name": "Garrett Armfield",
+ "record": "9-3-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Gillian Robertson",
+ "record": "12-8-0"
+ },
+ "fighter_two": {
+ "name": "Polyana Viana",
+ "record": "13-6-0"
+ },
+ "weight": "Strawweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Serhiy Sidey",
+ "record": "10-1-0"
+ },
+ "fighter_two": {
+ "name": "Ramon Taveras",
+ "record": "9-2-0"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Malcolm Gordon",
+ "record": "14-7-0"
+ },
+ "fighter_two": {
+ "name": "Jimmy Flick",
+ "record": "16-7-0"
+ },
+ "weight": "Flyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - March 2",
+ "location": "Riyadh, Saudi Arabia",
+ "date": "Mar 2, 2024",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-March-2-100072",
+ "fights": []
  }
  ]
