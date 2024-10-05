@@ -1,4 +1,6 @@
 # MMA_Events
+(OCTOBER 2024 UPDATE: I can't afford Heroku server so this is dormant for now)
+
 Live on <a href="https://mma-events.vercel.app/">https://mma-events.vercel.app/</a>
 
 A website that displays upcoming Mixed Martial Arts (MMA) events. From UFC, ONE, Bellator and PFL.
