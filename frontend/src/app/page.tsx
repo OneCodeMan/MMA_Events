@@ -24,7 +24,7 @@ export default function Home() {
   useEffect(() => {
     // const url = 'https://mma-events-77263a4cf406.herokuapp.com/events'
     // const url = 'https://www.jsonkeeper.com/b/AFSB'
-    const url = './assets/mma_events_backup.json'
+    const url = 'mma_events_backup.json'
     axios.get(url).then((response) => {
       // console.log(response)
       var eventsList = response.data
