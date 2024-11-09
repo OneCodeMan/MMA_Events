@@ -3,9 +3,11 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"log"
 	"net/http"
 	"os"
 	"strings"
+	"unicode"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
@@ -45,7 +47,7 @@ func main() {
 	// solution here if you run into any deployment problems w. heroku:
 	// https://stackoverflow.com/questions/43362014/heroku-no-default-language-could-be-detected-for-this-app-error-thrown-for-no
 	// git subtree push --prefix backend heroku master
-	// runMMAScraper()
+	runMMAScraper()
 	hostJSONOfEvents()
 
 }
@@ -240,4 +242,25 @@ func runMMAScraper() {
 	c.Wait()
 
 	createJSONFromEvents(events, "mma_events.json")
+}
+
+// Create JSON out of array of objects and save to JSON
+func createJSONFromEvents(events []Event, jsonFileName string) {
+	content, err := json.MarshalIndent(events, " ", "")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println("Generated events of length", len(events))
+	os.WriteFile(jsonFileName, content, 0644)
+}
+
+// There's gotta be a better way
+func separateAtNextCapital(input string) string {
+	for i, char := range input {
+		if unicode.IsUpper(char) && i > 0 {
+			return input[:i] + " " + input[i:]
+		}
+	}
+	return input
 }
