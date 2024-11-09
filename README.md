@@ -1,5 +1,4 @@
 # MMA_Events
-(OCTOBER 2024 UPDATE: I can't afford Heroku server so this is dormant for now)
 
 Live on <a href="https://mma-events.vercel.app/">https://mma-events.vercel.app/</a>
 
