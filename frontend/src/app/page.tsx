@@ -24,7 +24,7 @@ export default function Home() {
   useEffect(() => {
     // const url = 'https://mma-events-77263a4cf406.herokuapp.com/events'
     // const url = 'https://www.jsonkeeper.com/b/AFSB'
-    const url = 'mma_events_backup.json'
+    const url = 'mma_events.json'
     axios.get(url).then((response) => {
       // console.log(response)
       var eventsList = response.data
@@ -89,6 +89,14 @@ export default function Home() {
     <>
     <main className="flex min-h-screen flex-col items-center justify-between p-8">
       <div>
+        <section>
+          <div className="download-app-store">
+            <a href='https://apps.apple.com/us/app/fight-watch/id6738202028'>
+              <img src='assets/download.svg'/>
+            </a>
+          </div>
+
+          </section>
         <div className='current-event max-w-2xl'>
           {filteredEvents.map((event, index) => {
             if (index === selectedEventIndex) {
