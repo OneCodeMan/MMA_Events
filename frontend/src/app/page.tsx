@@ -92,7 +92,7 @@ export default function Home() {
         <section>
           <div className="download-app-store">
             <a href='https://apps.apple.com/us/app/fight-watch/id6738202028'>
-              <img src='assets/download.svg'/>
+              <img src='download.svg'/>
             </a>
           </div>
 
