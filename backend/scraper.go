@@ -26,12 +26,19 @@ type Event struct {
 }
 
 type Fighter struct {
-	Name   string `json:"name"`
-	Record string `json:"record"`
+	Name      string `json:"name"`
+	Record    string `json:"record"`
+	AvatarUrl string `json:"avatar_url"`
 	// Wins      int    `json:"wins"`
 	// Losses    int    `json:"losses"`
 	// Draws     int    `json:"draws"`
 	// NoContest int    `json:"no_contest"`
+}
+type ActiveFighter struct {
+	Name      string `json:"name"`
+	Record    string `json:"record"`
+	AvatarUrl string `json:"avatar_url"`
+	FightDate string `json:"date"`
 }
 type Fight struct {
 	FighterOne  Fighter `json:"fighter_one"`
@@ -48,7 +55,7 @@ func main() {
 	// https://stackoverflow.com/questions/43362014/heroku-no-default-language-could-be-detected-for-this-app-error-thrown-for-no
 	// git subtree push --prefix backend heroku master
 	runMMAScraper()
-	hostJSONOfEvents()
+	// hostJSONOfEvents()
 
 }
 
@@ -113,6 +120,7 @@ func runMMAScraper() {
 	fmt.Println("Main running!")
 
 	var events []Event
+	var activeFighters []ActiveFighter
 
 	c.OnHTML("div#upcoming_tab tr", func(h *colly.HTMLElement) {
 		extractedEventUrl := h.ChildAttr("td:nth-child(2) a", "href")
@@ -128,6 +136,8 @@ func runMMAScraper() {
 
 		fullEventUrl := h.Request.URL.String()
 
+		urlStart := "https://www.sherdog.com/"
+
 		// Only run this if we're on an event page.
 		// Other pages such 'organizations' have similar elements -- we do not want those.
 		if strings.Contains(fullEventUrl, "/events/") {
@@ -142,22 +152,47 @@ func runMMAScraper() {
 			fights := make([]Fight, 0)
 
 			mainEventFighterOneName := h.ChildText("div.left_side h3")
+
 			mainEventFighterTwoName := h.ChildText("div.right_side h3")
 
 			if (mainEventFighterOneName != "") && (mainEventFighterTwoName != "") {
 				// fmt.Printf("Main Event: %s vs. %s\n", mainEventFighterOneName, mainEventFighterTwoName)
 
+				mainEventFighterOneAvatarUrl := urlStart + h.ChildAttr("div.left_side a img", "src")
+
 				mainEventFighterOneRecord := h.ChildText("div.left_side span.record")
 				mainEventFighterOne := Fighter{
-					Name:   mainEventFighterOneName,
-					Record: mainEventFighterOneRecord,
+					Name:      mainEventFighterOneName,
+					Record:    mainEventFighterOneRecord,
+					AvatarUrl: mainEventFighterOneAvatarUrl,
 				}
+
+				activeFighterOne := ActiveFighter{
+					Name:      mainEventFighterOneName,
+					Record:    mainEventFighterOneRecord,
+					AvatarUrl: mainEventFighterOneAvatarUrl,
+					FightDate: eventDateString,
+				}
+
+				activeFighters = append(activeFighters, activeFighterOne)
+
+				mainEventFighterTwoAvatarUrl := urlStart + h.ChildAttr("div.right_side a img", "src")
 
 				mainEventFighterTwoRecord := h.ChildText("div.right_side span.record")
 				mainEventFighterTwo := Fighter{
-					Name:   mainEventFighterTwoName,
-					Record: mainEventFighterTwoRecord,
+					Name:      mainEventFighterTwoName,
+					Record:    mainEventFighterTwoRecord,
+					AvatarUrl: mainEventFighterTwoAvatarUrl,
 				}
+
+				activeFighterTwo := ActiveFighter{
+					Name:      mainEventFighterTwoName,
+					Record:    mainEventFighterTwoRecord,
+					AvatarUrl: mainEventFighterTwoAvatarUrl,
+					FightDate: eventDateString,
+				}
+
+				activeFighters = append(activeFighters, activeFighterTwo)
 
 				mainEventWeightClass := h.ChildText("div.versus span.weight_class")
 
@@ -176,23 +211,47 @@ func runMMAScraper() {
 					sanitizedFighterOneName := separateAtNextCapital(fighterOneName)
 					fighterOneRecord := el.ChildText("div.fighter_list.left div.fighter_result_data span.record")
 
+					fighterOneAvatarUrl := urlStart + el.ChildAttr("div.fighter_list.left img.lazy", "src")
+
 					fmt.Printf("Fighter 1: %s\nRecord:%s\n\n", sanitizedFighterOneName, fighterOneRecord)
 
 					fighterOne := Fighter{
-						Name:   sanitizedFighterOneName,
-						Record: fighterOneRecord,
+						Name:      sanitizedFighterOneName,
+						Record:    fighterOneRecord,
+						AvatarUrl: fighterOneAvatarUrl,
 					}
+
+					activeFighterOne := ActiveFighter{
+						Name:      sanitizedFighterOneName,
+						Record:    fighterOneRecord,
+						AvatarUrl: fighterOneAvatarUrl,
+						FightDate: eventDateString,
+					}
+
+					activeFighters = append(activeFighters, activeFighterOne)
 
 					fighterTwoName := el.ChildText("div.fighter_list.right div.fighter_result_data span[itemprop=name]")
 					sanitizedFighterTwoName := separateAtNextCapital(fighterTwoName)
 					fighterTwoRecord := el.ChildText("div.fighter_list.right div.fighter_result_data span.record")
 
+					fighterTwoAvatarUrl := urlStart + el.ChildAttr("div.fighter_list.right img.lazy", "src")
+
 					fmt.Printf("Fighter 2: %s\nRecord: %s\n\n", sanitizedFighterTwoName, fighterTwoRecord)
 
 					fighterTwo := Fighter{
-						Name:   sanitizedFighterTwoName,
-						Record: fighterTwoRecord,
+						Name:      sanitizedFighterTwoName,
+						Record:    fighterTwoRecord,
+						AvatarUrl: fighterTwoAvatarUrl,
 					}
+
+					activeFighterTwo := ActiveFighter{
+						Name:      sanitizedFighterTwoName,
+						Record:    fighterTwoRecord,
+						AvatarUrl: fighterTwoAvatarUrl,
+						FightDate: eventDateString,
+					}
+
+					activeFighters = append(activeFighters, activeFighterTwo)
 
 					weightClass := el.ChildText("span.weight_class")
 					fmt.Printf("Weight class: %s\n\n\n", weightClass)
@@ -242,6 +301,7 @@ func runMMAScraper() {
 	c.Wait()
 
 	createJSONFromEvents(events, "mma_events.json")
+	createJSONFromActiveFighters(activeFighters, "active_fighters.json")
 }
 
 // Create JSON out of array of objects and save to JSON
@@ -252,6 +312,17 @@ func createJSONFromEvents(events []Event, jsonFileName string) {
 		log.Fatal(err)
 	}
 	fmt.Println("Generated events of length", len(events))
+	os.WriteFile(jsonFileName, content, 0644)
+}
+
+// Create JSON out of array of objects and save to JSON
+func createJSONFromActiveFighters(activeFighters []ActiveFighter, jsonFileName string) {
+	content, err := json.MarshalIndent(activeFighters, " ", "")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println("Generated events of length", len(activeFighters))
 	os.WriteFile(jsonFileName, content, 0644)
 }
 
