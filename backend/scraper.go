@@ -146,6 +146,18 @@ func runMMAScraper() {
 			eventDateString := h.ChildText("div.event_detail div.info span:nth-child(1)")
 			eventLocationString := h.ChildText("span[itemprop=location]")
 
+			if (strings.Contains(eventLocationString, "United States")) && strings.Contains(organizationName, "UFC") {
+				eventDateString = eventDateString + " 8:00 P.M."
+			} else if (strings.Contains(eventLocationString, "United Kingdom")) && strings.Contains(organizationName, "UFC") {
+				eventDateString = eventDateString + " 3:00 P.M."
+			} else if (strings.Contains(eventLocationString, "Thailand")) && strings.Contains(organizationName, "One Championship") {
+				eventDateString = eventDateString + " 8:30 A.M."
+			} else if strings.Contains(organizationName, "Bellator") || strings.Contains(organizationName, "Professional Fighters League") {
+				eventDateString = eventDateString + " 8:00 P.M."
+			} else {
+				eventDateString = eventDateString + " 8:00 P.M."
+			}
+
 			// fmt.Println(organizationName, eventTitleString, eventDateString, eventLocationString)
 			// fmt.Println("------------")
 
