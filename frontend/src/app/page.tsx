@@ -3,6 +3,7 @@
 import axios from 'axios'
 import { useEffect, useState } from 'react'
 import { sortBy } from 'lodash'
+import Head from 'next/head' // Import the Head component
 
 import SelectedEvent from '@/Components/SelectedEvent/SelectedEvent'
 import ShortDivider from '@/Components/ShortDivider/ShortDivider'
@@ -22,11 +23,8 @@ export default function Home() {
   const [ufcOnly, setUfcOnly] = useState(false)
 
   useEffect(() => {
-    // const url = 'https://mma-events-77263a4cf406.herokuapp.com/events'
-    // const url = 'https://www.jsonkeeper.com/b/AFSB'
     const url = 'mma_events.json'
     axios.get(url).then((response) => {
-      // console.log(response)
       var eventsList = response.data
 
       const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date))
@@ -36,26 +34,21 @@ export default function Home() {
       const filteredSortedEventsOnlyFutureDates: Event[] = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
 
       setEvents(filteredSortedEventsOnlyFutureDates)
-      // console.log(`useEffect -- ufcOnly: ${ufcOnly}`)
-
       setFilteredEvents(filteredSortedEventsOnlyFutureDates)
     });
   }, []);
 
   function nextEvent() {
-    // console.log("nextEvent called")
     let newSelectedEvent = (selectedEventIndex + 1) < events.length ? (selectedEventIndex + 1) : selectedEventIndex
     setSelectedEventIndex(newSelectedEvent)
   }
 
   function previousEvent() {
-    // console.log("previousEvent called")
     let newSelectedEvent = (selectedEventIndex - 1) >= 0 ? (selectedEventIndex - 1) : selectedEventIndex
     setSelectedEventIndex(newSelectedEvent)
   }
 
   function setEvent(index: number) {
-    // console.log(`setEvent called  ${index}`)
     if (index !== selectedEventIndex) {
       setSelectedEventIndex(index)
     }
@@ -67,10 +60,8 @@ export default function Home() {
   }
 
   const toggleUFCOnly = () => {
-    // console.log(`ufcOnly before setting it toggled: ${ufcOnly}`)
     let updatedUfcOnly = !ufcOnly
     setUfcOnly((prevUfcOnly) => !prevUfcOnly)
-    // console.log(`ufcOnly before after setting it toggled: ${ufcOnly}`)
 
     if (updatedUfcOnly) {
       let filteredEvents = events.filter(event => event.organization.includes("UFC"))
@@ -80,92 +71,92 @@ export default function Home() {
     }
 
     setSelectedEventIndex(0)
-
-    // console.log(`ufcOnly before after setting it toggled, again: ${ufcOnly}\n\n\n`)
-    
   }
 
   return (
     <>
-    <main className="flex min-h-screen flex-col items-center justify-between p-8">
-      <div>
-        <section>
-          <div className="download-app-store">
-            <a href='https://apps.apple.com/us/app/fight-watch/id6738202028'>
-              <img src='download.svg'/>
-            </a>
-          </div>
-
+      <Head>
+        <title>Upcoming MMA Events</title>
+        <meta name="description" content="Discover the latest MMA events, including UFC fights, dates, and more." />
+        <link rel="icon" href="/favicon.ico" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8518848174079347"
+        crossOrigin="anonymous"></script>
+      </Head>
+      <main className="flex min-h-screen flex-col items-center justify-between p-8">
+        <div>
+          <section>
+            <div className="download-app-store">
+              <a href='https://apps.apple.com/us/app/fight-watch/id6738202028'>
+                <img src='download.svg'/>
+              </a>
+            </div>
           </section>
-        <div className='current-event max-w-2xl'>
-          {filteredEvents.map((event, index) => {
-            if (index === selectedEventIndex) {
-              return (
-                <div key={index}>
+          <div className='current-event max-w-2xl'>
+            {filteredEvents.map((event, index) => {
+              if (index === selectedEventIndex) {
+                return (
+                  <div key={index}>
+                    <div id="button-wrapper" className='flow-root px-5 w-full'>
+                      <button 
+                        className='px-4 float-left rounded-full disabled:text-gray-600' 
+                        disabled={!(selectedEventIndex > 0)} 
+                        onClick={previousEvent}>
+                          <p className='underline font-semibold'>
+                            {selectedEventIndex > 0 ? filteredEvents[selectedEventIndex - 1].title.slice(0,15) : null}{!(selectedEventIndex > 0) ? "" : "..."} &lt;&lt; Previous
+                          </p>
+                      </button>
 
-                  <div id="button-wrapper" className='flow-root px-5 w-full'>
-                    <button 
-                      className='px-4 float-left rounded-full disabled:text-gray-600' 
-                      disabled={!(selectedEventIndex > 0)} 
-                      onClick={previousEvent}>
-                        <p className='underline font-semibold'>
-                          {selectedEventIndex > 0 ? filteredEvents[selectedEventIndex - 1].title.slice(0,15) : null}{!(selectedEventIndex > 0) ? "" : "..."} &lt;&lt; Previous
-                        </p>
-                    </button>
-
-                    <button 
-                      className='px-4 float-right rounded-full disabled:text-gray-600'
-                      disabled={(selectedEventIndex === filteredEvents.length - 1)} 
-                      onClick={nextEvent}>
-                        <p className='underline font-semibold'>
-                          Next &gt;&gt; {selectedEventIndex === filteredEvents.length - 1 ? null : filteredEvents[selectedEventIndex + 1].title.slice(0,15)} {(selectedEventIndex === filteredEvents.length - 1) ? "" : "..."}
-                        </p>
-                    </button>
-                  </div>
-
-                  <div id="fight-container" className='text-center'>
-
-                    <div id='toggle-ufc' className='pt-3'>
-                      <label className="relative inline-flex items-center cursor-pointer">
-                        <input type="checkbox" checked={ufcOnly} onClick={() => toggleUFCOnly()} onChange={e => {}} className="sr-only peer" />
-                        <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-4 peer-focus:ring-teal-300 dark:peer-focus:ring-teal-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-teal-600"></div>
-                        <span className="ml-3 text-sm font-medium dark:text-gray-300">Show UFC Events Only</span>
-                      </label>
+                      <button 
+                        className='px-4 float-right rounded-full disabled:text-gray-600'
+                        disabled={(selectedEventIndex === filteredEvents.length - 1)} 
+                        onClick={nextEvent}>
+                          <p className='underline font-semibold'>
+                            Next &gt;&gt; {selectedEventIndex === filteredEvents.length - 1 ? null : filteredEvents[selectedEventIndex + 1].title.slice(0,15)} {(selectedEventIndex === filteredEvents.length - 1) ? "" : "..."}
+                          </p>
+                      </button>
                     </div>
 
-                    <SelectedEvent 
-                      event={event} 
-                      goToEventPage={goToEventPage} 
-                      isSoonest={index === 0}/>
+                    <div id="fight-container" className='text-center'>
+                      <div id='toggle-ufc' className='pt-3'>
+                        <label className="relative inline-flex items-center cursor-pointer">
+                          <input type="checkbox" checked={ufcOnly} onClick={() => toggleUFCOnly()} onChange={e => {}} className="sr-only peer" />
+                          <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-4 peer-focus:ring-teal-300 dark:peer-focus:ring-teal-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-teal-600"></div>
+                          <span className="ml-3 text-sm font-medium dark:text-gray-300">Show UFC Events Only</span>
+                        </label>
+                      </div>
+
+                      <SelectedEvent 
+                        event={event} 
+                        goToEventPage={goToEventPage} 
+                        isSoonest={index === 0}/>
+                    </div>
                   </div>
+                )
+              } else {
+                return null;
+              }
+
+            })}
+          </div>
+
+          <hr className='py-3' />
+          
+          <div id="all-events" className='text-center'>
+            <h2 className='text-center font-bold text-2xl pb-2'>More Events</h2>
+            {filteredEvents 
+            ? filteredEvents.map((event, index) => {
+              return (
+                <div key={index}> 
+                  <p className={index === selectedEventIndex ? 'py-1 font-bold text-blue-600 underline hover:cursor-pointer' : 'py-1 font-semibold hover:cursor-pointer'} onClick={() => setEvent(index)}>
+                    {index === selectedEventIndex ? ">>" : ""}{event.title} - {event.date}
+                  </p>
                 </div>
               )
-            } else {
-              return null;
-            }
-
-          })}
+            })
+            : <p>There are currently no upcoming events. This is weird!</p>}
+          </div>
         </div>
-
-        <hr className='py-3' />
-        
-        <div id="all-events" className='text-center'>
-          <h2 className='text-center font-bold text-2xl pb-2'>More Events</h2>
-          {filteredEvents 
-          ? filteredEvents.map((event, index) => {
-            return (
-              <div key={index}> 
-                <p className={index === selectedEventIndex ? 'py-1 font-bold text-blue-600 underline hover:cursor-pointer' : 'py-1 font-semibold hover:cursor-pointer'} onClick={() => setEvent(index)}>
-                  {index === selectedEventIndex ? ">>" : ""}{event.title} - {event.date}
-                </p>
-              </div>
-            )
-          })
-          : <p>There are currently no upcoming events. This is weird!</p>}
-        </div>
-        
-      </div>
-    </main>
+      </main>
     </>
   )
 }
