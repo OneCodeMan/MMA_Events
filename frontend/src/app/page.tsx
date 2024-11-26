@@ -155,6 +155,22 @@ export default function Home() {
             })
             : <p>There are currently no upcoming events. This is weird!</p>}
           </div>
+          <div>
+          <ins
+            className="adsbygoogle"
+            style={{ display: 'block' }}
+            data-ad-client="ca-pub-8518848174079347"
+            data-ad-slot="5961423670"
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          ></ins>
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+            data-ad-client="ca-pub-8518848174079347"
+            crossOrigin="anonymous"
+          ></script>
+        </div>
         </div>
       </main>
     </>
