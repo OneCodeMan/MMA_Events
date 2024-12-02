@@ -1,427 +1,142 @@
 [
  {
  "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC on ESPN 63 - Covington vs. Buckley",
- "location": "Amalie Arena, Tampa, Florida, United States",
- "date": "Dec 14, 2024 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-63-Covington-vs-Buckley-104113",
+ "title": "UFC Fight Night - Feb. 1",
+ "location": "Kingdom Arena, Riyadh, Saudi Arabia",
+ "date": "Feb 1, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Feb-1-105177",
  "fights": [
  {
  "fighter_one": {
- "name": "Colby Covington",
- "record": "17-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325093009_Colby_Covington_ff.JPG"
+ "name": "Sergei Pavlovich",
+ "record": "18-3-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230421032846_Sergei_Pavlovich_ff.JPG"
  },
  "fighter_two": {
- "name": "Joaquin Buckley",
- "record": "20-6-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220902033121_Joaquin_Buckley_ff.JPG"
+ "name": "Jairzinho Rozenstruik",
+ "record": "15-5-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220331050912_Jairzinho_Rozenstruik_ff.JPG"
  },
- "weight": "Welterweight"
+ "weight": "Heavyweight"
  },
  {
  "fighter_one": {
- "name": "Mackenzie Dern",
- "record": "14-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648250835276_20220325072709_Mackenzie_Dern_ff.JPG"
+ "name": "Andre Muniz",
+ "record": "24-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648840559628_20220401031551_Andre_Muniz_ff.JPG"
  },
  "fighter_two": {
- "name": "Amanda Ribas",
- "record": "13-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648255324689_20220325084159_Amanda_Ribas_ff.JPG"
- },
- "weight": "Strawweight"
- },
- {
- "fighter_one": {
- "name": "Cub Swanson",
- "record": "29-14-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878242Cub_Swanson_ff.jpg"
- },
- "fighter_two": {
- "name": "Billy Quarantillo",
- "record": "18-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664493294Billy_Quarantillo_ff.jpg"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Michael Johnson",
- "record": "22-19-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648864605826_20220401095639_Michael_Johnson_ff.JPG"
- },
- "fighter_two": {
- "name": "Ottman Azaitar",
- "record": "13-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664488172Ottman_Azaitar_ff.jpg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Vitor Petrino",
- "record": "11-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1667506165Vitor_Petrino_ff.jpg"
- },
- "fighter_two": {
- "name": "Dustin Jacoby",
- "record": "19-9-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663883097Dustin_Jacoby_ff.jpg"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Adrian Yanez",
- "record": "17-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1674243856Adrian_Yanez_ff.jpg"
- },
- "fighter_two": {
- "name": "Daniel Marcos",
- "record": "16-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369544Daniel_Marcos_ff.jpg"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Miles Johns",
+ "name": "Ikram Aliskerov",
  "record": "15-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668806575Miles_Johns_ff.jpg"
- },
- "fighter_two": {
- "name": "Felipe Lima",
- "record": "13-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066246747_1718881718IMG_2683.png"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Miranda Maverick",
- "record": "14-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663888701Miranda_Maverick_ff.jpg"
- },
- "fighter_two": {
- "name": "Jamey- LynHorth",
- "record": "7-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20241027080558_horthsq.PNG"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Joel Alvarez",
- "record": "21-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648842856695_20220401035410_Joel_Alvarez_ff.JPG"
- },
- "fighter_two": {
- "name": "Drakkar Klose",
- "record": "15-2-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1714674840Drakkar_Klose_ff.jpg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Manel Kape",
- "record": "19-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648859047769_20220401082402_Manel_Kape_ff.JPG"
- },
- "fighter_two": {
- "name": "Bruno Silva",
- "record": "14-5-2",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648259375914_20220325094930_Bruno_Bulldog_Silva.JPG"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Davey Grant",
- "record": "15-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369363Davey_Grant_ff.jpg"
- },
- "fighter_two": {
- "name": "Ramon Taveras",
- "record": "10-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1691818277318_1691818263Ramon_Taveras.jpg"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Josefine Lindgren Knutsson",
- "record": "8-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1653314633041_1630883487Knutsson.jpg"
- },
- "fighter_two": {
- "name": "Piera Rodriguez",
- "record": "9-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878016Piera_Rodriguez_ff.jpg"
- },
- "weight": "Strawweight"
- },
- {
- "fighter_one": {
- "name": "Navajo Stirling",
- "record": "5-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1726027226Navajo_Stirling_ff.jpg"
- },
- "fighter_two": {
- "name": "George Tokkos",
- "record": "10-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1654630820917_1598920994George_Tokkos.jpg"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Sean Woodson",
- "record": "12-1-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1687459274Sean_Woodson_ff.jpg"
- },
- "fighter_two": {
- "name": "Fernando Padilla",
- "record": "16-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1625257082749_1625257072Fernando_Padilla.jpg"
- },
- "weight": "Featherweight"
- }
- ]
- },
- {
- "organization": "Professional Fighters League",
- "title": "Professional Fighters League - 2024 Season PFL Championships",
- "location": "King Saud University Stadium, Riyadh, Saudi Arabia",
- "date": "Nov 29, 2024 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/Professional-Fighters-League-2024-Season-PFL-Championships-105106",
- "fights": [
- {
- "fighter_one": {
- "name": "Brendan Loughnane",
- "record": "29-5-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20221124012740_Brendan_Loughnane.JPEG"
- },
- "fighter_two": {
- "name": "Timur Khizriev",
- "record": "17-0-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1668719605Timur_Khizriev.png"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Taila Santos",
- "record": "22-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648848388515_20220401052620_Taila_Santos_ff.JPG"
- },
- "fighter_two": {
- "name": "Dakota Ditcheva",
- "record": "13-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1669313374Dakota_Ditcheva.jpeg"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Impa Kasanganay",
- "record": "18-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1674759690Impa_Kasanganay_ff.jpg"
- },
- "fighter_two": {
- "name": "Dovletdzhan Yagshimuradov",
- "record": "24-7-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/152554537327682207e40ed77a51839dab3cdacd73_Gl6Gy_495x495.png"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Shamil Musaev",
- "record": "17-0-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710170561095_20240311112223_IMG_3339.JPG"
- },
- "fighter_two": {
- "name": "Magomed Umalatov",
- "record": "17-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1687456922Magomed_Umalatov.jpeg"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Brent Primus",
- "record": "15-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1665770862Brent_Primus.jpeg"
- },
- "fighter_two": {
- "name": "Gadzhi Rabadanov",
- "record": "23-4-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1677798286255_1677798274Gadzhi_Rabadanov.jpg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Denis Goltsov",
- "record": "35-8-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1681503880Denis_Goltsov.jpeg"
- },
- "fighter_two": {
- "name": "Oleg Popov",
- "record": "19-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1701773160909_1701773150106b3227-8a35-41a6-9b32-fdc906b3637e.jpeg"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Abdalrahman Alhyasat",
- "record": "5-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1715287962Abdalrahman_Alhyasat.jpg"
- },
- "fighter_two": {
- "name": "Abdullah Al-Qahtani",
- "record": "9-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710640410752_20240128043027_alqahtani.PNG"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Mohammad Alaqraa",
- "record": "7-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1615158709715_1615158696Mohammad_Alaqraa.jpg"
- },
- "fighter_two": {
- "name": "Omar El Dafrawy",
- "record": "12-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710638344925_17064756729275036338ad5efac3c50bc13e626789.png"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Hattan Alsaif",
- "record": "0-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1715288456Hattan_Alsaif.jpg"
- },
- "fighter_two": {
- "name": "Lilia Osmani",
- "record": "0-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1731412639Snapinsta.app_466491419_1733214177534348_7677061688722692451_n_1080.jpg"
- },
- "weight": "Atomweight"
- },
- {
- "fighter_one": {
- "name": "Ali Taleb",
- "record": "11-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1656618109Schermata_2022-06-30_alle_9.40.38_PM.png"
- },
- "fighter_two": {
- "name": "Rachid El Hazoume",
- "record": "11-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1711551088559_20240207014225_rachidhaz.JPG"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Mohsen Mohammadseifi",
- "record": "6-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710633776905_17064758903800db123f0fe1d00235a21c00aa78ff.png"
- },
- "fighter_two": {
- "name": "Georges Eid",
- "record": "10-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/152174776727545498_2072203213014223_3019852855711555765_n.jpg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Mansour Barnaoui",
- "record": "21-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1715552558400_1478622894barnaoui.png"
- },
- "fighter_two": {
- "name": "Alfie Davis",
- "record": "17-4-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1691685190Alfie_Davis.jpeg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Slim Trabelsi",
- "record": "7-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710212526813_1706472351Slim-Trabelsi-700x700.png"
- },
- "fighter_two": {
- "name": "Abraham Bably",
- "record": "5-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1711061372115_20240321064927_0633d04f0eda292f739aeb9d461a4d01.PNG"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Jesus Pinedo",
- "record": "23-6-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1512037396534_20151003100228_jesus_pinedo.JPG"
- },
- "fighter_two": {
- "name": "Jeremy Kennedy",
- "record": "19-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664600626Jeremy_Kennedy_ff.jpg"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Jose Perez",
- "record": "9-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716485245Jose_Perez.jpg"
- },
- "fighter_two": {
- "name": "Asael Adjoudj",
- "record": "8-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1582389691LEE_1588.jpg"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Costellovan  Steenis",
- "record": "15-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1715889367Costello_Van_Steenis.jpeg"
- },
- "fighter_two": {
- "name": "Joao Vitor Ramos Dantas",
- "record": "7-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1543532693jjoao.jpg"
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066743421_20230714052514_Ikram_Aliskerov_ff.JPG"
  },
  "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Said Nurmagomedov",
+ "record": "18-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664603103Said_Nurmagomedov_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Vinicius Oliveira",
+ "record": "21-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719289186Vinicius_Oliveira_ff.jpg"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Terrance McKinney",
+ "record": "15-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1691960876Terrance_McKinney_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Damir Hadzovic",
+ "record": "14-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664596455Damir_Hadzovic_ff.jpg"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Abdul- KareemAl-Selwady",
+ "record": "15-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1518839608picc.jpeg"
+ },
+ "fighter_two": {
+ "name": "Jordan Leavitt",
+ "record": "11-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1658509635Jordan_Leavitt_ff.jpg"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Bogdan Grad",
+ "record": "14-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664989223Bogdan_Grad.jpg"
+ },
+ "fighter_two": {
+ "name": "Lucas Alexander",
+ "record": "8-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1496090690unnamed.jpg"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Muhammadjon Naimov",
+ "record": "11-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1697785452845_1598906854Muhammadjon_Naimov.jpg"
+ },
+ "fighter_two": {
+ "name": "Kaan Ofli",
+ "record": "11-3-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710010582Kaan_Ofli.jpg"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Hamdy Abdelwahab",
+ "record": "5-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1658668770abdelwahab-hamdy.png"
+ },
+ "fighter_two": {
+ "name": "Jamal Pogues",
+ "record": "11-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664494601Jamal_Pogues_ff.jpg"
+ },
+ "weight": "Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Mayra Bueno Silva",
+ "record": "10-4-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689368775Mayra_Bueno_Silva_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Jasmine Jasudavicius",
+ "record": "12-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1694738898Jasmine_Jasudavicius_ff.jpg"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Shamil Gaziev",
+ "record": "13-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710212484746_20240229024047_ShamilGaziev.JPG"
+ },
+ "fighter_two": {
+ "name": "Thomas Petersen",
+ "record": "9-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1650053695186_20220415041450_Thomas_Petersen.JPG"
+ },
+ "weight": "Heavyweight"
  }
  ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 313 - Mar. 8",
- "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
- "date": "Mar 8, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-313-Mar-8-105788",
- "fights": []
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Mar. 22",
- "location": "O2 Arena, London, England",
- "date": "Mar 22, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Mar-22-105670",
- "fights": []
  },
  {
  "organization": "Ultimate Fighting Championship (UFC)",
@@ -440,14 +155,27 @@
  "fights": [
  {
  "fighter_one": {
+ "name": "Cody Brundage",
+ "record": "10-6-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929063111_Cody_Brundage_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Ryan Loder",
+ "record": "7-1-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20240309020626_Ryan_Loder.JPG"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
  "name": "Lucas Almeida",
- "record": "15-3-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220922053342_Lucas_Almeida_ff.JPG"
+ "record": "15-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663882413Lucas_Almeida_ff.jpg"
  },
  "fighter_two": {
  "name": "Danny Silva",
- "record": "9-1-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220807092356_Danny_Silva1.PNG"
+ "record": "9-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1659921819Danny_Silva1.png"
  },
  "weight": "Featherweight"
  },
@@ -566,6 +294,19 @@
  },
  {
  "fighter_one": {
+ "name": "Patrick Habirora",
+ "record": "4-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1718368567262_1718368559habirora.jpg"
+ },
+ "fighter_two": {
+ "name": "Catalin Safta",
+ "record": "4-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
  "name": "Dylan Salvador",
  "record": "6-2-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1643129600Schermata_2022-01-25_alle_5.52.29_PM.png"
@@ -576,6 +317,19 @@
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg"
  },
  "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Mathys Duragrin",
+ "record": "3-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg"
+ },
+ "fighter_two": {
+ "name": "Yassin Chtatou",
+ "record": "5-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1727461824315_1727461814Yassin_Chtatou.jpg"
+ },
+ "weight": "Featherweight"
  },
  {
  "fighter_one": {
@@ -592,525 +346,16 @@
  },
  {
  "fighter_one": {
- "name": "Aleksandrs Chizovs",
- "record": "10-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1709785444803_20240306112356_0c3f972e755e2abcdf174e0e72f68b40.PNG"
- },
- "fighter_two": {
- "name": "Unknown Fighter",
- "record": "--",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
  "name": "Eoin Sheridan",
  "record": "1-0-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20190626055057_d707418810d806f8ad802b89d65900ea.JPG"
  },
  "fighter_two": {
- "name": "Unknown Fighter",
- "record": "--",
+ "name": "Brice Belghazi",
+ "record": "1-0-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg"
  },
  "weight": "Welterweight"
- }
- ]
- },
- {
- "organization": "Bellator MMA",
- "title": "Bellator Champions Series Dubai - Road to Dubai",
- "location": "Coca-Cola Arena, Dubai, United Arab Emirates",
- "date": "Jan 25, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/Bellator-Champions-Series-Dubai-Road-to-Dubai-105837",
- "fights": [
- {
- "fighter_one": {
- "name": "Usman Nurmagomedov",
- "record": "18-0-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20221014020409_Usman_Nurmagomedov.JPEG"
- },
- "fighter_two": {
- "name": "Paul Hughes",
- "record": "13-1-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1722096315paulhughes.jpg"
- },
- "weight": "Lightweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 310 - Pantoja vs. Asakura",
- "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
- "date": "Dec 7, 2024 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-310-Pantoja-vs-Asakura-103714",
- "fights": [
- {
- "fighter_one": {
- "name": "Alexandre Pantoja",
- "record": "28-5-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325082011_Alexandre_Pantoja_ff.JPG"
- },
- "fighter_two": {
- "name": "Kai Asakura",
- "record": "21-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20231231090241_Kai_Asakura.JPG"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Shavkat Rakhmonov",
- "record": "18-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668810614Shavkat_Rakhmonov_ff.jpg"
- },
- "fighter_two": {
- "name": "Ian Garry",
- "record": "15-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1708042846Ian_Garry_ff.jpg"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Ciryl Gane",
- "record": "12-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1722694338581_1572606202Ciryl_Gane_20190807_MR_0013.JPG"
- },
- "fighter_two": {
- "name": "Alexander Volkov",
- "record": "38-10-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066654016_20220325081825_Alexander_Volkov_ff.JPG"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Bryce Mitchell",
- "record": "16-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648843751423_20220401040905_Bryce_Mitchell_ff.JPG"
- },
- "fighter_two": {
- "name": "Kron Gracie",
- "record": "5-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664602355Kron_Gracie_ff.jpg"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Nate Landwehr",
- "record": "18-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664602854Nate_Landwehr_ff.jpg"
- },
- "fighter_two": {
- "name": "Doo Ho Choi",
- "record": "15-4-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1481443476choi.jpg"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Anthony Smith",
- "record": "38-20-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1631570165Anthony-Smith.png"
- },
- "fighter_two": {
- "name": "Dominick Reyes",
- "record": "13-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648259956081_20220325095910_Dominick_Reyes_ff.JPG"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Vicente Luque",
- "record": "22-10-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648252009720_20220325074644_Vicente_Luque_ff.JPG"
- },
- "fighter_two": {
- "name": "Themba Gorimbo",
- "record": "14-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716079677Themba_Gorimbo_ff.jpg"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Movsar Evloev",
- "record": "18-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648843996605_20220401041310_Movsar_Evloev_ff.JPG"
- },
- "fighter_two": {
- "name": "Aljamain Sterling",
- "record": "24-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648255164478_20220325083918_Aljamain_Sterling_ff.JPG"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Rizvan Kuniev",
- "record": "12-2-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1500570155IMG_3512.JPG"
- },
- "fighter_two": {
- "name": "Unknown Fighter",
- "record": "--",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Bryan Battle",
- "record": "11-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1683944183396_20221208013638_Bryan_Battle_ff.JPG"
- },
- "fighter_two": {
- "name": "Randy Brown",
- "record": "19-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648862956095_20220401092909_Randy_Brown_ff.JPG"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Chris Weidman",
- "record": "16-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1601326498498_1601326487Chris_Weidman.jpg"
- },
- "fighter_two": {
- "name": "Eryk Anders",
- "record": "16-8-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664492175Eryk_Anders_ff.jpg"
- },
- "weight": "195lb Catchweight"
- },
- {
- "fighter_one": {
- "name": "Cody Durden",
- "record": "17-6-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885182Cody_Durden_ff.jpg"
- },
- "fighter_two": {
- "name": "Joshua Van",
- "record": "11-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716563467955_1660600851joshua-van.jpg"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Michael Chiesa",
- "record": "17-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648772265144_20220331081739_Michael_Chiesa_ff.JPG"
- },
- "fighter_two": {
- "name": "Max Griffin",
- "record": "20-10-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1722691089910_20220922062054_Max_Griffin_ff.JPG"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Clay Guida",
- "record": "38-24-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648859919064_20220401083833_Clay_Guida_ff.JPG"
- },
- "fighter_two": {
- "name": "Chase Hooper",
- "record": "14-3-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885352Chase_Hooper_ff.jpg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Kennedy Nzechukwu",
- "record": "13-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668806986Kennedy_Nzechukwu_ff.jpg"
- },
- "fighter_two": {
- "name": "Lukasz Brzeski",
- "record": "9-5-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1712442949186_1712442934IMG_2532.jpeg"
- },
- "weight": "Heavyweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Feb. 1",
- "location": "Kingdom Arena, Riyadh, Saudi Arabia",
- "date": "Feb 1, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Feb-1-105177",
- "fights": [
- {
- "fighter_one": {
- "name": "Sergei Pavlovich",
- "record": "18-3-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230421032846_Sergei_Pavlovich_ff.JPG"
- },
- "fighter_two": {
- "name": "Jairzinho Rozenstruik",
- "record": "15-5-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220331050912_Jairzinho_Rozenstruik_ff.JPG"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Andre Muniz",
- "record": "24-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648840559628_20220401031551_Andre_Muniz_ff.JPG"
- },
- "fighter_two": {
- "name": "Ikram Aliskerov",
- "record": "15-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066743421_20230714052514_Ikram_Aliskerov_ff.JPG"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Terrance McKinney",
- "record": "15-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1691960876Terrance_McKinney_ff.jpg"
- },
- "fighter_two": {
- "name": "Damir Hadzovic",
- "record": "14-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664596455Damir_Hadzovic_ff.jpg"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Bogdan Grad",
- "record": "14-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664989223Bogdan_Grad.jpg"
- },
- "fighter_two": {
- "name": "Lucas Alexander",
- "record": "8-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1496090690unnamed.jpg"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Muhammadjon Naimov",
- "record": "11-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1697785452845_1598906854Muhammadjon_Naimov.jpg"
- },
- "fighter_two": {
- "name": "Kaan Ofli",
- "record": "11-3-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710010582Kaan_Ofli.jpg"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Hamdy Abdelwahab",
- "record": "5-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1658668770abdelwahab-hamdy.png"
- },
- "fighter_two": {
- "name": "Jamal Pogues",
- "record": "11-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664494601Jamal_Pogues_ff.jpg"
- },
- "weight": "Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Mayra Bueno Silva",
- "record": "10-4-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689368775Mayra_Bueno_Silva_ff.jpg"
- },
- "fighter_two": {
- "name": "Jasmine Jasudavicius",
- "record": "12-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1694738898Jasmine_Jasudavicius_ff.jpg"
- },
- "weight": "Flyweight"
- },
- {
- "fighter_one": {
- "name": "Shamil Gaziev",
- "record": "13-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710212484746_20240229024047_ShamilGaziev.JPG"
- },
- "fighter_two": {
- "name": "Thomas Petersen",
- "record": "9-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1650053695186_20220415041450_Thomas_Petersen.JPG"
- },
- "weight": "Heavyweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC 312 - Feb. 8",
- "location": "Qudos Bank Arena, Sydney, Australia",
- "date": "Feb 8, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-312-Feb-8-105092",
- "fights": [
- {
- "fighter_one": {
- "name": "Jimmy Crute",
- "record": "12-4-1 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230210090635_Jimmy_Crute_ff.JPG"
- },
- "fighter_two": {
- "name": "Marcin Prachnio",
- "record": "17-8-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220922054818_Marcin_Prachnio_ff.JPG"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Quillan Salkilld",
- "record": "7-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720840946Quillan_Salkilld.jpg"
- },
- "fighter_two": {
- "name": "Anshul Jubli",
- "record": "7-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664546173674_20220930095601_Anshul_Jubli.JPG"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Rei Tsuruya",
- "record": "10-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719288071Rei_Tsuruya_ff.jpg"
- },
- "fighter_two": {
- "name": "Stewart Nicoll",
- "record": "8-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720590813346_1720590801Stewart_Nicoll.jpg"
- },
- "weight": "Flyweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Feb. 15",
- "location": "UFC Apex, Las Vegas, Nevada, United States",
- "date": "Feb 15, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Feb-15-105577",
- "fights": [
- {
- "fighter_one": {
- "name": "Nazim Sadykhov",
- "record": "9-1-1 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220711013403_Nazim_Sadykhov.JPG"
- },
- "fighter_two": {
- "name": "Ismael Bonfim",
- "record": "20-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929075952_Ismael_Bonfim_ff.JPG"
- },
- "weight": "Lightweight"
- },
- {
- "fighter_one": {
- "name": "Rinat Fakhretdinov",
- "record": "23-1-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066035779_20221001014408_Rinat_Fakhretdinov_ff.JPG"
- },
- "fighter_two": {
- "name": "Gabriel Bonfim",
- "record": "16-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664495780Gabriel_Bonfim_ff.jpg"
- },
- "weight": "Welterweight"
- },
- {
- "fighter_one": {
- "name": "Jacob Malkoun",
- "record": "8-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878120Jacob_Malkoun_ff.jpg"
- },
- "fighter_two": {
- "name": "Rodolfo Vieira",
- "record": "10-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664490682Rodolfo_Vieira_ff.jpg"
- },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Jose Delgado",
- "record": "8-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1723147927Jose_Delgado.jpg"
- },
- "fighter_two": {
- "name": "Connor Matthews",
- "record": "7-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1343938728813_20120802011823_connormatthews.PNG"
- },
- "weight": "Featherweight"
- },
- {
- "fighter_one": {
- "name": "Jacqueline Cavalcanti",
- "record": "8-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1672543924Jacqueline_Cavalcanti.jpg"
- },
- "fighter_two": {
- "name": "Julia Avila",
- "record": "9-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1701476139459_20220331053120_Julia_Avila_ff.JPG"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Carli Judice",
- "record": "3-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1695326215Carli_Judice.jpg"
- },
- "fighter_two": {
- "name": "Juliana Miller",
- "record": "3-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689371102Juliana_Miller_ff.jpg"
- },
- "weight": "Flyweight"
- }
- ]
- },
- {
- "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Mar. 29",
- "location": "UFC Apex, Las Vegas, Nevada, United States",
- "date": "Mar 29, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Mar-29-105790",
- "fights": [
- {
- "fighter_one": {
- "name": "Edgar Chairez",
- "record": "11-6-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1618032947Edgar_Chairez.jpg"
- },
- "fighter_two": {
- "name": "C.J. Vergara",
- "record": "12-6-1 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220922042247_CJ_Vergara_ff.JPG"
- },
- "weight": "Flyweight"
  }
  ]
  },
@@ -1281,80 +526,25 @@
  },
  {
  "organization": "Ultimate Fighting Championship (UFC)",
- "title": "UFC Fight Night - Feb. 22",
- "location": "UFC Apex, Las Vegas, Nevada, United States",
- "date": "Feb 22, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Feb-22-105576",
+ "title": "UFC Fight Night - Mar. 22",
+ "location": "O2 Arena, London, England",
+ "date": "Mar 22, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Mar-22-105670",
  "fights": [
  {
  "fighter_one": {
- "name": "Brendan Allen",
- "record": "24-6-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220401031417_Brendan_Allen_ff.JPG"
+ "name": "Shauna Bannon",
+ "record": "6-1-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1678795091Shauna_Bannon.jpg"
  },
  "fighter_two": {
- "name": "Anthony Hernandez",
- "record": "13-2-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929063510_Anthony_Hernandez_ff.JPG"
+ "name": "Puja Tomar",
+ "record": "9-4-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1578167894puja_tomar.png"
  },
- "weight": "Middleweight"
- },
- {
- "fighter_one": {
- "name": "Ketlen Vieira",
- "record": "14-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648770852559_20220331075407_Ketlen_Vieira_ff.JPG"
- },
- "fighter_two": {
- "name": "Macy Chiasson",
- "record": "10-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648771585348_20220331080620_Macy_Chiasson_ff.JPG"
- },
- "weight": "Bantamweight"
- },
- {
- "fighter_one": {
- "name": "Ion Cutelaba",
- "record": "18-10-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1709936436Ion_Cutelaba_ff.jpg"
- },
- "fighter_two": {
- "name": "Ibo Aslan",
- "record": "14-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1551307840IboAslan.jpg"
- },
- "weight": "Light Heavyweight"
- },
- {
- "fighter_one": {
- "name": "Edson Barboza",
- "record": "24-12-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648260262441_20220325100417_Edson_Barboza_ff.JPG"
- },
- "fighter_two": {
- "name": "Steve Garcia",
- "record": "17-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885334Steve_Garcia_ff.jpg"
- },
- "weight": "Featherweight"
+ "weight": "Strawweight"
  }
  ]
- },
- {
- "organization": "One Championship",
- "title": "One Championship - One on Prime Video 28",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Feb 7, 2025 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-28-104915",
- "fights": []
- },
- {
- "organization": "One Championship",
- "title": "One Championship - One on Prime Video 34",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Sep 5, 2025 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-34-104922",
- "fights": []
  },
  {
  "organization": "Ultimate Fighting Championship (UFC)",
@@ -1443,6 +633,19 @@
  },
  {
  "fighter_one": {
+ "name": "Kevin Holland",
+ "record": "26-12-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648840139800_20220401030853_Kevin_Holland_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Reinierde  Ridder",
+ "record": "18-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648838116215_20220401023509_Reinier_de_Ridder.PNG"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
  "name": "Zachary Reese",
  "record": "8-1-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1686342342Zach_Reese.jpg"
@@ -1483,27 +686,484 @@
  ]
  },
  {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 310 - Pantoja vs. Asakura",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Dec 7, 2024 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-310-Pantoja-vs-Asakura-103714",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Alexandre Pantoja",
+ "record": "28-5-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325082011_Alexandre_Pantoja_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Kai Asakura",
+ "record": "21-4-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20231231090241_Kai_Asakura.JPG"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Shavkat Rakhmonov",
+ "record": "18-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668810614Shavkat_Rakhmonov_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Ian Garry",
+ "record": "15-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1708042846Ian_Garry_ff.jpg"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Ciryl Gane",
+ "record": "12-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1722694338581_1572606202Ciryl_Gane_20190807_MR_0013.JPG"
+ },
+ "fighter_two": {
+ "name": "Alexander Volkov",
+ "record": "38-10-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066654016_20220325081825_Alexander_Volkov_ff.JPG"
+ },
+ "weight": "Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Bryce Mitchell",
+ "record": "16-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648843751423_20220401040905_Bryce_Mitchell_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Kron Gracie",
+ "record": "5-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664602355Kron_Gracie_ff.jpg"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Nate Landwehr",
+ "record": "18-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664602854Nate_Landwehr_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Doo Ho Choi",
+ "record": "15-4-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1481443476choi.jpg"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Dominick Reyes",
+ "record": "13-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648259956081_20220325095910_Dominick_Reyes_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Anthony Smith",
+ "record": "38-20-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1631570165Anthony-Smith.png"
+ },
+ "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Vicente Luque",
+ "record": "22-10-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648252009720_20220325074644_Vicente_Luque_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Themba Gorimbo",
+ "record": "14-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716079677Themba_Gorimbo_ff.jpg"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Movsar Evloev",
+ "record": "18-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648843996605_20220401041310_Movsar_Evloev_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Aljamain Sterling",
+ "record": "24-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648255164478_20220325083918_Aljamain_Sterling_ff.JPG"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Randy Brown",
+ "record": "19-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648862956095_20220401092909_Randy_Brown_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Bryan Battle",
+ "record": "11-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1683944183396_20221208013638_Bryan_Battle_ff.JPG"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Chris Weidman",
+ "record": "16-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1601326498498_1601326487Chris_Weidman.jpg"
+ },
+ "fighter_two": {
+ "name": "Eryk Anders",
+ "record": "16-8-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664492175Eryk_Anders_ff.jpg"
+ },
+ "weight": "195lb Catchweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Cody Durden",
+ "record": "17-6-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885182Cody_Durden_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Joshua Van",
+ "record": "11-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716563467955_1660600851joshua-van.jpg"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Michael Chiesa",
+ "record": "17-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648772265144_20220331081739_Michael_Chiesa_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Max Griffin",
+ "record": "20-10-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1722691089910_20220922062054_Max_Griffin_ff.JPG"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Clay Guida",
+ "record": "38-24-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648859919064_20220401083833_Clay_Guida_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Chase Hooper",
+ "record": "14-3-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885352Chase_Hooper_ff.jpg"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Kennedy Nzechukwu",
+ "record": "13-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668806986Kennedy_Nzechukwu_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Lukasz Brzeski",
+ "record": "9-5-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1712442949186_1712442934IMG_2532.jpeg"
+ },
+ "weight": "Heavyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 313 - Mar. 8",
+ "location": "T-Mobile Arena, Las Vegas, Nevada, United States",
+ "date": "Mar 8, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-313-Mar-8-105788",
+ "fights": []
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Mar. 29",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Mar 29, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Mar-29-105790",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Kevin Borjas",
+ "record": "9-3-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220701034653_WhatsApp_Image_20220701_at_8_39_53_AM.JPEG"
+ },
+ "fighter_two": {
+ "name": "Ronaldo Rodriguez",
+ "record": "17-2-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1595134332luis-rodriguez.png"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Edgar Chairez",
+ "record": "11-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1618032960164_1618032947Edgar_Chairez.jpg"
+ },
+ "fighter_two": {
+ "name": "C. J.Vergara",
+ "record": "12-6-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878156CJ_Vergara_ff.jpg"
+ },
+ "weight": "Flyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC 312 - Feb. 8",
+ "location": "Qudos Bank Arena, Sydney, Australia",
+ "date": "Feb 8, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-312-Feb-8-105092",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Jimmy Crute",
+ "record": "12-4-1 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230210090635_Jimmy_Crute_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Marcin Prachnio",
+ "record": "17-8-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220922054818_Marcin_Prachnio_ff.JPG"
+ },
+ "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Quillan Salkilld",
+ "record": "7-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720840946Quillan_Salkilld.jpg"
+ },
+ "fighter_two": {
+ "name": "Anshul Jubli",
+ "record": "7-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664546173674_20220930095601_Anshul_Jubli.JPG"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Rei Tsuruya",
+ "record": "10-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719288071Rei_Tsuruya_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Stewart Nicoll",
+ "record": "8-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720590813346_1720590801Stewart_Nicoll.jpg"
+ },
+ "weight": "Flyweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Feb. 15",
+ "location": "UFC Apex, Las Vegas, Nevada, United States",
+ "date": "Feb 15, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Feb-15-105577",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Nazim Sadykhov",
+ "record": "9-1-1 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220711013403_Nazim_Sadykhov.JPG"
+ },
+ "fighter_two": {
+ "name": "Ismael Bonfim",
+ "record": "20-4-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929075952_Ismael_Bonfim_ff.JPG"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Rinat Fakhretdinov",
+ "record": "23-1-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066035779_20221001014408_Rinat_Fakhretdinov_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Gabriel Bonfim",
+ "record": "16-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664495780Gabriel_Bonfim_ff.jpg"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jacob Malkoun",
+ "record": "8-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878120Jacob_Malkoun_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Rodolfo Vieira",
+ "record": "10-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664490682Rodolfo_Vieira_ff.jpg"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jose Delgado",
+ "record": "8-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1723147927Jose_Delgado.jpg"
+ },
+ "fighter_two": {
+ "name": "Connor Matthews",
+ "record": "7-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1343938728813_20120802011823_connormatthews.PNG"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jacqueline Cavalcanti",
+ "record": "8-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1672543924Jacqueline_Cavalcanti.jpg"
+ },
+ "fighter_two": {
+ "name": "Julia Avila",
+ "record": "9-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1701476139459_20220331053120_Julia_Avila_ff.JPG"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Jesus Santos Aguilar",
+ "record": "11-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1599500925349_1599500913Jesus_Santos_Aguilar.JPG"
+ },
+ "fighter_two": {
+ "name": "Rafael Estevam",
+ "record": "12-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/152898423220180608051108_DSC_0236.JPG"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Carli Judice",
+ "record": "3-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1695326215Carli_Judice.jpg"
+ },
+ "fighter_two": {
+ "name": "Juliana Miller",
+ "record": "3-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689371102Juliana_Miller_ff.jpg"
+ },
+ "weight": "Flyweight"
+ }
+ ]
+ },
+ {
+ "organization": "One Championship",
+ "title": "One Championship - One Friday Fights 90",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Dec 6, 2024 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-90-105982",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Valmir Galiev",
+ "record": "9-1-1 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20180524041616_1.JPG"
+ },
+ "fighter_two": {
+ "name": "Avazbek Kholmirzaev",
+ "record": "7-2-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1706799695Avazbek_Kholmirzaev-Hero-1200x1165-1-768x746.jpg"
+ },
+ "weight": "Bantamweight"
+ }
+ ]
+ },
+ {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC Fight Night - Feb. 22",
+ "location": "Climate Pledge Arena, Seattle, Washington, United States",
+ "date": "Feb 22, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-Fight-Night-Feb-22-105576",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Brendan Allen",
+ "record": "24-6-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220401031417_Brendan_Allen_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Anthony Hernandez",
+ "record": "13-2-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929063510_Anthony_Hernandez_ff.JPG"
+ },
+ "weight": "Middleweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Ketlen Vieira",
+ "record": "14-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648770852559_20220331075407_Ketlen_Vieira_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Macy Chiasson",
+ "record": "10-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648771585348_20220331080620_Macy_Chiasson_ff.JPG"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Ion Cutelaba",
+ "record": "18-10-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1709936436Ion_Cutelaba_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Ibo Aslan",
+ "record": "14-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1551307840IboAslan.jpg"
+ },
+ "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Edson Barboza",
+ "record": "24-12-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648260262441_20220325100417_Edson_Barboza_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Steve Garcia",
+ "record": "17-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885334Steve_Garcia_ff.jpg"
+ },
+ "weight": "Featherweight"
+ }
+ ]
+ },
+ {
+ "organization": "One Championship",
+ "title": "One Championship - One on Prime Video 34",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Sep 5, 2025 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-34-104922",
+ "fights": []
+ },
+ {
  "organization": "One Championship",
  "title": "One Championship - One on Prime Video 30",
  "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
  "date": "Apr 4, 2025 8:30 A.M.",
  "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-30-104917",
- "fights": []
- },
- {
- "organization": "One Championship",
- "title": "One Championship - One on Prime Video 33",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Aug 1, 2025 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-33-104921",
- "fights": []
- },
- {
- "organization": "One Championship",
- "title": "One Championship - One on Prime Video 32",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Jul 11, 2025 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-32-104920",
  "fights": []
  },
  {
@@ -1515,63 +1175,39 @@
  "fights": []
  },
  {
- "organization": "One Championship",
- "title": "One Championship - One on Prime Video 36",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Nov 7, 2025 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-36-104924",
- "fights": []
- },
- {
- "organization": "One Championship",
- "title": "One Championship - One: United States",
- "location": "TBA, United States",
- "date": "Dec 5, 2025 8:00 P.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-United-States-104925",
- "fights": []
- },
- {
- "organization": "One Championship",
- "title": "One Championship - One Friday Fights 89",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Nov 29, 2024 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-89-105853",
+ "organization": "Bellator MMA",
+ "title": "Bellator Champions Series Dubai - Road to Dubai",
+ "location": "Coca-Cola Arena, Dubai, United Arab Emirates",
+ "date": "Jan 25, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/Bellator-Champions-Series-Dubai-Road-to-Dubai-105837",
  "fights": [
  {
  "fighter_one": {
- "name": "Marwin Quirante",
- "record": "5-1-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1724035749IMG_2810.jpeg"
+ "name": "Usman Nurmagomedov",
+ "record": "18-0-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20221014020409_Usman_Nurmagomedov.JPEG"
  },
  "fighter_two": {
- "name": "Musa Musazada",
- "record": "2-0-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter_large_default.jpg"
+ "name": "Paul Hughes",
+ "record": "13-1-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1722096315paulhughes.jpg"
  },
- "weight": "Flyweight"
+ "weight": "Lightweight"
  },
  {
  "fighter_one": {
- "name": "Imran Satiev",
- "record": "4-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20190131033111_4a5da3ccfead4454c8222b4eb6810783.JPG"
+ "name": "Vadim Nemkov",
+ "record": "17-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1650579447945_20220421061722_Vadim_Nemkov.JPG"
  },
  "fighter_two": {
- "name": "Jamoliddin Rakhmonjonov",
- "record": "4-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1714165856Jamoliddin_Rakhmonjonov.jpg"
+ "name": "Ante Delija",
+ "record": "24-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1660330760Ante_Delija.jpeg"
  },
- "weight": "Bantamweight"
+ "weight": "Heavyweight"
  }
  ]
- },
- {
- "organization": "One Championship",
- "title": "One Championship - One on Prime Video 29",
- "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Mar 7, 2025 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-29-104916",
- "fights": []
  },
  {
  "organization": "One Championship",
@@ -1635,6 +1271,205 @@
  ]
  },
  {
+ "organization": "Ultimate Fighting Championship (UFC)",
+ "title": "UFC on ESPN 63 - Covington vs. Buckley",
+ "location": "Amalie Arena, Tampa, Florida, United States",
+ "date": "Dec 14, 2024 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/UFC-on-ESPN-63-Covington-vs-Buckley-104113",
+ "fights": [
+ {
+ "fighter_one": {
+ "name": "Colby Covington",
+ "record": "17-4-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325093009_Colby_Covington_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Joaquin Buckley",
+ "record": "20-6-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220902033121_Joaquin_Buckley_ff.JPG"
+ },
+ "weight": "Welterweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Mackenzie Dern",
+ "record": "14-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648250835276_20220325072709_Mackenzie_Dern_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Amanda Ribas",
+ "record": "13-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648255324689_20220325084159_Amanda_Ribas_ff.JPG"
+ },
+ "weight": "Strawweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Cub Swanson",
+ "record": "29-14-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878242Cub_Swanson_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Billy Quarantillo",
+ "record": "18-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664493294Billy_Quarantillo_ff.jpg"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Vitor Petrino",
+ "record": "11-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1667506165Vitor_Petrino_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Dustin Jacoby",
+ "record": "19-9-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663883097Dustin_Jacoby_ff.jpg"
+ },
+ "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Adrian Yanez",
+ "record": "17-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1674243856Adrian_Yanez_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Daniel Marcos",
+ "record": "16-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369544Daniel_Marcos_ff.jpg"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Michael Johnson",
+ "record": "22-19-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648864605826_20220401095639_Michael_Johnson_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Ottman Azaitar",
+ "record": "13-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664488172Ottman_Azaitar_ff.jpg"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Joel Alvarez",
+ "record": "21-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648842856695_20220401035410_Joel_Alvarez_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Drakkar Klose",
+ "record": "15-2-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1714674840Drakkar_Klose_ff.jpg"
+ },
+ "weight": "Lightweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Sean Woodson",
+ "record": "12-1-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1687459274Sean_Woodson_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Fernando Padilla",
+ "record": "16-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1625257082749_1625257072Fernando_Padilla.jpg"
+ },
+ "weight": "Featherweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Manel Kape",
+ "record": "19-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648859047769_20220401082402_Manel_Kape_ff.JPG"
+ },
+ "fighter_two": {
+ "name": "Bruno Silva",
+ "record": "14-5-2",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648259375914_20220325094930_Bruno_Bulldog_Silva.JPG"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Navajo Stirling",
+ "record": "5-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1726027226Navajo_Stirling_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "George Tokkos",
+ "record": "10-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1654630820917_1598920994George_Tokkos.jpg"
+ },
+ "weight": "Light Heavyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Miles Johns",
+ "record": "15-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668806575Miles_Johns_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Felipe Lima",
+ "record": "13-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066246747_1718881718IMG_2683.png"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Miranda Maverick",
+ "record": "14-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663888701Miranda_Maverick_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Jamey- LynHorth",
+ "record": "7-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20241027080558_horthsq.PNG"
+ },
+ "weight": "Flyweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Davey Grant",
+ "record": "15-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369363Davey_Grant_ff.jpg"
+ },
+ "fighter_two": {
+ "name": "Ramon Taveras",
+ "record": "10-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1691818277318_1691818263Ramon_Taveras.jpg"
+ },
+ "weight": "Bantamweight"
+ },
+ {
+ "fighter_one": {
+ "name": "Josefine Lindgren Knutsson",
+ "record": "8-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1653314633041_1630883487Knutsson.jpg"
+ },
+ "fighter_two": {
+ "name": "Piera Rodriguez",
+ "record": "9-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878016Piera_Rodriguez_ff.jpg"
+ },
+ "weight": "Strawweight"
+ }
+ ]
+ },
+ {
+ "organization": "One Championship",
+ "title": "One Championship - One on Prime Video 36",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Nov 7, 2025 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-36-104924",
+ "fights": []
+ },
+ {
  "organization": "One Championship",
  "title": "One Championship - One 170: Bangkok",
  "location": "Impact Arena, Bangkok, Thailand",
@@ -1658,6 +1493,14 @@
  },
  {
  "organization": "One Championship",
+ "title": "One Championship - One on Prime Video 35",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Oct 3, 2025 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-35-104923",
+ "fights": []
+ },
+ {
+ "organization": "One Championship",
  "title": "One Championship - One on Prime Video 31",
  "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
  "date": "Jun 6, 2025 8:30 A.M.",
@@ -1666,10 +1509,34 @@
  },
  {
  "organization": "One Championship",
- "title": "One Championship - One on Prime Video 35",
+ "title": "One Championship - One: United States",
+ "location": "TBA, United States",
+ "date": "Dec 5, 2025 8:00 P.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-United-States-104925",
+ "fights": []
+ },
+ {
+ "organization": "One Championship",
+ "title": "One Championship - One on Prime Video 29",
  "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
- "date": "Oct 3, 2025 8:30 A.M.",
- "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-35-104923",
+ "date": "Mar 7, 2025 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-29-104916",
+ "fights": []
+ },
+ {
+ "organization": "One Championship",
+ "title": "One Championship - One on Prime Video 32",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Jul 11, 2025 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-32-104920",
+ "fights": []
+ },
+ {
+ "organization": "One Championship",
+ "title": "One Championship - One on Prime Video 28",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Feb 7, 2025 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-28-104915",
  "fights": []
  },
  {
@@ -1745,5 +1612,13 @@
  "weight": "Strawweight"
  }
  ]
+ },
+ {
+ "organization": "One Championship",
+ "title": "One Championship - One on Prime Video 33",
+ "location": "Lumpinee Boxing Stadium, Bangkok, Thailand",
+ "date": "Aug 1, 2025 8:30 A.M.",
+ "event_url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-33-104921",
+ "fights": []
  }
  ]
