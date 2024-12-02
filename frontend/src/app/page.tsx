@@ -23,7 +23,7 @@ export default function Home() {
   const [ufcOnly, setUfcOnly] = useState(false)
 
   useEffect(() => {
-    const url = 'mma_events.json'
+    const url = '/mma_events.json'
     axios.get(url).then((response) => {
       var eventsList = response.data
 
