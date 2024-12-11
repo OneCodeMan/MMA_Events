@@ -25,11 +25,10 @@ export default function Home() {
   useEffect(() => {
     const url = '/new_mma_events.json';
     axios.get(url).then((response) => {
-        console.log(response.data); // Log the response data
         var eventsList = response.data;
 
         const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date));
-        
+        console.log("Most recent: \n", sortedEventsListByMostRecent);
         // Make sure we only display dates in the future.
         const yesterdayDate = new Date(new Date().setDate(new Date().getDate() - 1));
         const filteredSortedEventsOnlyFutureDates: Event[] = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate);
