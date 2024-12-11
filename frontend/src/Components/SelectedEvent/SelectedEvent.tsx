@@ -14,13 +14,7 @@ export default function SelectedEvent({ event, goToEventPage, isSoonest }: Selec
         const parsedEventDate = new Date(dateString);
         const now = new Date();
 
-        if (parsedEventDate.toDateString() === now.toDateString()) {
-            return "TODAY";
-        } else if (parsedEventDate.getTime() - now.getTime() < 86400000) { // less than 1 day
-            return "TOMORROW";
-        } else {
-            return `In ${Math.ceil((parsedEventDate.getTime() - now.getTime()) / (1000 * 3600 * 24))} days`;
-        }
+        return "";
     }
 
     return (
