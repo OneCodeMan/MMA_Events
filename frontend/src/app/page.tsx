@@ -79,8 +79,6 @@ export default function Home() {
         <title>Upcoming MMA Events</title>
         <meta name="description" content="Discover the latest MMA events, including UFC fights, dates, and more." />
         <link rel="icon" href="/favicon.ico" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8518848174079347"
-        crossOrigin="anonymous"></script>
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-between p-8">
         <div>
@@ -156,20 +154,6 @@ export default function Home() {
             : <p>There are currently no upcoming events. This is weird!</p>}
           </div>
           <div>
-          <ins
-            className="adsbygoogle"
-            style={{ display: 'block' }}
-            data-ad-client="ca-pub-8518848174079347"
-            data-ad-slot="5961423670"
-            data-ad-format="auto"
-            data-full-width-responsive="true"
-          ></ins>
-          <script
-            async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-            data-ad-client="ca-pub-8518848174079347"
-            crossOrigin="anonymous"
-          ></script>
         </div>
         </div>
       </main>
