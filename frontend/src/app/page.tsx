@@ -11,9 +11,38 @@ import { Fight } from '@/Types/Fight'
 import { Fighter } from '@/Types/Fighter'
 import { Event } from '@/Types/Event'
 
-function parseDate(dateString: string) {
-  const parsedDate = new Date(dateString);
-  return parsedDate
+function parseDate(dateString: string): Date {
+  // Split the date string into its components
+  const dateParts = dateString.split(" ");
+  const month = dateParts[0]; // "Dec"
+  const day = dateParts[1]; // "14"
+  const year = dateParts[2]; // "2024"
+  const time = dateParts[3] + " " + dateParts[4]; // "8:00 P.M."
+
+  // Map month abbreviation to month number
+  const monthMap: { [key: string]: string } = {
+      Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05',
+      Jun: '06', Jul: '07', Aug: '08', Sep: '09', Oct: '10',
+      Nov: '11', Dec: '12'
+  };
+
+  // Format the date string into ISO format
+  const formattedDateString = `${year}-${monthMap[month]}-${day}T${convertTo24Hour(time)}`;
+  
+  return new Date(formattedDateString);
+}
+
+function convertTo24Hour(time: string): string {
+  const [hourMinute, modifier] = time.split(" ");
+  let [hour, minute] = hourMinute.split(":");
+  
+  if (modifier === "P.M." && hour !== "12") {
+      hour = (parseInt(hour) + 12).toString();
+  } else if (modifier === "A.M." && hour === "12") {
+      hour = "00";
+  }
+
+  return `${hour}:${minute}:00`;
 }
 
 export default function Home() {
