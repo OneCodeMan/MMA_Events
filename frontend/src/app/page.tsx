@@ -61,7 +61,7 @@ export default function Home() {
         // Make sure we only display dates in the future.
         const yesterdayDate = new Date(new Date().setDate(new Date().getDate() - 1));
         const filteredSortedEventsOnlyFutureDates: Event[] = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate);
-
+        console.log("Only future: \n", filteredSortedEventsOnlyFutureDates);
         setEvents(filteredSortedEventsOnlyFutureDates);
         setFilteredEvents(filteredSortedEventsOnlyFutureDates);
     }).catch(error => {
