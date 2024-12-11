@@ -1,5 +1,317 @@
 [
  {
+ "name": "Colby Covington",
+ "record": "17-4-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325093009_Colby_Covington_ff.JPG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Joaquin Buckley",
+ "record": "20-6-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220902033121_Joaquin_Buckley_ff.JPG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Cub Swanson",
+ "record": "29-14-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878242Cub_Swanson_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Billy Quarantillo",
+ "record": "18-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664493294Billy_Quarantillo_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Manel Kape",
+ "record": "19-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648859047769_20220401082402_Manel_Kape_ff.JPG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Bruno Silva",
+ "record": "14-5-2",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648259375914_20220325094930_Bruno_Bulldog_Silva.JPG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Vitor Petrino",
+ "record": "11-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1667506165Vitor_Petrino_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Dustin Jacoby",
+ "record": "19-9-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663883097Dustin_Jacoby_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Adrian Yanez",
+ "record": "17-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1674243856Adrian_Yanez_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Daniel Marcos",
+ "record": "16-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369544Daniel_Marcos_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Navajo Stirling",
+ "record": "5-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1726027226Navajo_Stirling_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "George Tokkos",
+ "record": "10-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1654630820917_1598920994George_Tokkos.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Michael Johnson",
+ "record": "22-19-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648864605826_20220401095639_Michael_Johnson_ff.JPG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Ottman Azaitar",
+ "record": "13-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664488172Ottman_Azaitar_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Joel Alvarez",
+ "record": "21-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648842856695_20220401035410_Joel_Alvarez_ff.JPG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Drakkar Klose",
+ "record": "15-2-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1714674840Drakkar_Klose_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Sean Woodson",
+ "record": "12-1-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1687459274Sean_Woodson_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Fernando Padilla",
+ "record": "16-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1625257082749_1625257072Fernando_Padilla.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Miles Johns",
+ "record": "15-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668806575Miles_Johns_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Felipe Lima",
+ "record": "13-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066246747_1718881718IMG_2683.png",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Miranda Maverick",
+ "record": "14-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663888701Miranda_Maverick_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Jamey- LynHorth",
+ "record": "7-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20241027080558_horthsq.PNG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Davey Grant",
+ "record": "15-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369363Davey_Grant_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Ramon Taveras",
+ "record": "10-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1691818277318_1691818263Ramon_Taveras.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Josefine Lindgren Knutsson",
+ "record": "8-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1653314633041_1630883487Knutsson.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Piera Rodriguez",
+ "record": "9-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878016Piera_Rodriguez_ff.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Kevin Borjas",
+ "record": "9-3-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220701034653_WhatsApp_Image_20220701_at_8_39_53_AM.JPEG",
+ "date": "Mar 29, 2025 8:00 P.M."
+ },
+ {
+ "name": "Ronaldo Rodriguez",
+ "record": "17-2-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1595134332luis-rodriguez.png",
+ "date": "Mar 29, 2025 8:00 P.M."
+ },
+ {
+ "name": "Edgar Chairez",
+ "record": "11-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1618032960164_1618032947Edgar_Chairez.jpg",
+ "date": "Mar 29, 2025 8:00 P.M."
+ },
+ {
+ "name": "C. J.Vergara",
+ "record": "12-6-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878156CJ_Vergara_ff.jpg",
+ "date": "Mar 29, 2025 8:00 P.M."
+ },
+ {
+ "name": "Dricus Du Plessis",
+ "record": "22-2-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20221209052747_Dricus_du_Plessis_ff.JPG",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Sean Strickland",
+ "record": "29-6-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20221118051240_Sean_Strickland_ff.JPG",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Weili Zhang",
+ "record": "25-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648775180987_20220331090615_Weili_Zhang_ff.JPG",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Tatiana Suarez",
+ "record": "10-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1673058650Tatiana_Suarez.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Jimmy Crute",
+ "record": "12-4-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1676081184Jimmy_Crute_ff.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Marcin Prachnio",
+ "record": "17-8-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663883289Marcin_Prachnio_ff.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Quillan Salkilld",
+ "record": "7-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720840946Quillan_Salkilld.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Anshul Jubli",
+ "record": "7-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664546173674_20220930095601_Anshul_Jubli.JPG",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Rei Tsuruya",
+ "record": "10-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719288071Rei_Tsuruya_ff.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Stewart Nicoll",
+ "record": "8-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720590813346_1720590801Stewart_Nicoll.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Justin Tafa",
+ "record": "7-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664601706Justin_Tafa_ff.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Tallison Teixeira",
+ "record": "7-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1726597238760_1726597228talisson.jpg",
+ "date": "Feb 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Amanda Lemos",
+ "record": "14-4-1 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220401053847_Amanda_Lemos_ff.JPG",
+ "date": "Mar 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "Iasmin Lucindo",
+ "record": "17-5-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230714054003_Iasmin_Lucindo_ff.JPG",
+ "date": "Mar 8, 2025 8:00 P.M."
+ },
+ {
+ "name": "William Gomis",
+ "record": "14-2-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20240502023200_William_Gomis_ff.JPG",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
+ "name": "Hyder Amil",
+ "record": "10-0-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220415041945_Hyder_Amil.JPG",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
+ "name": "Cody Brundage",
+ "record": "10-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664490663Cody_Brundage_ff.jpg",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
+ "name": "Ryan Loder",
+ "record": "7-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710011149Ryan_Loder.jpg",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
+ "name": "Lucas Almeida",
+ "record": "15-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663882413Lucas_Almeida_ff.jpg",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
+ "name": "Danny Silva",
+ "record": "9-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1659921819Danny_Silva1.png",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
+ "name": "Luana Carolina",
+ "record": "11-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1706905426546_20230317125528_Luana_Carolina_ff.JPG",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
+ "name": "Montana De La Rosa",
+ "record": "13-9-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648858871938_20220401082106_Montana_De_La_Rosa_ff.JPG",
+ "date": "Mar 1, 2025 8:00 P.M."
+ },
+ {
  "name": "Sergei Pavlovich",
  "record": "18-3-0 (Win-Loss-Draw)",
  "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230421032846_Sergei_Pavlovich_ff.JPG",
@@ -9,18 +321,6 @@
  "name": "Jairzinho Rozenstruik",
  "record": "15-5-0 (Win-Loss-Draw)",
  "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220331050912_Jairzinho_Rozenstruik_ff.JPG",
- "date": "Feb 1, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Feb 1, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
  "date": "Feb 1, 2025 8:00 P.M."
  },
  {
@@ -132,54 +432,6 @@
  "date": "Feb 1, 2025 8:00 P.M."
  },
  {
- "name": "Cody Brundage",
- "record": "10-6-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929063111_Cody_Brundage_ff.JPG",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
- "name": "Ryan Loder",
- "record": "7-1-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20240309020626_Ryan_Loder.JPG",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
- "name": "Lucas Almeida",
- "record": "15-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663882413Lucas_Almeida_ff.jpg",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
- "name": "Danny Silva",
- "record": "9-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1659921819Danny_Silva1.png",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
- "name": "Luana Carolina",
- "record": "11-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1706905426546_20230317125528_Luana_Carolina_ff.JPG",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
- "name": "Montana De La Rosa",
- "record": "13-9-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648858871938_20220401082106_Montana_De_La_Rosa_ff.JPG",
- "date": "Mar 1, 2025 8:00 P.M."
- },
- {
  "name": "Abdoul Abdouraguimov",
  "record": "18-1-0 (Win-Loss-Draw)",
  "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20240128050033_b36aab4fc0688341f355135d71549849.PNG",
@@ -192,15 +444,63 @@
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
+ "name": "Patrick Habirora",
+ "record": "4-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733238994324_1718368559habirora.jpg",
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
+ "name": "Catalin Safta",
+ "record": "4-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Mickael Groguhe",
+ "record": "5-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710213055358_20240306110659_Fqy9ulBWwAsGkfU.JPEG",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Mamadou Lamine Sene",
+ "record": "5-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733414948811_1733414934laminesene.png",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Alexander Luster",
+ "record": "9-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733237893036_1733237867themedia_hq_1718015681_3387283504046153568_5783310238.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Lewis McGrillen-Evans",
+ "record": "9-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733237985408_1733237972mcgrillen.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Connor Hughes",
+ "record": "10-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733238288472_1733238274hughes.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Jakub Kaszuba",
+ "record": "13-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733238331295_1733238312kuba.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Paulina Wisniewska",
+ "record": "4-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733238106071_1733238085paulina.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Valentina Scatizzi",
+ "record": "3-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733238969515_1733238962scatzzi.png",
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
@@ -212,43 +512,19 @@
  {
  "name": "Florim Zendeli",
  "record": "7-1-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1656951759Schermata_2022-07-04_alle_6.22.05_PM.png",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733237774071_1733237742florimzendeli_1730156255_3489126015083531915_7725636116.jpg",
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "Connor Hughes",
- "record": "10-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716050885199_20240212051411_oie_12231331G2iba3iG.PNG",
+ "name": "Mathys Duragrin",
+ "record": "3-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "Jakub Kaszuba",
- "record": "13-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1727556376032_20240306110045_72283ad9dbbe05a2cbb60bffe95c5356.PNG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Alexander Luster",
- "record": "9-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1715300205Alexander_Luster.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Lewis McGrillen-Evans",
- "record": "9-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1727556427942_1679401825Lewis_McGrillen-Evans.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Paulina Wisniewska",
- "record": "4-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1715300399Paulina_Wisniewska.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Valentina Scatizzi",
- "record": "3-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20231027105616_f0291d926aaed5a47a29ff4130b2ed8e_1.PNG",
+ "name": "Yassin Chtatou",
+ "record": "5-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733239431644_1733239417chtatou.jpg",
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
@@ -264,15 +540,21 @@
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "Chris Curtis",
- "record": "31-11-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220401031117_Chris_Curtis_ff.JPG",
- "date": "Jan 11, 2025 8:00 P.M."
+ "name": "Mehdi Saadi",
+ "record": "6-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733239567259_1733239558saadi.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "Lionel Kamooze",
- "record": "2-1-0",
+ "name": "Mahio Campanella",
+ "record": "6-1-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
+ "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Atilla Kobas",
+ "record": "2-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1580245649120_1580245636Atilla_Kobas.png",
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
@@ -282,76 +564,16 @@
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "Patrick Habirora",
- "record": "4-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1718368567262_1718368559habirora.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Catalin Safta",
+ "name": "Claudio Pacella",
  "record": "4-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733239841038_1733239818pacella.jpg",
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "Roman Kopylov",
- "record": "13-3-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230114073027_Roman_Kopylov_ff.JPG",
- "date": "Jan 11, 2025 8:00 P.M."
- },
- {
- "name": "Dylan Salvador",
- "record": "6-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1643129600Schermata_2022-01-25_alle_5.52.29_PM.png",
+ "name": "Oscar Ownsworth",
+ "record": "8-3-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1733240064204_1733240052ownsworth.jpg",
  "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Unknown Fighter",
- "record": "--",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Mathys Duragrin",
- "record": "3-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Yassin Chtatou",
- "record": "5-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1727461824315_1727461814Yassin_Chtatou.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Jan 11, 2025 8:00 P.M."
- },
- {
- "name": "Mehdi Saadi",
- "record": "6-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710212780711_20240126120532_Fv3MX7iXwAYfM0v.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Jan 11, 2025 8:00 P.M."
- },
- {
- "name": "Mahio Campanella",
- "record": "6-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Santiago Ponzinibbio",
- "record": "29-8-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664493362Santiago_Ponzinibbio_ff.jpg",
- "date": "Jan 11, 2025 8:00 P.M."
  },
  {
  "name": "Eoin Sheridan",
@@ -360,16 +582,118 @@
  "date": "Dec 14, 2024 8:00 P.M."
  },
  {
- "name": "Carlston Harris",
- "record": "19-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1687459068Carlston_Harris_ff.jpg",
- "date": "Jan 11, 2025 8:00 P.M."
- },
- {
  "name": "Brice Belghazi",
  "record": "1-0-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
  "date": "Dec 14, 2024 8:00 P.M."
+ },
+ {
+ "name": "Jan Blachowicz",
+ "record": "29-10-1 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220331051015_Jan_Blachowicz_ff.JPG",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Carlos Ulberg",
+ "record": "11-1-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929054802_Carlos_Ulberg_ff.JPG",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Marcin Tybura",
+ "record": "26-9-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648836769005_20220401021242_Marcin_Tybura_ff.JPG",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Mick Parkin",
+ "record": "10-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1657564603Michael_Parkin.jpg",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Christian Leroy Duncan",
+ "record": "10-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1616157878161507255_4086664408020362_8311949316348907989_o.jpg",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Andrey Pulyaev",
+ "record": "9-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1682289162Andrey_Pulyaev.jpg",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Oumar Sy",
+ "record": "11-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1710360249275_20240313040402_Snapinsta_app_296393699_1525221041261407_1944420744493347897_n_1080.JPG",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Alonzo Menifield",
+ "record": "15-5-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878195Alonzo_Menifield_ff.jpg",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Shauna Bannon",
+ "record": "6-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1678795172009_1678795091Shauna_Bannon.jpg",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Puja Tomar",
+ "record": "9-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1578167909344_1578167894puja_tomar.png",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Molly McCann",
+ "record": "14-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1707022552354_20220331082124_Molly_McCann_ff.JPG",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Istela Nunes",
+ "record": "6-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668808670Istela_Nunes_ff.jpg",
+ "date": "Mar 22, 2025 8:00 P.M."
+ },
+ {
+ "name": "Mackenzie Dern",
+ "record": "14-5-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325072741_Mackenzie_Dern_ff.JPG",
+ "date": "Jan 11, 2025 8:00 P.M."
+ },
+ {
+ "name": "Amanda Ribas",
+ "record": "13-5-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325084221_Amanda_Ribas_ff.JPG",
+ "date": "Jan 11, 2025 8:00 P.M."
+ },
+ {
+ "name": "Chris Curtis",
+ "record": "31-11-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648840265733_20220401031058_Chris_Curtis_ff.JPG",
+ "date": "Jan 11, 2025 8:00 P.M."
+ },
+ {
+ "name": "Roman Kopylov",
+ "record": "13-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1673742617Roman_Kopylov_ff.jpg",
+ "date": "Jan 11, 2025 8:00 P.M."
+ },
+ {
+ "name": "Santiago Ponzinibbio",
+ "record": "29-8-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664493362Santiago_Ponzinibbio_ff.jpg",
+ "date": "Jan 11, 2025 8:00 P.M."
+ },
+ {
+ "name": "Carlston Harris",
+ "record": "19-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1687459068Carlston_Harris_ff.jpg",
+ "date": "Jan 11, 2025 8:00 P.M."
  },
  {
  "name": "Abdul Razak Alhassan",
@@ -480,6 +804,18 @@
  "date": "Jan 11, 2025 8:00 P.M."
  },
  {
+ "name": "Ihor Potieria",
+ "record": "20-7-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1701476358387_20220929055220_Ihor_Potieria_ff.JPG",
+ "date": "Jan 11, 2025 8:00 P.M."
+ },
+ {
+ "name": "Marco Tulio",
+ "record": "12-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720840222411_1535786333marco.jpg",
+ "date": "Jan 11, 2025 8:00 P.M."
+ },
+ {
  "name": "Ernesta Kareckaite",
  "record": "5-1-1",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1635542357ERNESTA-KARECKAITE.png",
@@ -492,99 +828,51 @@
  "date": "Jan 11, 2025 8:00 P.M."
  },
  {
- "name": "Shauna Bannon",
- "record": "6-1-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1678795091Shauna_Bannon.jpg",
- "date": "Mar 22, 2025 8:00 P.M."
+ "name": "Islam Makhachev",
+ "record": "26-1-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220401034240_Islam_Makhachev_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "Puja Tomar",
- "record": "9-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1578167894puja_tomar.png",
- "date": "Mar 22, 2025 8:00 P.M."
+ "name": "Arman Tsarukyan",
+ "record": "22-3-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220401035313_Arman_Tsarukyan_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Merab Dvalishvili",
+ "record": "18-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648844898903_20220401042811_Merab_Dvalishvili_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Umar Nurmagomedov",
+ "record": "18-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648851533407_20220401061847_Umar_Nurmagomedov_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
  },
  {
  "name": "Jiri Prochazka",
- "record": "30-5-1 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220331052001_Jiri_Prochazka_ff.JPG",
+ "record": "30-5-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648761592778_20220331051947_Jiri_Prochazka_ff.JPG",
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
  "name": "Jamahal Hill",
- "record": "12-2-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220804044217_Jamahal_Hill_ff.JPG",
+ "record": "12-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1659645729Jamahal_Hill_ff.jpg",
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
+ "name": "Beneil Dariush",
+ "record": "22-6-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648842027194_20220401034019_Beneil_Dariush_ff.JPG",
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Johnny Walker",
- "record": "21-9-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066409651_20220331052417_Johnny_Walker_ff.JPG",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Bogdan Guskov",
- "record": "16-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1562011575IMG_20190701_194817_335.jpg",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Jailton Almeida",
- "record": "21-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664497723Jailton_Almeida_ff.jpg",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Serghei Spivac",
- "record": "17-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648852297566_20220401063131_Sergey_Spivak_ff.JPG",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Grant Dawson",
- "record": "22-2-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648861047547_20220401085721_Grant_Dawson_ff.JPG",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Diego Ferreira",
- "record": "19-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1639418133417_1639418099WhatsApp_Image_2021-12-13_at_7.02.07_AM.jpeg",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Rinya Nakamura",
- "record": "9-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664547330830_20220930101521_Rinya_Nakamura.JPG",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Muin Gafurov",
- "record": "19-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1697784850453_1426519452Gafurov.jpg",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Ailin Perez",
- "record": "11-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668807668Ailin_Perez_ff.jpg",
- "date": "Jan 18, 2025 8:00 P.M."
- },
- {
- "name": "Karol Rosa",
- "record": "18-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648250494501_20220325072125_Karol_Rosa_ff.JPG",
+ "name": "Renato Carneiro",
+ "record": "20-5-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664488263Renato_Moicano_ff.jpg",
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
@@ -600,15 +888,15 @@
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "Zachary Reese",
- "record": "8-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1686342342Zach_Reese.jpg",
+ "name": "Johnny Walker",
+ "record": "21-9-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066409651_20220331052417_Johnny_Walker_ff.JPG",
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "Sedriques Dumas",
- "record": "10-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1657565787Sedriques_Dumas.jpg",
+ "name": "Bogdan Guskov",
+ "record": "16-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1562011575IMG_20190701_194817_335.jpg",
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
@@ -624,6 +912,66 @@
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
+ "name": "Jailton Almeida",
+ "record": "21-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664497723Jailton_Almeida_ff.jpg",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Serghei Spivac",
+ "record": "17-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648852297566_20220401063131_Sergey_Spivak_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Zachary Reese",
+ "record": "8-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1686342342Zach_Reese.jpg",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Sedriques Dumas",
+ "record": "10-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1657565787Sedriques_Dumas.jpg",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Grant Dawson",
+ "record": "22-2-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648861047547_20220401085721_Grant_Dawson_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Diego Ferreira",
+ "record": "19-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1639418133417_1639418099WhatsApp_Image_2021-12-13_at_7.02.07_AM.jpeg",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Karol Rosa",
+ "record": "18-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648250494501_20220325072125_Karol_Rosa_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Ailin Perez",
+ "record": "11-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668807668Ailin_Perez_ff.jpg",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Rinya Nakamura",
+ "record": "9-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664547330830_20220930101521_Rinya_Nakamura.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
+ "name": "Muin Gafurov",
+ "record": "19-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1697784850453_1426519452Gafurov.jpg",
+ "date": "Jan 18, 2025 8:00 P.M."
+ },
+ {
  "name": "Ricky Turcios",
  "record": "12-4-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664490727Ricky_Turcios2_ff.jpg",
@@ -636,291 +984,51 @@
  "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "Alexandre Pantoja",
- "record": "28-5-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325082011_Alexandre_Pantoja_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
+ "name": "Tagir Ulanbekov",
+ "record": "15-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648852668528_20220401063743_Tagir_Ulanbekov_ff.JPG",
+ "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "Kai Asakura",
- "record": "21-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20231231090241_Kai_Asakura.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
+ "name": "Clayton Carpenter",
+ "record": "8-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1676662495Clayton_Carpenter_ff.jpg",
+ "date": "Jan 18, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Dec 7, 2024 8:00 P.M."
+ "name": "Gregory Rodrigues",
+ "record": "16-5-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929073933_Gregory_Rodrigues_ff.JPG",
+ "date": "Feb 15, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Shavkat Rakhmonov",
- "record": "18-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668810614Shavkat_Rakhmonov_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Ian Garry",
- "record": "15-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1708042846Ian_Garry_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Ciryl Gane",
- "record": "12-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1722694338581_1572606202Ciryl_Gane_20190807_MR_0013.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Alexander Volkov",
- "record": "38-10-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066654016_20220325081825_Alexander_Volkov_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Bryce Mitchell",
- "record": "16-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648843751423_20220401040905_Bryce_Mitchell_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Kron Gracie",
- "record": "5-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664602355Kron_Gracie_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Nate Landwehr",
- "record": "18-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664602854Nate_Landwehr_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Doo Ho Choi",
- "record": "15-4-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1481443476choi.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Dominick Reyes",
- "record": "13-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648259956081_20220325095910_Dominick_Reyes_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Anthony Smith",
- "record": "38-20-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1631570165Anthony-Smith.png",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Vicente Luque",
- "record": "22-10-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648252009720_20220325074644_Vicente_Luque_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Themba Gorimbo",
- "record": "14-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716079677Themba_Gorimbo_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Movsar Evloev",
- "record": "18-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648843996605_20220401041310_Movsar_Evloev_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Aljamain Sterling",
- "record": "24-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648255164478_20220325083918_Aljamain_Sterling_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Randy Brown",
- "record": "19-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648862956095_20220401092909_Randy_Brown_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Bryan Battle",
- "record": "11-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1683944183396_20221208013638_Bryan_Battle_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Chris Weidman",
- "record": "16-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1601326498498_1601326487Chris_Weidman.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Eryk Anders",
- "record": "16-8-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664492175Eryk_Anders_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Cody Durden",
- "record": "17-6-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885182Cody_Durden_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Joshua Van",
- "record": "11-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1716563467955_1660600851joshua-van.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Michael Chiesa",
- "record": "17-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648772265144_20220331081739_Michael_Chiesa_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Max Griffin",
- "record": "20-10-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1722691089910_20220922062054_Max_Griffin_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Clay Guida",
- "record": "38-24-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648859919064_20220401083833_Clay_Guida_ff.JPG",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Chase Hooper",
- "record": "14-3-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885352Chase_Hooper_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Kennedy Nzechukwu",
- "record": "13-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668806986Kennedy_Nzechukwu_ff.jpg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Lukasz Brzeski",
- "record": "9-5-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1712442949186_1712442934IMG_2532.jpeg",
- "date": "Dec 7, 2024 8:00 P.M."
- },
- {
- "name": "Kevin Borjas",
- "record": "9-3-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220701034653_WhatsApp_Image_20220701_at_8_39_53_AM.JPEG",
- "date": "Mar 29, 2025 8:00 P.M."
- },
- {
- "name": "Ronaldo Rodriguez",
- "record": "17-2-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1595134332luis-rodriguez.png",
- "date": "Mar 29, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Mar 29, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Mar 29, 2025 8:00 P.M."
- },
- {
- "name": "Edgar Chairez",
- "record": "11-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1618032960164_1618032947Edgar_Chairez.jpg",
- "date": "Mar 29, 2025 8:00 P.M."
- },
- {
- "name": "C. J.Vergara",
- "record": "12-6-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878156CJ_Vergara_ff.jpg",
- "date": "Mar 29, 2025 8:00 P.M."
- },
- {
- "name": "Jimmy Crute",
- "record": "12-4-1 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230210090635_Jimmy_Crute_ff.JPG",
- "date": "Feb 8, 2025 8:00 P.M."
- },
- {
- "name": "Marcin Prachnio",
+ "name": "Jared Cannonier",
  "record": "17-8-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220922054818_Marcin_Prachnio_ff.JPG",
- "date": "Feb 8, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Feb 8, 2025 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Feb 8, 2025 8:00 P.M."
- },
- {
- "name": "Quillan Salkilld",
- "record": "7-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720840946Quillan_Salkilld.jpg",
- "date": "Feb 8, 2025 8:00 P.M."
- },
- {
- "name": "Anshul Jubli",
- "record": "7-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664546173674_20220930095601_Anshul_Jubli.JPG",
- "date": "Feb 8, 2025 8:00 P.M."
- },
- {
- "name": "Rei Tsuruya",
- "record": "10-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719288071Rei_Tsuruya_ff.jpg",
- "date": "Feb 8, 2025 8:00 P.M."
- },
- {
- "name": "Stewart Nicoll",
- "record": "8-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1720590813346_1720590801Stewart_Nicoll.jpg",
- "date": "Feb 8, 2025 8:00 P.M."
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20221216051732_Jared_Cannonier_ff.JPG",
+ "date": "Feb 15, 2025 8:00 P.M."
  },
  {
  "name": "Nazim Sadykhov",
- "record": "9-1-1 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220711013403_Nazim_Sadykhov.JPG",
+ "record": "9-1-1",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1657560817Nazim_Sadykhov.jpg",
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
  "name": "Ismael Bonfim",
- "record": "20-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220929075952_Ismael_Bonfim_ff.JPG",
+ "record": "20-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664495979Ismael_Bonfim_ff.jpg",
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
+ "name": "Jacob Malkoun",
+ "record": "8-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878120Jacob_Malkoun_ff.jpg",
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
+ "name": "Rodolfo Vieira",
+ "record": "10-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664490682Rodolfo_Vieira_ff.jpg",
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
@@ -936,15 +1044,15 @@
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
- "name": "Jacob Malkoun",
- "record": "8-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878120Jacob_Malkoun_ff.jpg",
+ "name": "Edmen Shahbazyan",
+ "record": "13-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664493257Edmen_Shahbazyan_ff.jpg",
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
- "name": "Rodolfo Vieira",
- "record": "10-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664490682Rodolfo_Vieira_ff.jpg",
+ "name": "Dylan Budka",
+ "record": "7-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1650068457599_20220415082052_Dylan_Budka.JPG",
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
@@ -984,22 +1092,28 @@
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
+ "name": "Billy Goff",
+ "record": "9-3-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1584072752215_1584072740Billy_Goff.jpg",
+ "date": "Feb 15, 2025 8:00 P.M."
+ },
+ {
+ "name": "Nikolay Veretennikov",
+ "record": "12-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1483904491454_1479511519img.jpg",
+ "date": "Feb 15, 2025 8:00 P.M."
+ },
+ {
  "name": "Carli Judice",
  "record": "3-2-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1695326215Carli_Judice.jpg",
  "date": "Feb 15, 2025 8:00 P.M."
  },
  {
- "name": "Juliana Miller",
- "record": "3-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689371102Juliana_Miller_ff.jpg",
+ "name": "Unknown Fighter",
+ "record": "--",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
  "date": "Feb 15, 2025 8:00 P.M."
- },
- {
- "name": "Colby Covington",
- "record": "17-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220325093009_Colby_Covington_ff.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
  },
  {
  "name": "Brendan Allen",
@@ -1014,15 +1128,15 @@
  "date": "Feb 22, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
+ "name": "Edson Barboza",
+ "record": "24-12-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648260262441_20220325100417_Edson_Barboza_ff.JPG",
  "date": "Feb 22, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
+ "name": "Steve Garcia",
+ "record": "17-5-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885334Steve_Garcia_ff.jpg",
  "date": "Feb 22, 2025 8:00 P.M."
  },
  {
@@ -1032,28 +1146,22 @@
  "date": "Feb 22, 2025 8:00 P.M."
  },
  {
- "name": "Joaquin Buckley",
- "record": "20-6-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220902033121_Joaquin_Buckley_ff.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
  "name": "Macy Chiasson",
  "record": "10-3-0",
  "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648771585348_20220331080620_Macy_Chiasson_ff.JPG",
  "date": "Feb 22, 2025 8:00 P.M."
  },
  {
- "name": "Valmir Galiev",
- "record": "9-1-1 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20180524041616_1.JPG",
- "date": "Dec 6, 2024 8:30 A.M."
+ "name": "Jean Silva",
+ "record": "14-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719288203Jean_Silva_ff.jpg",
+ "date": "Feb 22, 2025 8:00 P.M."
  },
  {
- "name": "Avazbek Kholmirzaev",
- "record": "7-2-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1706799695Avazbek_Kholmirzaev-Hero-1200x1165-1-768x746.jpg",
- "date": "Dec 6, 2024 8:30 A.M."
+ "name": "Melsik Baghdasaryan",
+ "record": "8-2-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663877008Melsik_Baghdasaryan_ff.jpg",
+ "date": "Feb 22, 2025 8:00 P.M."
  },
  {
  "name": "Ion Cutelaba",
@@ -1068,52 +1176,16 @@
  "date": "Feb 22, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Edson Barboza",
- "record": "24-12-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648260262441_20220325100417_Edson_Barboza_ff.JPG",
+ "name": "Islam Dulatov",
+ "record": "11-1-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1728780679177_20240126012005_cs_1692965303626.PNG",
  "date": "Feb 22, 2025 8:00 P.M."
  },
  {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Steve Garcia",
- "record": "17-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663885334Steve_Garcia_ff.jpg",
+ "name": "Adam Fugitt",
+ "record": "10-4-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1645120286195_1645120269Adam_Fugitt.jpg",
  "date": "Feb 22, 2025 8:00 P.M."
- },
- {
- "name": "Mackenzie Dern",
- "record": "14-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648250835276_20220325072709_Mackenzie_Dern_ff.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Amanda Ribas",
- "record": "13-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648255324689_20220325084159_Amanda_Ribas_ff.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Christian Lee",
- "record": "17-4-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1448600003Christian_Lee.jpg",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "Cub Swanson",
- "record": "29-14-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878242Cub_Swanson_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
  },
  {
  "name": "Usman Nurmagomedov",
@@ -1122,70 +1194,10 @@
  "date": "Jan 25, 2025 8:00 P.M."
  },
  {
- "name": "Billy Quarantillo",
- "record": "18-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664493294Billy_Quarantillo_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
  "name": "Paul Hughes",
  "record": "13-1-0 (Win-Loss-Draw)",
  "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1722096315paulhughes.jpg",
  "date": "Jan 25, 2025 8:00 P.M."
- },
- {
- "name": "Alibeg Rasulov",
- "record": "15-0-0 (Win-Loss-Draw)",
- "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1524416614whZUcKqAPO8.jpg",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Jan 25, 2025 8:00 P.M."
- },
- {
- "name": "Vitor Petrino",
- "record": "11-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1667506165Vitor_Petrino_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Jan 25, 2025 8:00 P.M."
- },
- {
- "name": "Jarred Brooks",
- "record": "21-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/15013698321DX_2741.jpg",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "Dustin Jacoby",
- "record": "19-9-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663883097Dustin_Jacoby_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Reece McLaren",
- "record": "17-9-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1554021557228_1473328353reece_mclaren.JPG",
- "date": "Dec 6, 2024 8:30 A.M."
  },
  {
  "name": "Vadim Nemkov",
@@ -1194,154 +1206,10 @@
  "date": "Jan 25, 2025 8:00 P.M."
  },
  {
- "name": "Adrian Yanez",
- "record": "17-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1674243856Adrian_Yanez_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Yuya Wakamatsu",
- "record": "17-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1674891928801_1524111104wakamatsuy.jpg",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "Daniel Marcos",
- "record": "16-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369544Daniel_Marcos_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Gilbert Nakatani",
- "record": "8-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1693893263655_20230905015356_DXM_3828.JPG",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "Ante Delija",
- "record": "24-6-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1660330760Ante_Delija.jpeg",
+ "name": "Corey Anderson",
+ "record": "18-6-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648258346530_20220325093221_Corey_Anderson_ff.JPG",
  "date": "Jan 25, 2025 8:00 P.M."
- },
- {
- "name": "Shamil Gasanov",
- "record": "11-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1705025500Shamil_Gasanov.jpg",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "Halil Amir",
- "record": "10-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1636423110075_1636423098Halil_Amir.jpg",
- "date": "Dec 6, 2024 8:30 A.M."
- },
- {
- "name": "Michael Johnson",
- "record": "22-19-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648864605826_20220401095639_Michael_Johnson_ff.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Ottman Azaitar",
- "record": "13-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1664488172Ottman_Azaitar_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Joel Alvarez",
- "record": "21-3-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648842856695_20220401035410_Joel_Alvarez_ff.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Drakkar Klose",
- "record": "15-2-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1714674840Drakkar_Klose_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Sean Woodson",
- "record": "12-1-1",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1687459274Sean_Woodson_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Fernando Padilla",
- "record": "16-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1625257082749_1625257072Fernando_Padilla.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Manel Kape",
- "record": "19-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648859047769_20220401082402_Manel_Kape_ff.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Bruno Silva",
- "record": "14-5-2",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1648259375914_20220325094930_Bruno_Bulldog_Silva.JPG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Navajo Stirling",
- "record": "5-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1726027226Navajo_Stirling_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "George Tokkos",
- "record": "10-4-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1654630820917_1598920994George_Tokkos.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Miles Johns",
- "record": "15-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1668806575Miles_Johns_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Felipe Lima",
- "record": "13-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1719066246747_1718881718IMG_2683.png",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Miranda Maverick",
- "record": "14-5-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663888701Miranda_Maverick_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Jamey- LynHorth",
- "record": "7-1-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20241027080558_horthsq.PNG",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Davey Grant",
- "record": "15-7-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1689369363Davey_Grant_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Ramon Taveras",
- "record": "10-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1691818277318_1691818263Ramon_Taveras.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Josefine Lindgren Knutsson",
- "record": "8-0-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1653314633041_1630883487Knutsson.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
- },
- {
- "name": "Piera Rodriguez",
- "record": "9-2-0",
- "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/1663878016Piera_Rodriguez_ff.jpg",
- "date": "Dec 14, 2024 8:00 P.M."
  },
  {
  "name": "Fabricio Andrade",
@@ -1356,6 +1224,42 @@
  "date": "Jan 24, 2025 8:30 A.M."
  },
  {
+ "name": "Joshua Pacio",
+ "record": "21-4-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20220401050339_Joshua_Pacio_ff.PNG",
+ "date": "Feb 20, 2025 8:00 P.M."
+ },
+ {
+ "name": "Jarred Brooks",
+ "record": "21-4-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20170729041658_1DX_2741.JPG",
+ "date": "Feb 20, 2025 8:00 P.M."
+ },
+ {
+ "name": "Seung Chul Lee",
+ "record": "8-1-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20231130084729_Seung_Chul_Lee.JPG",
+ "date": "Dec 13, 2024 8:30 A.M."
+ },
+ {
+ "name": "Van Nam Pham",
+ "record": "4-0-0 (Win-Loss-Draw)",
+ "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20240920111020_Pham_Van_NamHero1200x11651.JPG",
+ "date": "Dec 13, 2024 8:30 A.M."
+ },
+ {
+ "name": "Yu Gao",
+ "record": "3-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter_small_default.jpg",
+ "date": "Dec 13, 2024 8:30 A.M."
+ },
+ {
+ "name": "Zemfira Alieva",
+ "record": "3-0-0",
+ "avatar_url": "https://www.sherdog.com//image_crop/44/44/_images/fighter/20191008100342_isadsadv.JPG",
+ "date": "Dec 13, 2024 8:30 A.M."
+ },
+ {
  "name": "Kai Tang",
  "record": "19-2-0 (Win-Loss-Draw)",
  "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/1524953772ppp.jpg",
@@ -1365,18 +1269,6 @@
  "name": "Akbar Abdullaev",
  "record": "11-0-0 (Win-Loss-Draw)",
  "avatar_url": "https://www.sherdog.com//image_crop/200/300/_images/fighter/20230330081416_Akbar_Abdullaev.PNG",
- "date": "Jan 10, 2025 8:30 A.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
- "date": "Jan 10, 2025 8:30 A.M."
- },
- {
- "name": "",
- "record": "",
- "avatar_url": "https://www.sherdog.com/",
  "date": "Jan 10, 2025 8:30 A.M."
  },
  {

@@ -15,7 +15,7 @@ func createJSONFromEvents(events []Event, jsonFileName string) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println("Generated events of length", len(events))
+	fmt.Println("Generated json items of length", len(events))
 	os.WriteFile(jsonFileName, content, 0644)
 }
 

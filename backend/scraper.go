@@ -240,7 +240,9 @@ func runMMAScraper() {
 						FightDate: eventDateString,
 					}
 
-					activeFighters = append(activeFighters, activeFighterOne)
+					if activeFighterOne.Name != "" {
+						activeFighters = append(activeFighters, activeFighterOne)
+					}
 
 					fighterTwoName := el.ChildText("div.fighter_list.right div.fighter_result_data span[itemprop=name]")
 					sanitizedFighterTwoName := separateAtNextCapital(fighterTwoName)
@@ -263,7 +265,9 @@ func runMMAScraper() {
 						FightDate: eventDateString,
 					}
 
-					activeFighters = append(activeFighters, activeFighterTwo)
+					if activeFighterTwo.Name != "" {
+						activeFighters = append(activeFighters, activeFighterTwo)
+					}
 
 					weightClass := el.ChildText("span.weight_class")
 					fmt.Printf("Weight class: %s\n\n\n", weightClass)
@@ -334,7 +338,7 @@ func createJSONFromActiveFighters(activeFighters []ActiveFighter, jsonFileName s
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println("Generated events of length", len(activeFighters))
+	fmt.Println("Generated fighters of length", len(activeFighters))
 	os.WriteFile(jsonFileName, content, 0644)
 }
 
