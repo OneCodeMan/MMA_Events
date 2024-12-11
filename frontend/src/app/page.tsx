@@ -23,20 +23,24 @@ export default function Home() {
   const [ufcOnly, setUfcOnly] = useState(false)
 
   useEffect(() => {
-    const url = '/new_mma_events.json'
+    const url = '/new_mma_events.json';
     axios.get(url).then((response) => {
-      var eventsList = response.data
+        console.log(response.data); // Log the response data
+        var eventsList = response.data;
 
-      const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date))
-  
-      // Make sure we only display dates in the future.
-      const yesterdayDate = new Date(new Date().setDate(new Date().getDate() - 1))
-      const filteredSortedEventsOnlyFutureDates: Event[] = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate)
+        const sortedEventsListByMostRecent = sortBy(eventsList, (event) => parseDate(event.date));
+        
+        // Make sure we only display dates in the future.
+        const yesterdayDate = new Date(new Date().setDate(new Date().getDate() - 1));
+        const filteredSortedEventsOnlyFutureDates: Event[] = sortedEventsListByMostRecent.filter((event) => parseDate(event.date) > yesterdayDate);
 
-      setEvents(filteredSortedEventsOnlyFutureDates)
-      setFilteredEvents(filteredSortedEventsOnlyFutureDates)
+        setEvents(filteredSortedEventsOnlyFutureDates);
+        setFilteredEvents(filteredSortedEventsOnlyFutureDates);
+    }).catch(error => {
+        console.error("Error fetching events:", error); // Log any errors
     });
-  }, []);
+}, []);
+
 
   function nextEvent() {
     let newSelectedEvent = (selectedEventIndex + 1) < events.length ? (selectedEventIndex + 1) : selectedEventIndex
